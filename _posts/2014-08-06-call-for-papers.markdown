@@ -44,6 +44,7 @@ __General__
 * Material Design in Web
 * ChromeOS (apps development)
 * Web Performance (tools, techniques, approaches)
+* Go
 
 
 ##### Cloud
@@ -53,15 +54,15 @@ __General__
   * App Engine
   * Storages (SQL, NoSQL, BigData)
   * APIs
-* Go (as a language for a Cloud Ready Apps)
+* Go
 
 
-#### Please submit your proposals [here](http://bit.ly/1unsT7g).
+#### Please submit your proposals [here](http://j.mp/1odkbc8).
 __Deadline__ is September 30, 2014
 
 __Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
 
-The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2014.<br/>
+The program committee picks the most interesting talk proposals and informs the selected submitters until September 30, 2014.<br/>
 
 #### Any questions? 
-Email organizers at [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua)
+Email organizers at [organizers@gdgnl.org](mailto:organizers@gdgnl.org)
