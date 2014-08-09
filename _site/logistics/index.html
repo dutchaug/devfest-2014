@@ -7,29 +7,29 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
     <meta name="author" content="Oleh Zasadnyy, GDG Lviv">
-    <meta name="description" content="GDG DevFest NL is part of a series of GDG DevFest events all around the world">
+    <meta name="description" content="GDG DevFest is a set of events all around the world">
     <meta name="keywords" content="event, gdg, devfest, google, programming, android, chrome, developers, lviv">
-    <link rel="canonical" href="http://dutchaug.github.io">
+    <link rel="canonical" href="http://gdg-ukraine.github.io">
     <!-- Social: Google+ / Schema.org  -->
     <meta itemprop="name" content="Get ready to DevFest">
-    <meta itemprop="description" content="GDG DevFest NL is part of a series of GDG DevFest events all around the world">
-    <meta itemprop="image" content="http://dutchaug.github.io/zeppelin/img/seo/sharing-google-plus.png">
+    <meta itemprop="description" content="GDG DevFest is a set of events all around the world">
+    <meta itemprop="image" content="http://gdg-ukraine.github.io/zeppelin/img/seo/sharing-google-plus.png">
     <!-- Social: Twitter -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@DevFestNL">
+    <meta name="twitter:site" content="@DevFest">
     <meta name="twitter:title" content="Get ready to DevFest">
-    <meta name="twitter:description" content="GDG DevFest NL is part of a series of GDG DevFest events all around the world">
-    <meta name="twitter:image:src" content="http://dutchaug.github.io/zeppelin/img/seo/sharing-twitter.png">
+    <meta name="twitter:description" content="GDG DevFest is a set of events all around the world">
+    <meta name="twitter:image:src" content="http://gdg-ukraine.github.io/zeppelin/img/seo/sharing-twitter.png">
     <!-- Social: Facebook / Open Graph -->
     <meta property="og:title" content="Get ready to DevFest" /> 
-    <meta property="og:site_name" content="GDG DevFest Netherlands" /> 
+    <meta property="og:site_name" content="GDG DevFest Season 2014" /> 
     <meta property="og:type" content="website" /> 
-    <meta property="og:url" content="http://dutchaug.github.io" />
-    <meta property="og:image" content="http://dutchaug.github.io/zeppelin/img/seo/sharing-facebook.png" />
-    <meta property="og:description" content="GDG DevFest NL is part of a series of GDG DevFest events all around the world" /> 
+    <meta property="og:url" content="http://gdg-ukraine.github.io" />
+    <meta property="og:image" content="http://gdg-ukraine.github.io/zeppelin/img/seo/sharing-facebook.png" />
+    <meta property="og:description" content="GDG DevFest is a set of events all around the world" /> 
     
 
-    <title>Get ready to DevFest &bull; GDG DevFest Netherlands</title>
+    <title>Get ready to DevFest &bull; GDG DevFest Season 2014</title>
     <link rel="shortcut icon" href="/zeppelin/img/favicons/favicon.ico">
     <link rel="apple-touch-icon" sizes="152x152" href="/zeppelin/img/favicons/apple-touch-icon-152x152.png">
     <link rel="apple-touch-icon" sizes="144x144" href="/zeppelin/img/favicons/apple-touch-icon-144x144.png">
@@ -47,16 +47,8 @@
     <meta name="msapplication-TileColor" content="#2b5797">
     <meta name="msapplication-TileImage" content="/zeppelin/img/favicons/mstile-144x144.png">
     <meta name="msapplication-config" content="/zeppelin/img/favicons/browserconfig.xml">
-
-    <link href='http://fonts.googleapis.com/css?family=Roboto:100,300,400,500&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
-
-    <!-- Bootstrap -->
-	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-    <!-- TODC Bootstrap theme -->
-<!--    <link href="/zeppelin/css/todc-bootstrap.min.css" rel="stylesheet">-->
-    <link href="/zeppelin/css/animate.min.css" rel="stylesheet">
-    <link href="/zeppelin/css/waves.min.css" rel="stylesheet">
-    <link href="/zeppelin/css/style.min.css" rel="stylesheet">
+    
+    <link href="/zeppelin/css/main.min.css" rel="stylesheet"> 
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -68,7 +60,7 @@
 
 
 <body>
-    <div id="preloader">
+    <div id="preloader" class="preloader">
         <div class="loader-gplus"></div>
     </div>
 
@@ -77,16 +69,18 @@
             <div class="st-content">
 
                  <!-- Begin Top Section -->
-<section id="top-section">
-    <div class="gradient-overlay"></div>
+<section id="top-section" class="top-section image-section">
+    <div class="overlay gradient-overlay"></div>
 
-    <header id="top-header" class="col-lg-10 col-sm-12">
-    <svg id="menu-trigger" class="icon icon-menu visible-xs" viewBox="0 0 32 32" data-effect="st-effect">
+    <header id="top-header" class="top-header">
+    <svg id="menu-trigger" class="menu-trigger icon icon-menu visible-xs" viewBox="0 0 32 32" data-effect="st-effect">
         <use xlink:href="/zeppelin/img/sprites/sprites.svg#icon-menu"></use>
     </svg>
-    <a href="/zeppelin/" id="logo-header" class="logo-header logo-light"></a>
+    <a href="/zeppelin/" id="logo-header" class="logo-header">
+        <div class="logo logo-light"></div>
+    </a>
     <nav class="st-menu st-effect" id="menu">
-        <div class="logo-navbar logo-dark visible-xs"></div>
+        <div class="logo-navbar logo logo-dark visible-xs"></div>
         <ul>
             <li><a  href="/zeppelin/">Home</a>
             </li>
@@ -106,11 +100,11 @@
         <ul id="bottom-navlinks" class="bottom-navlinks visible-xs">
             <!-- <li><a href="#">Buy tickets</a>
             </li> -->
-            <li><a href="http://j.mp/1odkbc8" target="_blank">Become a speaker</a>
+            <li><a href="http://bit.ly/dfua-c4p" target="_blank">Become a speaker</a>
             </li>
         </ul>
-        <span id="buy-tickets-button"  class="btn btn-primary waves-element waves-button waves-light waves-will-raise pull-right hidden-xs hidden-sm hidden">
-            <a href="http://j.mp/1odkbc8" target="_blank">Become a speaker</a>
+        <span id="right-nav-button" class="right-nav-button right-nav-button-hidden btn btn-primary waves-element waves-button waves-light waves-will-raise pull-right hidden-xs hidden-sm">
+            <a href="http://bit.ly/dfua-c4p" target="_blank">Become a speaker</a>
         </span>
     </nav>
 </header>
@@ -124,9 +118,8 @@
 <!-- End Top Section -->
 
  <!-- Begin Find Way-->
-<a id="findyourway"/>
-<section id="find-way">    
-    <div id="canvas-map"></div>
+<section id="find-way" class="find-way">    
+    <div id="canvas-map" class="canvas-map"></div>
     <div class="content-wrapper text-left">
         <h3 class="animated hiding" data-animation="fadeInUp" data-delay="0">Find your way here</h3>
         <div class="map-card col-lg-3 col-md-4 col-sm-6 col-xs-12">
@@ -137,7 +130,7 @@
                 </svg>
             </div>
             <div class="location-result">
-                <span id="result-name"></span>
+                <span id="result-name" class="result-name"></span>
                 <span>to DevFest</span>
                 <svg id="direction-cancel" class="icon icon-cross" viewBox="0 0 30 32">
                     <use xlink:href="/zeppelin/img/sprites/sprites.svg#icon-cross"></use>
@@ -151,7 +144,7 @@
                         <use xlink:href="/zeppelin/img/sprites/sprites.svg#icon-flag"></use>
                     </svg>
                     <span>Distance</span>
-                    <span id="distance" class="details-result pull-right"></span>
+                    <span id="distance" class="detailed-result pull-right"></span>
                 </li>
                 <li>
                     <div id="mode">
@@ -164,7 +157,7 @@
                             <option value="BICYCLING">BICYCLING</option>
                             <option value="TRANSIT">TRANSIT</option>
                         </select>
-                        <span id="estimateTime" class="details-result pull-right"></span>
+                        <span id="estimateTime" class="detailed-result pull-right"></span>
                     </div>
                     <a id="find-flight" href="https://google.com/flights" class="pull-right hidden" target="_blank">Find Flight</a>
                 </li>
@@ -175,9 +168,9 @@
 <!-- End Find Way -->
 
  <!-- Begin Direction Details-->
-<section id="direction-details">
+<section id="direction-details" class="direction-details">
     <div class="content-wrapper">
-        <section class="image-section" style="background-image: url('/zeppelin/img/direction-details.jpg');">
+        <section class="image-section standart-height" style="background-image: url('/zeppelin/img/direction-details.jpg');">
             <h3>Get around Lviv</h3>
         </section>
         <div class="row">
@@ -252,17 +245,17 @@
     </div>
 </section>
 <!-- End Direction Details --> <!-- Begin Footer -->
-<footer id="footer">
+<footer id="footer" class="footer">
 	<div class="row">
 		<div class="pull-left col-md-6 col-xs-6">
-			<div class="g-plusone" data-size="medium" data-annotation="inline" data-width="300" data-href="http://dutchaug.github.io"></div>
+			<div class="g-plusone" data-size="medium" data-annotation="inline" data-width="300" data-href="http://gdg-ukraine.github.io"></div>
 		</div>
-		<div class="logo-footer logo-gray pull-right"></div>
+		<div class="logo logo-footer logo-gray pull-right"></div>
 	</div>
 	<div class="row">
 		<div class="col-md-4 col-sm-4 col-xs-6">
+			<h5>Links</h5>
 			<ul>
-				<h5>Links</h5>
 				<li><a href="http://gdg.org.ua" target="_blank">GDG.org.ua</a>
 				</li>
 				<li><a href="https://developers.google.com" target="_blank">Google Developers</a>
@@ -270,21 +263,21 @@
 			</ul>
 			<ul class="social-links">
 				<li>
-					<a href="https://plus.google.com/b/113182948271879290904" target="_blank">
+					<a href="https://plus.google.com/b/102444623953913144164" target="_blank">
 						<svg class="icon icon-google-plus" viewBox="0 0 30 32">
 							<use xlink:href="/zeppelin/img/sprites/sprites.svg#icon-google-plus"></use>
 						</svg>
 					</a>
 				</li>
 				<li>
-					<a href="https://twitter.com/intent/user?screen_name=DevFestNL" target="_blank">
+					<a href="https://twitter.com/intent/user?screen_name=GDGLviv" target="_blank">
 						<svg class="icon icon-twitter" viewBox="0 0 30 32">
 							<use xlink:href="/zeppelin/img/sprites/sprites.svg#icon-twitter"></use>
 						</svg>
 					</a>
 				</li>
 				<li>
-					<a href="https://www.facebook.com/groups/dutchaug/?fref=ts" target="_blank">
+					<a href="https://facebook.com/GDGLviv" target="_blank">
 						<svg class="icon icon-facebook" viewBox="0 0 30 32">
 							<use xlink:href="/zeppelin/img/sprites/sprites.svg#icon-facebook"></use>
 						</svg>
@@ -302,7 +295,7 @@
 		<div class="col-md-4 col-sm-4 col-xs-6">
 			<h5>Contacts</h5>
 			<ul>
-				<li><a href="mailto:info@dutchaug.org" target="_blank">info@dutchaug.org</a>
+				<li><a href="mailto:lviv@gdg.org.ua" target="_blank">lviv@gdg.org.ua</a>
 				</li>
 			</ul>
 		</div>
@@ -356,16 +349,10 @@
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places,geometry"></script>
     <script>
         var googleMaps = 'logistics';
-        var eventPlace = new google.maps.LatLng(52.35664, 4.956872);
-        var centerMap = new google.maps.LatLng(52.35664, 4.956872);
-        var mobileCenterMap = new google.maps.LatLng(52.35664, 4.956872);
+        var eventPlace = new google.maps.LatLng(49.843237,24.028751);
+        var centerMap = new google.maps.LatLng(49.056728, 3.117289);
+        var mobileCenterMap = new google.maps.LatLng(48.335365, 23.711648);
         var icon = '/zeppelin/img/svg/map-marker.svg';
-        $(document).ready(function () {
-            var bodyColor = $('body').css('color');
-            if (bodyColor != 'rgb(51, 51, 51)') {
-                $("head").prepend('<link rel="stylesheet" href="/zeppelin/css/bootstrap.min.css">');
-            }
-        });
     </script>
     <script src="/zeppelin/js/scripts.min.js"></script>
 </body>
