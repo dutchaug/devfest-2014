@@ -17,9 +17,9 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 # Location block
 eventLocationName: "Science Park Amsterdam, University of Amsterdam"
 eventLocationAddress: "Science Park 402, 1098 XH Amsterdam"
-eventStartTime: "2014-11-11T10:00"
+eventStartTime: "2014-10-04T10:00"
 eventStartTimeHumanReadable: "10:00"
-eventEndTime: "2014-11-11T20:00"
+eventEndTime: "2014-10-04T20:00"
 eventEndTimeHumanReadable: "20:00"
 eventPlaceCoordinates: "52.35664, 4.956872"
 mapCenterCoordinates: "52.35664, 4.956872"
@@ -48,7 +48,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Header
-eventDate: "October 11th, 2014"
+eventDate: "October 4th, 2014"
 typeoutTextValues: '"", "Season", "Amsterdam", "Rotterdam", "Leiden"'
 
 # About Event Block
