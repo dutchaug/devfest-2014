@@ -9,7 +9,7 @@ title: GDG DevFest Netherlands
 email: info@dutchaug.org
 description: "GDG DevFest NL is part of a series of GDG DevFest events all around the world"
 baseurl: "/zeppelin"
-url: "http://dutchaug.github.io"
+url: "https://dutchaug.github.io"
 permalink: /blog/:title
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -18,19 +18,19 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 organizerName: "GDG Lviv"
 organizerAlternateName: "Google Developer Group Lviv"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "info@dutchaug.org"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "https://www.dutchaug.org"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, gdg, devfestnl, google, programming, android, chrome, developers"
+twitterAccount: "@devfestnl"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
+c4pUrl: "http://j.mp/1odkbc8"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -44,19 +44,19 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  - {link: "https://developers.google.com", text: "Developers"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://j.mp/1odkbc8", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://j.mp/1odkbc8", text: "Become a speaker"}
 
 # Hero Block
 heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
+eventDate: "October 4th, 2014"
+typeoutTextValues: '"", "Season", "Amsterdam", "The_Netherlands"'
 heroButtons:
- - {url: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {url: "http://j.mp/1odkbc8", text: "Become a speaker"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About GDG DevFestNL"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lot's of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -103,10 +103,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 
 # Tweets Feed Block
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
-##Tweets feed
-#twitterHashTag: "devfestnl"
+twitterHashTag: "devfestnl"
 ##twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
@@ -161,26 +158,23 @@ ticketsOffers:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-20T10:00"
   validThrough: "2014-10-23T23:59"
-# Header
-#eventDate: "October 4th, 2014"
-#typeoutTextValues: '"", "Season", "Amsterdam", "Rotterdam", "Leiden"'
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {link: "http://localhost:4000/zeppelin/feed.xml", icon: "rss"}
+ - {link: "https://plus.google.com/b/113182948271879290904", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=DevFestNL", icon: "twitter"}
+ - {link: "https://www.facebook.com/groups/dutchaug/?fref=ts", icon: "facebook"}
+# - {link: "http://localhost:4000/zeppelin/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "http://www.gdgnl.org/", text: "Google Developer Groups Netherlands"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:info@dutchaug.org", text: "info@dutchaug.org"}
  -
   title: "FAQ"
   links:
@@ -200,10 +194,6 @@ thumbnailsFolder: /img/speakers/
 # Team Block
 teamBlockTitle: "About us"
 aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
-# Footer
-#gplusFollowUsUrl: "https://plus.google.com/b/113182948271879290904"
-#twitterFollowUsUrl: "https://twitter.com/intent/user?screen_name=DevFestNL"
-#fbFollowUsUrl: "https://www.facebook.com/groups/dutchaug/?fref=ts"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"

@@ -3,8 +3,8 @@
   <channel>
     <title>GDG DevFest Netherlands</title>
     <description>GDG DevFest NL is part of a series of GDG DevFest events all around the world</description>
-    <link>http://dutchaug.github.io/zeppelin/</link>
-    <atom:link href="http://dutchaug.github.io/zeppelin/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://dutchaug.github.io/zeppelin/</link>
+    <atom:link href="https://dutchaug.github.io/zeppelin/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Call for Papers</title>
@@ -83,8 +83,8 @@
 &lt;p&gt;Email organizers at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#111;&amp;#114;&amp;#103;&amp;#097;&amp;#110;&amp;#105;&amp;#122;&amp;#101;&amp;#114;&amp;#115;&amp;#064;&amp;#103;&amp;#100;&amp;#103;&amp;#110;&amp;#108;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&quot;&gt;&amp;#111;&amp;#114;&amp;#103;&amp;#097;&amp;#110;&amp;#105;&amp;#122;&amp;#101;&amp;#114;&amp;#115;&amp;#064;&amp;#103;&amp;#100;&amp;#103;&amp;#110;&amp;#108;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Aug 2014 23:00:00 +0200</pubDate>
-        <link>http://dutchaug.github.io/zeppelin/blog/call-for-papers</link>
-        <guid isPermaLink="true">http://dutchaug.github.io/zeppelin/blog/call-for-papers</guid>
+        <link>https://dutchaug.github.io/zeppelin/blog/call-for-papers</link>
+        <guid isPermaLink="true">https://dutchaug.github.io/zeppelin/blog/call-for-papers</guid>
       </item>
     
   </channel>
