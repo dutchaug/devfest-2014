@@ -1,10 +1,10 @@
 - 
-  group: "Main organizer"
+  group: "The Dutch Android User Group"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "The Dutch Android User Group", description: "The Dutch Android User Group - Open and volunteer geek community", link: "https://www.dutchaug.org", imageUrl: "dutchandroid.jpeg"}
 - 
-  group: "Co-organizers"
+  group: "The Google Developer Groups Netherlands"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.png"}
-    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkassy.png"}
-    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.png"}
+    - {name: "The Google Developer Groups Netherlands", description: "GDGNL - Open and volunteer geek community", link: "https://sites.google.com/site/dutchgtug/", imageUrl: "gdg-nl.png"}
+#    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkassy.png"}
+#    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.png"}

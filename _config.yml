@@ -29,10 +29,6 @@ socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
-# Documents
-c4pUrl: "http://j.mp/1odkbc8"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
-
 
 # Navigation
 navigationLinks:
@@ -116,7 +112,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 organizersTitle: "Organizers"
 # Documents
 c4pUrl: "http://j.mp/1odkbc8"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "mailto:info@dutchaug.org"
 
 # Subscribe Block
 subscribeTitle: "Subscribe for updates"
