@@ -6,8 +6,8 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Site settings
 title: GDG DevFest Netherlands
-email: info@dutchaug.org
-description: "GDG DevFest NL is part of a series of GDG DevFest events all around the world"
+email: info@devfest.nl
+description: "GDG DevFest Netherlands is part of a series of GDG DevFest events all around the world"
 baseurl: "/zeppelin"
 url: "https://dutchaug.github.io"
 permalink: /blog/:title
@@ -15,15 +15,15 @@ googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
+organizerName: "GDG Dutch Android User Group"
+organizerAlternateName: "The Dutch Android User Group"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "info@dutchaug.org"
+organizerEmail: "info@devfest.nl"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://www.dutchaug.org"
 
 # Head
-metaKeywords: "event, gdg, devfestnl, google, programming, android, chrome, developers"
+metaKeywords: "event, gdg, devfestnl, devfest, google, programming, android, chrome, angularjs, polymer, go, developer, developers"
 twitterAccount: "@devfestnl"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -41,13 +41,15 @@ navigationLinks:
  - {link: "https://developers.google.com", text: "Developers"}
 bottomNavigationLinks:
  - {link: "http://j.mp/1odkbc8", text: "Become a speaker"}
+ - {link: "http://devfestnl14.eventbrite.com/", text: "Reserve your seat"}
 rightNavigationButtons:
  - {link: "http://j.mp/1odkbc8", text: "Become a speaker"}
+ - {link: "http://devfestnl14.eventbrite.com/", text: "Reserve your seat"}
 
 # Hero Block
 heroTitle: "GDG DevFest <typeout> 2014"
 eventDate: "October 4th, 2014"
-typeoutTextValues: '"", "Season", "Amsterdam", "The_Netherlands"'
+typeoutTextValues: '"", "Season", "Amsterdam", "The Netherlands"'
 heroButtons:
  - {url: "http://j.mp/1odkbc8", text: "Become a speaker"}
 
@@ -60,10 +62,10 @@ aboutBlock:
 
 # Statistic Block
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "250", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "8", specialCharacter: "+", info: "hours", detail: "of pure Google technologies and fun!"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "national and international"}
+ - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus many workshops"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -92,7 +94,7 @@ mapMobileCenterCoordinates: "52.35664, 4.953872"
 # Venue Block
 venueBlockTitle: "Venue"
 venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueFeatures: ["3 huge cinema screens", "Dolby Digital Surround EX audio system", "Located directly in the city center"]
 ## Logistics Location Block
 #logisticsMapCenterCoordinates: "52.35664, 4.956872"
 #logisticsMapMobileCenterCoordinates: "52.35664, 4.956872"
@@ -129,28 +131,10 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 buyTicketsTitle: "Pricetable"
 ticketsOffers:
  -
-  name: "1 day"
-  price: "$100"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
- -
-  name: "3 days"
-  price: "$180"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
- -
-  name: "2 days"
-  price: "$150"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  name: "Standard"
+  price: "FREE!"
+  buyButtonLink: "http://devfestnl14.eventbrite.com/"
+  buyButtonText: "Reserve your seat!"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-20T10:00"
   validThrough: "2014-10-23T23:59"
@@ -165,12 +149,13 @@ footerBlocks:
  -
   title: "Links"
   links:
+   - {link: "http://www.dutchaug.org/", text: "The Dutch Android User Group"}
    - {link: "http://www.gdgnl.org/", text: "Google Developer Groups Netherlands"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:info@dutchaug.org", text: "info@dutchaug.org"}
+   - {link: "mailto:info@devfest.nl", text: "info@devfest.nl"}
  -
   title: "FAQ"
   links:
@@ -181,10 +166,10 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "devfestnl"
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 thumbnailsFolder: /img/speakers/
 
 # Team Block
@@ -197,11 +182,11 @@ logisticsMapCenterCoordinates: "49.056728, 3.117289"
 logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
 
 # Logistics Direction Details Block
-directionDetailsTitle: "Get around Lviv"
+directionDetailsTitle: "Get around Amsterdam"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "By car", information: 'Science Park Amsterdam is easily reachable by car. <a href="http://www.amsterdamsciencepark.nl/location-facilities/directions/directions-by-car/">More info</a>'}
+ - {title: "Public Transit", information: 'There's a train station, metro station and a bus stop nearby. <a href="http://www.amsterdamsciencepark.nl/location-facilities/directions/directions-by-public-transport/">More info</a>'}
+ - {title: "Parking", information: 'Lot's of parking spaces nearby. Aim for parking P3 and you will be fine. <a href="http://www.amsterdamsciencepark.nl/location-facilities/directions/parking/">More info</a>'}
 directionDetailsWideCards: 
  -
   title: "Questions?"
