@@ -185,9 +185,9 @@ logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
 directionDetailsTitle: "Get around Amsterdam"
 directionDetailsCards:
  - {title: "By car", information: 'Science Park Amsterdam is easily reachable by car. <a href="http://www.amsterdamsciencepark.nl/location-facilities/directions/directions-by-car/">More info</a>'}
- - {title: "Public Transit", information: 'There's a train station, metro station and a bus stop nearby. <a href="http://www.amsterdamsciencepark.nl/location-facilities/directions/directions-by-public-transport/">More info</a>'}
- - {title: "Parking", information: 'Lot's of parking spaces nearby. Aim for parking P3 and you will be fine. <a href="http://www.amsterdamsciencepark.nl/location-facilities/directions/parking/">More info</a>'}
-directionDetailsWideCards: 
+ - {title: "Public Transit", information: 'There is a train station, metro station and a bus stop nearby. <a href="http://www.amsterdamsciencepark.nl/location-facilities/directions/directions-by-public-transport/">More info</a>'}
+ - {title: "Parking", information: 'Lots of parking spaces nearby. Aim for parking P3 and you will be fine. <a href="http://www.amsterdamsciencepark.nl/location-facilities/directions/parking/">More info</a>'}
+directionDetailsWideCards:
  -
   title: "Questions?"
   subCards:
@@ -198,7 +198,7 @@ directionDetailsWideCards:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   - 
+   -
     title: "Registration"
     links:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
