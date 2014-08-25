@@ -36,6 +36,7 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/sponsors/", text: "Sponsors"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {link: "https://developers.google.com", text: "Developers"}
@@ -52,6 +53,7 @@ eventDate: "October 4th, 2014"
 typeoutTextValues: '"", "Season", "Amsterdam", "The Netherlands"'
 heroButtons:
  - {url: "http://j.mp/1odkbc8", text: "Become a speaker"}
+ - {url: "http://devfestnl14.eventbrite.com/", text: "Reserve your seat"}
 
 # About Block
 aboutTitle: "About GDG DevFestNL"
@@ -71,33 +73,33 @@ statisticBlock:
 latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 0
 rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Science Park Amsterdam, University of Amsterdam"
+eventLocationName: "The Faculty of Science"
 eventLocationLink: "http://www.amsterdamsciencepark.nl/"
-eventStreetAddress: "Science Park 402"
+eventStreetAddress: "Science Park 904"
 eventAddressLocality: "Amsterdam"
 eventAddressLocalityRegion: "Amsterdam"
 eventPostalCode: "1098 XH"
 eventAddressCountry: "The Netherlands"
 eventStartTime: "2014-10-04T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-04T20:00"
-eventPlaceCoordinates: "52.35664, 4.956872"
-mapCenterCoordinates: "52.35664, 4.953872"
-mapMobileCenterCoordinates: "52.35664, 4.953872"
+eventDoorTime: "09:30"
+eventEndTime: "2014-10-04T18:00"
+eventPlaceCoordinates: "52.3544534,4.9553595"
+mapCenterCoordinates: "52.3544534,4.9553595"
+mapMobileCenterCoordinates: "52.3544534,4.9553595"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Dolby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Science Park 904"
+venueFeatures: ["The Faculty of Science", "A leading centre of academic research and education!", "Located in the heart of science in Amsterdam"]
 ## Logistics Location Block
-#logisticsMapCenterCoordinates: "52.35664, 4.956872"
-#logisticsMapMobileCenterCoordinates: "52.35664, 4.956872"
+#logisticsMapCenterCoordinates: "52.3544534,4.9553595"
+#logisticsMapMobileCenterCoordinates: "52.3544534,4.9553595"
 
 # Tweets Feed Block
 tweetsFeedTitle: "What's Up?"
@@ -105,7 +107,7 @@ twitterHashTag: "devfestnl"
 ##twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
-partnersTitle: "Partners"
+partnersTitle: "Sponsors"
 partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe
 #subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
@@ -114,7 +116,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 organizersTitle: "Organizers"
 # Documents
 c4pUrl: "http://j.mp/1odkbc8"
-c4sponsorsUrl: "mailto:info@dutchaug.org"
+c4sponsorsUrl: "mailto:info@devfest.nl"
 
 # Subscribe Block
 subscribeTitle: "Subscribe for updates"
@@ -128,14 +130,14 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 #socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Buy Tickets Block
-buyTicketsTitle: "Pricetable"
+buyTicketsTitle: "Free entrance!"
 ticketsOffers:
  -
-  name: "Standard"
-  price: "FREE!"
+  name: "Reserve one of 250 seats"
+  price: "&euro;0,-"
   buyButtonLink: "http://devfestnl14.eventbrite.com/"
-  buyButtonText: "Reserve your seat!"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  buyButtonText: "Reserve your seat now!"
+  ticketContentList: ["The GDG Dutch Android User Group and GDG Netherlands join forces in bringing you a single day event in the style of a true Google DevFest. This means interesting talks and hands-on labs, brought to you by national and international leaders using Google technology, in an informal setting, an inspirational environment with lots of room for open discussion and time to meet!"]
   validFrom: "2014-08-20T10:00"
   validThrough: "2014-10-23T23:59"
 
@@ -178,15 +180,15 @@ aboutUs: "Google's services have become synonymous with simple things online. Nu
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "52.3544534,4.9553595"
+logisticsMapMobileCenterCoordinates: "52.3544534,4.9553595"
 
 # Logistics Direction Details Block
 directionDetailsTitle: "Get around Amsterdam"
 directionDetailsCards:
- - {title: "By car", information: 'Science Park Amsterdam is easily reachable by car. <a href="http://www.amsterdamsciencepark.nl/location-facilities/directions/directions-by-car/">More info</a>'}
+ - {title: "By car", information: 'The Faculty of Science (Science Park 904) is easily reachable by car. <a href="http://www.amsterdamsciencepark.nl/location-facilities/directions/directions-by-car/">More info</a>'}
  - {title: "Public Transit", information: 'There is a train station, metro station and a bus stop nearby. <a href="http://www.amsterdamsciencepark.nl/location-facilities/directions/directions-by-public-transport/">More info</a>'}
- - {title: "Parking", information: 'Lots of parking spaces nearby. Aim for parking P3 and you will be fine. <a href="http://www.amsterdamsciencepark.nl/location-facilities/directions/parking/">More info</a>'}
+ - {title: "Parking", information: 'Lots of parking spaces nearby. Aim for parking P3 and walk from there. <a href="http://www.amsterdamsciencepark.nl/location-facilities/directions/parking/">More info</a>'}
 directionDetailsWideCards:
  -
   title: "Questions?"

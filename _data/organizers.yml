@@ -6,5 +6,3 @@
   group: "The Google Developer Groups Netherlands"
   elements: 
     - {name: "The Google Developer Groups Netherlands", description: "GDGNL - Open and volunteer geek community", link: "https://sites.google.com/site/dutchgtug/", imageUrl: "gdg-nl.jpg"}
-#    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkassy.png"}
-#    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.png"}

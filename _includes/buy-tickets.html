@@ -13,11 +13,11 @@
 						<h4 class="amount">{{ ticketsOffer.price }}</h4>
 					</div>
 					<div class="pricing-content">
-						<ul>
+                        <p>
 							{% for listItem in ticketsOffer.ticketContentList %}
-							<li>{{ listItem }}</li>
+							{{ listItem }}
 							{% endfor %}
-						</ul>
+                        </p>
 						<a class="button" href="{{ ticketsOffer.buyButtonLink }}" target="_blank">{{ ticketsOffer.buyButtonText }}</a>
 					</div>
 				</div>
