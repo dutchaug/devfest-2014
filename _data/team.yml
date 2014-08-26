@@ -47,6 +47,7 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+PaulLammertsma"}
     - {name: "twitter", link: "https://twitter.com/officesunshine"}
+    - {name: "site", link: "http://pixplicity.com/"}
     #- {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 5
