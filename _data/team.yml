@@ -29,7 +29,8 @@
   id: 3
   name: "Hugo"
   surname: "Visser"
-  title: "GDG Dutch Android User Group"
+  title: "Android Program Committee"
+  org: "GDG Dutch Android User Group"
   thumbnailUrl: HugoVisser.jpg
   team: true
   ribbon: 
@@ -96,41 +97,41 @@
   surname: "Lammertsma"
   title: "Android Program Committee"
   thumbnailUrl: PaulLammertsma.jpg
-  subTeam: true
+  team: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+PaulLammertsma"}
     - {name: "twitter", link: "https://twitter.com/officesunshine"}
     - {name: "site", link: "http://pixplicity.com/"}
     #- {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
-  id: 51
-  name: "Hugo"
-  surname: "Visser"
-  title: "Android Program Committee"
-  thumbnailUrl: HugoVisser.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+HugoVisser"}
-    - {name: "twitter", link: "https://twitter.com/botteaap"}
-    - {name: "site", link: "http://littlerobots.nl/"}
-- 
   id: 52
   name: "Kars"
   surname: "Veling"
   title: "Google Cloud Program Committee"
   thumbnailUrl: KarsVeling.jpg
-  subTeam: true
+  team: true
   social: 
     - {name: "google-plus", link: "https://google.com/+KarsVeling"}
     - {name: "twitter", link: "https://twitter.com/karsveling"}
     - {name: "site", link: "http://q42.nl/"}
+- 
+  id: 152
+  name: "Gregor"
+  surname: "Doornbosch"
+  title: "Designer"
+  thumbnailUrl: GregorDoornbosch.png
+  team: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/100255295197785178782"}
+    - {name: "twitter", link: "https://twitter.com/DoornboschG"}
+    - {name: "site", link: "http://qbus.nl/"}
 - 
   id: 53
   name: "Ernest"
   surname: "Micklei"
   title: "GDG NL"
   thumbnailUrl: ErnestMicklei.jpg
-  subTeam: true
+  team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
