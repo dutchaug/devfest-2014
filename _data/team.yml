@@ -13,16 +13,17 @@
     - {name: "github", link: "https://github.com/dennisg"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Johan"
+  surname: "Pelgrim"
+  title: "GDG Dutch Android User Group"
+  thumbnailUrl: JohanPelgrim.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "google-plus", link: "https://google.com/+JohanPelgrim"}
+    - {name: "twitter", link: "https://twitter.com/jowipe"}
+    - {name: "github", link: "https://github.com/jpelgrim"}
 - 
   id: 2
   name: "Ostap"
