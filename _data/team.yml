@@ -1,9 +1,10 @@
 - 
-  id: 0
+  id: 1
   name: "Dennis"
   surname: "Geurts"
   title: "GDG Dutch Android User Group"
   thumbnailUrl: DennisGeurts.png
+  bio: "Temp is here just temporary."
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -12,7 +13,7 @@
     - {name: "twitter", link: "https://twitter.com/dennisgggg"}
     - {name: "github", link: "https://github.com/dennisg"}
 - 
-  id: 1
+  id: 2
   name: "Johan"
   surname: "Pelgrim"
   title: "GDG Dutch Android User Group"
@@ -25,7 +26,7 @@
     - {name: "twitter", link: "https://twitter.com/jowipe"}
     - {name: "github", link: "https://github.com/jpelgrim"}
 - 
-  id: 2
+  id: 3
   name: "Hugo"
   surname: "Visser"
   title: "GDG Dutch Android User Group"
@@ -38,7 +39,20 @@
     - {name: "twitter", link: "https://twitter.com/botteaap"}
     - {name: "site", link: "http://littlerobots.nl/"}
 - 
-  id: 3
+  id: 4
+  name: "Wiebe"
+  surname: "Elsinga"
+  title: "GDG Dutch Android User Group"
+  thumbnailUrl: WiebeElsinga.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+WiebeElsinga"}
+    - {name: "twitter", link: "https://twitter.com/welsinga"}
+    - {name: "site", link: "http://littlerobots.nl/"}
+- 
+  id: 5
   name: "Matt"
   surname: "Feigal"
   title: "Google NL"
@@ -77,21 +91,6 @@
     - {name: "twitter", link: "https://twitter.com/adben"}
     - {name: "site", link: "http://iprofs.nl/"}
 - 
-  id: 6
-  name: "Ernest"
-  surname: "Micklei"
-  title: "GDG NL"
-  thumbnailUrl: ErnestMicklei.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ErnestMicklei"}
-    - {name: "twitter", link: "https://twitter.com/ernestmicklei"}
-    - {name: "site", link: "http://bol.com/"}
-    - {name: "github", link: "https://github.com/emicklei"}
-    
-- 
   id: 50
   name: "Paul"
   surname: "Lammertsma"
@@ -125,3 +124,18 @@
     - {name: "google-plus", link: "https://google.com/+KarsVeling"}
     - {name: "twitter", link: "https://twitter.com/karsveling"}
     - {name: "site", link: "http://q42.nl/"}
+- 
+  id: 53
+  name: "Ernest"
+  surname: "Micklei"
+  title: "GDG NL"
+  thumbnailUrl: ErnestMicklei.jpg
+  subTeam: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ErnestMicklei"}
+    - {name: "twitter", link: "https://twitter.com/ernestmicklei"}
+    - {name: "site", link: "http://bol.com/"}
+    - {name: "github", link: "https://github.com/emicklei"}
+    

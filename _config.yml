@@ -170,7 +170,7 @@ footerBlocks:
 
 # Blog
 blogTitle: "Latest news"
-blogCommentsEnabled: true
+blogCommentsEnabled: false
 discusShortName: "devfestnl"
 
 # Speakers List Block
