@@ -1,17 +1,16 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Dennis"
+  surname: "Geurts"
+  title: "GDG Dutch Android User Group"
+  thumbnailUrl: DennisGeurts.png
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: "https://google.com/108236118232381198098"}
+    - {name: "twitter", link: "https://twitter.com/dennisgggg"}
+    - {name: "github", link: "https://github.com/dennisg"}
 - 
   id: 1
   name: "Oleh"
