@@ -39,22 +39,34 @@
     - {name: "site", link: "http://littlerobots.nl/"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
+  name: "Paul"
+  surname: "Lammertsma"
   title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
+  thumbnailUrl: PaulLammertsma.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: "https://plus.google.com/+PaulLammertsma"}
+    - {name: "twitter", link: "https://twitter.com/officesunshine"}
+    #- {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
+  id: 5
+  name: "Hugo"
+  surname: "Visser"
+  title: "Android Program Committee"
+  thumbnailUrl: HugoVisser.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://google.com/+HugoVisser"}
+    - {name: "twitter", link: "https://twitter.com/botteaap"}
+    - {name: "site", link: "http://littlerobots.nl/"}
+- 
+  id: 5
+  name: "Kars"
+  surname: "Veling"
+  title: "Goolge Cloud Program Committee"
+  thumbnailUrl: KarsVeling.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+KarsVeling"}
+    - {name: "twitter", link: "https://twitter.com/karsveling"}
+    - {name: "site", link: "http://q42.nl/"}    
