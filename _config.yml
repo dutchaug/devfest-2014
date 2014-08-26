@@ -154,7 +154,7 @@ footerBlocks:
   links:
    - {link: "http://www.dutchaug.org/", text: "The Dutch Android User Group"}
    - {link: "http://www.gdgnl.org/", text: "Google Developer Groups Netherlands"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "https://developers.google.com/", text: "Google Developers"}
  -
   title: "Contacts"
   links:
@@ -162,8 +162,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "http://localhost:4000/zeppelin/cod/", text: "Code of Conduct"}
-   #   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/cod/", text: "Code of Conduct"}
 
 ## About Event Block
 #eventName: "GDG DevFest NL"
@@ -217,6 +216,3 @@ directionDetailsWideCards:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-#     # Blog
-#     blogCommentsEnabled: true
-#     discusShortName: "devfestnl"
