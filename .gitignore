@@ -6,3 +6,7 @@
 *.iml
 _site
 _sass/.sass-cache
+build.gradle
+/.gradle
+.project
+

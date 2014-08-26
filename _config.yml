@@ -64,10 +64,10 @@ aboutBlock:
 
 # Statistic Block
 statisticBlock:
- - {count: "250", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "0", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "8", specialCharacter: "+", info: "hours", detail: "of pure Google technologies and fun!"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "national and international"}
- - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus many workshops"}
+ - {count: "0", specialCharacter: "+", info: "speakers", detail: "national and international"}
+ - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus many workshops"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -139,7 +139,7 @@ ticketsOffers:
   buyButtonText: "Reserve your seat now!"
   ticketContentList: ["The GDG Dutch Android User Group and GDG Netherlands join forces in bringing you a single day event in the style of a true Google DevFest. This means interesting talks and hands-on labs, brought to you by national and international leaders using Google technology, in an informal setting, an inspirational environment with lots of room for open discussion and time to meet!"]
   validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
+  validThrough: "2014-10-03T23:59"
 
 # Footer
 socialLinks:
