@@ -26,17 +26,17 @@
     - {name: "github", link: "https://github.com/jpelgrim"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Hugo"
+  surname: "Visser"
+  title: "GDG Dutch Android User Group"
+  thumbnailUrl: HugoVisser.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "google-plus", link: "https://google.com/+HugoVisser"}
+    - {name: "twitter", link: "https://twitter.com/botteaap"}
+    - {name: "site", link: "http://littlerobots.nl/"}
 - 
   id: 4
   name: "Dmytro"
