@@ -2,12 +2,13 @@
   id: 1
   name: "Dennis"
   surname: "Geurts"
-  title: "GDG Dutch Android User Group"
+  title: "Web and generic tech guru"
+  company: Luminis
   thumbnailUrl: DennisGeurts.png
-  bio: "Temp is here just temporary."
   team: true
+  bio: "This bio here is just temporary."
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
   social: 
     - {name: "google-plus", link: "https://google.com/108236118232381198098"}
     - {name: "twitter", link: "https://twitter.com/dennisgggg"}
@@ -16,11 +17,13 @@
   id: 2
   name: "Johan"
   surname: "Pelgrim"
-  title: "GDG Dutch Android User Group"
+  title: "Organizer"
+  company: VX Company
   thumbnailUrl: JohanPelgrim.jpg
   team: true
+  bio: "This bio here is just temporary."
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
   social: 
     - {name: "google-plus", link: "https://google.com/+JohanPelgrim"}
     - {name: "twitter", link: "https://twitter.com/jowipe"}
@@ -30,11 +33,12 @@
   name: "Hugo"
   surname: "Visser"
   title: "Android Program Committee"
-  org: "GDG Dutch Android User Group"
+  company: Little Robots
   thumbnailUrl: HugoVisser.jpg
   team: true
+  bio: "This bio here is just temporary."
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
   social: 
     - {name: "google-plus", link: "https://google.com/+HugoVisser"}
     - {name: "twitter", link: "https://twitter.com/botteaap"}
@@ -43,11 +47,13 @@
   id: 4
   name: "Wiebe"
   surname: "Elsinga"
-  title: "GDG Dutch Android User Group"
+  title: "Organizer"
+  company: Itude Mobile
   thumbnailUrl: WiebeElsinga.jpg
   team: true
+  bio: "This bio here is just temporary."
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
   social: 
     - {name: "google-plus", link: "https://google.com/+WiebeElsinga"}
     - {name: "twitter", link: "https://twitter.com/welsinga"}
@@ -56,60 +62,73 @@
   id: 5
   name: "Matt"
   surname: "Feigal"
-  title: "Google NL"
+  title: "Google Cloud Program Committee"
+  company: Google NL
   thumbnailUrl: MattFeigal.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "GDG", title: "Google NL", url: "http://www.google.nl"}
   social: 
     - {name: "google-plus", link: "https://google.com/+MattFeigal"}
     - {name: "twitter", link: "https://twitter.com/mattfgl"}
     - {name: "site", link: "http://google.com/"}
 - 
-  id: 4
+  id: 6
   name: "Rokesh"
   surname: "Jankie"
-  title: "GDG NL"
+  title: "Web Program Committee"
+  company: QCAFE
   thumbnailUrl: RokeshJankie.png
   team: true
+  bio: "This bio here is just temporary."
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "GDG", title: "GDG NL", url: "http://www.gdgnl.org/" }
   social: 
     - {name: "google-plus", link: "https://google.com/+RokeshJankie"}
     - {name: "twitter", link: "https://twitter.com/rjankie"}
     - {name: "site", link: "http://qcafe.com/"}
 - 
-  id: 5
+  id: 7
   name: "Adolfo"
   surname: "Benedetti"
-  title: "GDG NL"
+  title: "Web Program Committee"
+  company: IProfs
   thumbnailUrl: AdolfoBenedetti.jpg
   team: true
+  bio: "This bio here is just temporary."
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "GDG", title: "GDG NL", url: "http://www.gdgnl.org/" }
   social: 
     - {name: "google-plus", link: "https://google.com/+AdolfoBenedetti"}
     - {name: "twitter", link: "https://twitter.com/adben"}
     - {name: "site", link: "http://iprofs.nl/"}
 - 
-  id: 50
+  id: 8
   name: "Paul"
   surname: "Lammertsma"
   title: "Android Program Committee"
+  company: Pixplicity
   thumbnailUrl: PaulLammertsma.jpg
   team: true
+  bio: "This bio here is just temporary."
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group", url: "http://www.dutchaug.org" }
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+PaulLammertsma"}
     - {name: "twitter", link: "https://twitter.com/officesunshine"}
     - {name: "site", link: "http://pixplicity.com/"}
     #- {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
-  id: 52
+  id: 9
   name: "Kars"
   surname: "Veling"
   title: "Google Cloud Program Committee"
+  company: Q42
   thumbnailUrl: KarsVeling.jpg
   team: true
+  bio: "This bio here is just temporary."
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert" }
   social: 
     - {name: "google-plus", link: "https://google.com/+KarsVeling"}
     - {name: "twitter", link: "https://twitter.com/karsveling"}
@@ -119,21 +138,27 @@
   name: "Gregor"
   surname: "Doornbosch"
   title: "Designer"
+  company: QBus
   thumbnailUrl: GregorDoornbosch.png
   team: true
+  bio: "This bio here is just temporary."
+  ribbon: 
+    - {abbr: "desgin", title: "UX Designer" }
   social: 
     - {name: "google-plus", link: "https://google.com/100255295197785178782"}
     - {name: "twitter", link: "https://twitter.com/DoornboschG"}
     - {name: "site", link: "http://qbus.nl/"}
 - 
-  id: 53
+  id: 10
   name: "Ernest"
   surname: "Micklei"
-  title: "GDG NL"
+  title: "Go/ Dart Program Committee"
+  company: bol.com
   thumbnailUrl: ErnestMicklei.jpg
   team: true
+  bio: "This bio here is just temporary."
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "GDG", title: "GDG NL", url: "http://www.gdgnl.org/" }
   social: 
     - {name: "google-plus", link: "https://google.com/+ErnestMicklei"}
     - {name: "twitter", link: "https://twitter.com/ernestmicklei"}
