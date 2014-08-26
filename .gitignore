@@ -4,9 +4,12 @@
 .idea
 .DS_Store
 *.iml
-_site
-_sass/.sass-cache
 build.gradle
 /.gradle
 .project
 
+### Jekyll ###
+_site/
+
+### Sass ###
+.sass-cache

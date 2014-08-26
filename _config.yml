@@ -107,8 +107,9 @@ twitterHashTag: "devfestnl"
 ##twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
-partnersTitle: "Sponsors"
+partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
+
 # Subscribe
 #subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 
@@ -130,7 +131,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 #socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Buy Tickets Block
-buyTicketsTitle: "Free entrance!"
+ticketsTitle: "Free entrance!"
 ticketsOffers:
  -
   name: "Reserve one of 250 seats"
@@ -146,7 +147,7 @@ socialLinks:
  - {link: "https://plus.google.com/b/113182948271879290904", icon: "google-plus"}
  - {link: "https://twitter.com/intent/user?screen_name=DevFestNL", icon: "twitter"}
  - {link: "https://www.facebook.com/groups/dutchaug/?fref=ts", icon: "facebook"}
-# - {link: "http://localhost:4000/zeppelin/feed.xml", icon: "rss"}
+ - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
@@ -162,6 +163,8 @@ footerBlocks:
   title: "FAQ"
   links:
    - {permalink: "http://localhost:4000/zeppelin/cod/", text: "Code of Conduct"}
+   #   - {permalink: "/cod/", text: "Code of Conduct"}
+
 ## About Event Block
 #eventName: "GDG DevFest NL"
 
