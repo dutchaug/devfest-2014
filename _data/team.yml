@@ -38,7 +38,61 @@
     - {name: "twitter", link: "https://twitter.com/botteaap"}
     - {name: "site", link: "http://littlerobots.nl/"}
 - 
+  id: 3
+  name: "Matt"
+  surname: "Feigal"
+  title: "GDG NL"
+  thumbnailUrl: MattFeigal.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+MattFeigal"}
+    - {name: "twitter", link: "https://twitter.com/mattfgl"}
+    - {name: "site", link: "http://google.com/"}
+- 
   id: 4
+  name: "Rokesh"
+  surname: "Jankie"
+  title: "GDG NL"
+  thumbnailUrl: RokeshJankie.png
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+RokeshJankie"}
+    - {name: "twitter", link: "https://twitter.com/rjankie"}
+    - {name: "site", link: "http://qcafe.com/"}
+- 
+  id: 5
+  name: "Adolfo"
+  surname: "Benedetti"
+  title: "GDG NL"
+  thumbnailUrl: AdolfoBenedetti.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+AdolfoBenedetti"}
+    - {name: "twitter", link: "https://twitter.com/adben"}
+    - {name: "site", link: "http://iprofs.nl/"}
+- 
+  id: 6
+  name: "Ernest"
+  surname: "Micklei"
+  title: "GDG NL"
+  thumbnailUrl: ErnestMicklei.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ErnestMicklei"}
+    - {name: "twitter", link: "https://twitter.com/ernestmicklei"}
+    - {name: "site", link: "http://bol.com/"}
+    - {name: "github", link: "https://github.com/emicklei"}
+    
+- 
+  id: 50
   name: "Paul"
   surname: "Lammertsma"
   title: "Android Program Committee"
@@ -50,7 +104,7 @@
     - {name: "site", link: "http://pixplicity.com/"}
     #- {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
-  id: 5
+  id: 51
   name: "Hugo"
   surname: "Visser"
   title: "Android Program Committee"
@@ -61,13 +115,13 @@
     - {name: "twitter", link: "https://twitter.com/botteaap"}
     - {name: "site", link: "http://littlerobots.nl/"}
 - 
-  id: 5
+  id: 52
   name: "Kars"
   surname: "Veling"
-  title: "Goolge Cloud Program Committee"
+  title: "Google Cloud Program Committee"
   thumbnailUrl: KarsVeling.jpg
   subTeam: true
   social: 
     - {name: "google-plus", link: "https://google.com/+KarsVeling"}
     - {name: "twitter", link: "https://twitter.com/karsveling"}
-    - {name: "site", link: "http://q42.nl/"}    
+    - {name: "site", link: "http://q42.nl/"}
