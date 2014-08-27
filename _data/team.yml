@@ -10,7 +10,7 @@
   ribbon: 
     - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
   social: 
-    - {name: "google-plus", link: "https://google.com/108236118232381198098"}
+    - {name: "google-plus", link: "https://plus.google.com/108236118232381198098"}
     - {name: "twitter", link: "https://twitter.com/dennisgggg"}
     - {name: "github", link: "https://github.com/dennisg"}
 - 
@@ -25,7 +25,7 @@
   ribbon: 
     - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
   social: 
-    - {name: "google-plus", link: "https://google.com/+JohanPelgrim"}
+    - {name: "google-plus", link: "https://plus.google.com/+JohanPelgrim"}
     - {name: "twitter", link: "https://twitter.com/jowipe"}
     - {name: "github", link: "https://github.com/jpelgrim"}
 - 
@@ -40,7 +40,7 @@
   ribbon: 
     - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
   social: 
-    - {name: "google-plus", link: "https://google.com/+HugoVisser"}
+    - {name: "google-plus", link: "https://plus.google.com/+HugoVisser"}
     - {name: "twitter", link: "https://twitter.com/botteaap"}
     - {name: "site", link: "http://littlerobots.nl/"}
 - 
@@ -55,7 +55,7 @@
   ribbon: 
     - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
   social: 
-    - {name: "google-plus", link: "https://google.com/+WiebeElsinga"}
+    - {name: "google-plus", link: "https://plus.google.com/+WiebeElsinga"}
     - {name: "twitter", link: "https://twitter.com/welsinga"}
     - {name: "site", link: "http://littlerobots.nl/"}
 - 
@@ -69,7 +69,7 @@
   ribbon: 
     - {abbr: "GDG", title: "Google NL", url: "http://www.google.nl"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+MattFeigal"}
+    - {name: "google-plus", link: "https://plus.google.com/+MattFeigal"}
     - {name: "twitter", link: "https://twitter.com/mattfgl"}
     - {name: "site", link: "http://google.com/"}
 - 
@@ -84,7 +84,7 @@
   ribbon: 
     - {abbr: "GDG", title: "GDG NL", url: "http://www.gdgnl.org/" }
   social: 
-    - {name: "google-plus", link: "https://google.com/+RokeshJankie"}
+    - {name: "google-plus", link: "https://plus.google.com/+RokeshJankie"}
     - {name: "twitter", link: "https://twitter.com/rjankie"}
     - {name: "site", link: "http://qcafe.com/"}
 - 
@@ -99,7 +99,7 @@
   ribbon: 
     - {abbr: "GDG", title: "GDG NL", url: "http://www.gdgnl.org/" }
   social: 
-    - {name: "google-plus", link: "https://google.com/+AdolfoBenedetti"}
+    - {name: "google-plus", link: "https://plus.google.com/+AdolfoBenedetti"}
     - {name: "twitter", link: "https://twitter.com/adben"}
     - {name: "site", link: "http://iprofs.nl/"}
 - 
@@ -130,7 +130,7 @@
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert" }
   social: 
-    - {name: "google-plus", link: "https://google.com/+KarsVeling"}
+    - {name: "google-plus", link: "https://plus.google.com/+KarsVeling"}
     - {name: "twitter", link: "https://twitter.com/karsveling"}
     - {name: "site", link: "http://q42.nl/"}
 - 
@@ -145,7 +145,7 @@
   ribbon: 
     - {abbr: "desgin", title: "UX Designer" }
   social: 
-    - {name: "google-plus", link: "https://google.com/100255295197785178782"}
+    - {name: "google-plus", link: "https://plus.google.com/100255295197785178782"}
     - {name: "twitter", link: "https://twitter.com/DoornboschG"}
     - {name: "site", link: "http://qbus.nl/"}
 - 
@@ -160,7 +160,7 @@
   ribbon: 
     - {abbr: "GDG", title: "GDG NL", url: "http://www.gdgnl.org/" }
   social: 
-    - {name: "google-plus", link: "https://google.com/+ErnestMicklei"}
+    - {name: "google-plus", link: "https://plus.google.com/+ErnestMicklei"}
     - {name: "twitter", link: "https://twitter.com/ernestmicklei"}
     - {name: "site", link: "http://bol.com/"}
     - {name: "github", link: "https://github.com/emicklei"}
