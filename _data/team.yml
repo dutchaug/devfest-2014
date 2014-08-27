@@ -2,11 +2,11 @@
   id: 1
   name: "Dennis"
   surname: "Geurts"
-  title: "Web and generic tech guru"
+  title: "Tech Support"
   company: Luminis
   thumbnailUrl: DennisGeurts.png
   team: true
-  bio: "This bio here is just temporary."
+  bio: "Dennis Geurts is a software architect at Luminis. He loves programming for mobile devices (mostly Android) but is also well-versed in OSGi and Java in general. He is also interested in noSQL (CouchDB/ Redis / Riak/ Cassandra) and Node.js. Dennis is also an organizer of The Dutch Android User Group, where Android professionals can meet and share knowledge with each other during monthly meetings."
   ribbon: 
     - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
   social: 
@@ -17,7 +17,7 @@
   id: 2
   name: "Johan"
   surname: "Pelgrim"
-  title: "Organizer"
+  title: "General Organization"
   company: VX Company
   thumbnailUrl: JohanPelgrim.jpg
   team: true
@@ -47,7 +47,7 @@
   id: 4
   name: "Wiebe"
   surname: "Elsinga"
-  title: "Organizer"
+  title: "General Organization"
   company: Itude Mobile
   thumbnailUrl: WiebeElsinga.jpg
   team: true
@@ -152,7 +152,7 @@
   id: 10
   name: "Ernest"
   surname: "Micklei"
-  title: "Go/ Dart Program Committee"
+  title: "Web Program Committee"
   company: bol.com
   thumbnailUrl: ErnestMicklei.jpg
   team: true

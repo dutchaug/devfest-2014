@@ -97,6 +97,7 @@ mapMobileCenterCoordinates: "52.3544534,4.9553595"
 venueBlockTitle: "Venue"
 venueTitle: "Science Park 904"
 venueFeatures: ["The Faculty of Science", "A leading centre of academic research and education!", "Located in the heart of science in Amsterdam"]
+
 ## Logistics Location Block
 #logisticsMapCenterCoordinates: "52.3544534,4.9553595"
 #logisticsMapMobileCenterCoordinates: "52.3544534,4.9553595"
@@ -110,9 +111,6 @@ twitterHashTag: "devfestnl"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
-# Subscribe
-#subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-
 # Organizers Block
 organizersTitle: "Organizers"
 # Documents
@@ -121,8 +119,9 @@ c4sponsorsUrl: "mailto:info@devfest.nl"
 
 # Subscribe Block
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeAction: "http://dutchaug.us6.list-manage.com/subscribe?u=00dd8d0a15bf77f68bd75d643&id=3ce443d9a5"
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+
 # Head
 #metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
 #twitterAccount: "@DevFestNL"
