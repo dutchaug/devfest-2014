@@ -77,16 +77,16 @@
   name: "Rokesh"
   surname: "Jankie"
   title: "Web Program Committee"
-  company: QCAFE
+  company: QAFE
   thumbnailUrl: RokeshJankie.png
   team: true
-  bio: "<strong>Tagline</strong><br/>Huge fan of Google and Apple. Love Les Mills Bodypump, Love to hang out with family and friends<br/><strong>Introduction</strong><br/>I'm the founder of a product callend 'QAFE', it's a platform for creating webapplications (see more on <a href='http://www.qafe.com'>http://www.qafe.com</a>. I really like technology and gadgets and I am huge fan of Google.Furthermore, I like hanging out with my wife and son. Also with the family of course. Love fotography and watching movies/series. In the spare time I have left, I'm also certified group fitness instructor for <a href='http://www.lesmills.com/netherlands/bodypump/bodypump-group-fitness-class.aspx'>Les Mills BODYPUMP!</a>"
+  bio: "<strong>Tagline</strong><br/>Huge fan of Google and Apple. Love Les Mills Bodypump, love to hang out with family and friends<br/><strong>Introduction</strong><br/>I'm the founder of a product called 'QAFE', it's a platform for creating web applications (see more on <a href='http://www.qafe.com'>http://www.qafe.com</a>). I really like technology and gadgets and I am huge fan of Google. Furthermore, I like hanging out with my wife and son. Also with the family of course. Love photography and watching movies/series. In the spare time I have left, I'm also certified group fitness instructor for <a href='http://www.lesmills.com/netherlands/bodypump/bodypump-group-fitness-class.aspx'>Les Mills BODYPUMP!</a>"
   ribbon: 
     - {abbr: "GDG", title: "GDG NL", url: "http://www.gdgnl.org/" }
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+RokeshJankie"}
     - {name: "twitter", link: "https://twitter.com/rjankie"}
-    - {name: "site", link: "http://qcafe.com/"}
+    - {name: "site", link: "http://qafe.com/"}
 - 
   id: 7
   name: "Adolfo"
