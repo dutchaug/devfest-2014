@@ -20,9 +20,12 @@
         </div>
     </div>
 
-    {% if page.modal != null %} 
-    	{% include speakers-modals.html %} 
-    	{% include team-modals.html %} 
+    {% if page.modal != null %}
+    	{% if page.modal == 'team' %} 
+    		{% include team-modals.html %} 
+	    {% else %} 
+    		{% include speakers-modals.html %} 
+	    {% endif %} 
     {% endif %} 
 
     {% if page.permalink == '/schedule/' %}
