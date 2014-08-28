@@ -1,19 +1,4 @@
-- 
-  id: 1
-  name: "Dennis"
-  surname: "Geurts"
-  title: "Tech Support"
-  company: Luminis
-  thumbnailUrl: DennisGeurts.png
-  team: true
-  bio: "Dennis Geurts is a software architect at Luminis. He loves programming for mobile devices (mostly Android) but is also well-versed in OSGi and Java in general. He is also interested in noSQL (CouchDB/ Redis / Riak/ Cassandra) and Node.js. Dennis is also an organizer of The Dutch Android User Group, where Android professionals can meet and share knowledge with each other during monthly meetings."
-  ribbon: 
-    - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/108236118232381198098"}
-    - {name: "twitter", link: "https://twitter.com/dennisgggg"}
-    - {name: "github", link: "https://github.com/dennisg"}
-- 
+-
   id: 2
   name: "Johan"
   surname: "Pelgrim"
@@ -165,4 +150,21 @@ Gregor is already making himself familiar with Android L Material Design, feels 
     - {name: "twitter", link: "https://twitter.com/ernestmicklei"}
     - {name: "site", link: "http://bol.com/"}
     - {name: "github", link: "https://github.com/emicklei"}
+    
+- 
+  id: 11
+  name: "Dennis"
+  surname: "Geurts"
+  title: "Tech Support"
+  company: Luminis
+  thumbnailUrl: DennisGeurts.png
+  team: true
+  bio: "Dennis Geurts is a software architect at Luminis. He loves programming for mobile devices (mostly Android) but is also well-versed in OSGi and Java in general. He is also interested in noSQL (CouchDB/ Redis / Riak/ Cassandra) and Node.js. Dennis is also an organizer of The Dutch Android User Group, where Android professionals can meet and share knowledge with each other during monthly meetings."
+  ribbon: 
+    - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/108236118232381198098"}
+    - {name: "twitter", link: "https://twitter.com/dennisgggg"}
+    - {name: "github", link: "https://github.com/dennisg"}
+
     
