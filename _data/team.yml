@@ -21,7 +21,7 @@
   company: VX Company
   thumbnailUrl: JohanPelgrim.jpg
   team: true
-  bio: "This bio here is just temporary."
+  bio: "Johan is a developer in heart and soul and is employed as Mobile Software Engineer at VX Company. With a strong Enterprise Java background Johan has made the switch to full time Android developer in 2011 and fell in love with his new role from day one. Johan is co-founder of The Dutch Android User Group where Android professionals can meet and share knowledge on their monthly meetups. With Android as work and hobby the rest of his time is devoured by his two daughters and son. With the slogan 'sleeping is for sissies' Johan likes to watch movies and TV shows, play a tune on the piano or guitar and sing along (the latter when no one's around) and likes to read a good book."
   ribbon: 
     - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
   social: 
@@ -36,7 +36,7 @@
   company: Little Robots
   thumbnailUrl: HugoVisser.jpg
   team: true
-  bio: "This bio here is just temporary."
+  bio: "Hugo has over 15 years of experience as a software engineer, ranging from server side to desktop and from web to mobile. Since the original announcement he closely follows the developments of the Android platform which resulted in his first app in 2009, Rainy Days, which has since been downloaded nearly 1.000.000 times worldwide. In 2014 he took the next step by starting his own company Little Robots that focuses on apps and other clever uses of the Android platform. Hugo is also an organizer of The Dutch Android User Group, where Android professionals can meet and share knowledge with each other during monthly meetings."
   ribbon: 
     - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
   social: 
@@ -51,7 +51,7 @@
   company: Itude Mobile
   thumbnailUrl: WiebeElsinga.jpg
   team: true
-  bio: "This bio here is just temporary."
+  bio: "Wiebe Elsinga works as a Mobile Technical Lead in Mobile Itude Mobile B.V>., Mainly focused on the development of mobile applications (Android and IOS) and continuously seeking quality improvements within the development process of mobile applications. Also speaker at technical conferences worldwide."
   ribbon: 
     - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
   social: 
@@ -80,7 +80,7 @@
   company: QCAFE
   thumbnailUrl: RokeshJankie.png
   team: true
-  bio: "This bio here is just temporary."
+  bio: "<strong>Tagline</strong><br/>Huge fan of Google and Apple. Love Les Mills Bodypump, Love to hang out with family and friends<br/><strong>Introduction</strong><br/>I'm the founder of a product callend 'QAFE', it's a platform for creating webapplications (see more on <a href='http://www.qafe.com'>http://www.qafe.com</a>. I really like technology and gadgets and I am huge fan of Google.Furthermore, I like hanging out with my wife and son. Also with the family of course. Love fotography and watching movies/series. In the spare time I have left, I'm also certified group fitness instructor for <a href='http://www.lesmills.com/netherlands/bodypump/bodypump-group-fitness-class.aspx'>Les Mills BODYPUMP!</a>"
   ribbon: 
     - {abbr: "GDG", title: "GDG NL", url: "http://www.gdgnl.org/" }
   social: 
@@ -139,9 +139,10 @@
   surname: "Doornbosch"
   title: "Designer"
   company: QBus
-  thumbnailUrl: GregorDoornbosch.png
+  thumbnailUrl: GregorDoornbosch1.png
   team: true
-  bio: "This bio here is just temporary."
+  bio: "Gregor Doornbosch is an UI-UX designer, he is Passionated & in Love with the Web and Apps. Often works with Adobe Suite and likes to experiment with HTML5/CSS3 to make Web Application even more beautiful. His motto 'Design is fundamentally about improvement'
+Gregor is already making himself familiar with Android L Material Design, feels the future for Android Design is changing!"
   ribbon: 
     - {abbr: "desgin", title: "UX Designer" }
   social: 
