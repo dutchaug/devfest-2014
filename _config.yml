@@ -8,7 +8,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 title: GDG DevFest Netherlands
 email: info@devfest.nl
 description: "GDG DevFest Netherlands is part of a series of GDG DevFest events all around the world"
-baseurl: "/"
+baseurl: ""
 url: "http://www.devfest.nl"
 permalink: /blog/:title
 #googleAnalyticsTrackingId: "UA-43643469-5"
