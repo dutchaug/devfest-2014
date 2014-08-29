@@ -8,9 +8,16 @@
                 <form action="{{site.subscribeAction}}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                     <div class="mc-field-group col-lg-9 col-sm-9 col-xs-12">
                         <i class="email bordered required waves-effect waves-light waves-input-wrapper">
+                            <input type="text" value="" name="MERGE1" class="waves-button-input" id="mce-NAME" placeholder="name" autocomplete="off">
+                        </i>
+                        <i class="email bordered required waves-effect waves-light waves-input-wrapper">
+                            <input type="text" value="" name="MERGE2" class="waves-button-input" id="mce-SURNAME" placeholder="surname" autocomplete="off">
+                        </i>
+                        <i class="email bordered required waves-effect waves-light waves-input-wrapper">
                             <input type="email" value="" name="EMAIL" class="waves-button-input" id="mce-EMAIL" placeholder="your@email.com" autocomplete="off">
                         </i>
                     </div>
+                    
                     <div id="mce-responses" class="clear">
                         <div class="response" id="mce-error-response" style="display:none"></div>
                         <div class="response" id="mce-success-response" style="display:none"></div>

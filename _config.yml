@@ -11,8 +11,8 @@ description: "GDG DevFest Netherlands is part of a series of GDG DevFest events 
 baseurl: "/zeppelin"
 url: "https://dutchaug.github.io"
 permalink: /blog/:title
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+#googleAnalyticsTrackingId: "UA-43643469-5"
+#googleAnalyticsSiteUrl: "dutchaug.github.io"
 
 # Organizer Info
 organizerName: "GDG Dutch Android User Group"
@@ -49,7 +49,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "October 4th, 2014"
+eventDate: "November 8th, 2014"
 typeoutTextValues: '"", "Season", "Amsterdam", "The Netherlands"'
 heroButtons:
  - {url: "http://j.mp/1odkbc8", text: "Become a speaker"}
@@ -86,9 +86,9 @@ eventAddressLocality: "Amsterdam"
 eventAddressLocalityRegion: "Amsterdam"
 eventPostalCode: "1098 XH"
 eventAddressCountry: "The Netherlands"
-eventStartTime: "2014-10-04T10:00"
+eventStartTime: "2014-11-08T10:00"
 eventDoorTime: "09:30"
-eventEndTime: "2014-10-04T18:00"
+eventEndTime: "2014-11-08T18:00"
 eventPlaceCoordinates: "52.3544534,4.9553595"
 mapCenterCoordinates: "52.3544534,4.9553595"
 mapMobileCenterCoordinates: "52.3544534,4.9553595"
@@ -139,7 +139,7 @@ ticketsOffers:
   buyButtonText: "Reserve your seat now!"
   ticketContentList: ["The GDG Dutch Android User Group and GDG Netherlands join forces in bringing you a single day event in the style of a true Google DevFest. This means interesting talks and hands-on labs, brought to you by national and international leaders using Google technology, in an informal setting, an inspirational environment with lots of room for open discussion and time to meet!"]
   validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-03T23:59"
+  validThrough: "2014-11-07T23:59"
 
 # Footer
 socialLinks:

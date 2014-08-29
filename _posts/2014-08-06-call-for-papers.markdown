@@ -4,7 +4,7 @@ title:  "Call for Papers"
 date:   2014-08-06 21:00:00
 isStaticPost: false
 ---
-GDG Devfest Netherlands 2014 will be held on Saturday October 4th at the University of Amsterdam. If you want to be part of this great event as a speaker you knocked on the right door.
+GDG Devfest Netherlands 2014 will be held on Saturday November 8th at the University of Amsterdam. If you want to be part of this great event as a speaker you knocked on the right door.
 
 #### Presenters – who should speak at the DevFest Conference?
 
