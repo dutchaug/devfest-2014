@@ -36,7 +36,7 @@
   company: Itude Mobile
   thumbnailUrl: WiebeElsinga.jpg
   team: true
-  bio: "Wiebe Elsinga works as a Mobile Technical Lead in Mobile Itude Mobile B.V>., Mainly focused on the development of mobile applications (Android and IOS) and continuously seeking quality improvements within the development process of mobile applications. Also speaker at technical conferences worldwide."
+  bio: "Wiebe Elsinga works as a Mobile Technical Lead in Mobile Itude Mobile B.V., Mainly focused on the development of mobile applications (Android and IOS) and continuously seeking quality improvements within the development process of mobile applications. Also speaker at technical conferences worldwide."
   ribbon: 
     - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
   social: 
@@ -102,7 +102,6 @@
     - {name: "google-plus", link: "https://plus.google.com/+PaulLammertsma"}
     - {name: "twitter", link: "https://twitter.com/officesunshine"}
     - {name: "site", link: "http://pixplicity.com/"}
-    #- {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 9
   name: "Kars"
@@ -111,7 +110,7 @@
   company: Q42
   thumbnailUrl: KarsVeling.jpg
   team: true
-  bio: "This bio here is just temporary."
+  bio: "<p>Kars Veling studied Computer Science and Business School at University Twente, and founded <a href='http://q42.nl'>Q42</a> in 2000.</p><p>Kars is currently CTO of Q42, which employs 50 engineers at the moment. He founded Q42 to create a company that would be cool and interesting enough for himself to work for (In that time, a lot of boring, accountant-steered companies were selling warm IT bodies to customers). Q42's tagline then was 'The User Friendly Internet' which is still standing strong today.</p><p>Kars is both a Software Engineer and a Business Engineer. He played key roles in -amongst others- the technical architecture for the Philips HUE Project, Staatsloterij, Schooltas and D-reizen.</p>"
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert" }
   social: 
