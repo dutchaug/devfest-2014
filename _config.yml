@@ -155,7 +155,7 @@ footerBlocks:
    - {link: "http://www.gdgnl.org/", text: "Google Developer Groups Netherlands"}
    - {link: "https://developers.google.com/", text: "Google Developers"}
  -
-  title: "Contacts"
+  title: "Contact"
   links:
    - {link: "mailto:info@devfest.nl", text: "info@devfest.nl"}
  -
@@ -177,7 +177,7 @@ thumbnailsFolder: /img/speakers/
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "The GDG Dutch Android User Group and GDG Netherlands join forces in bringing you a single day event in the style of a true Google DevFest. This means interesting talks and hands-on labs, brought to you by national and international leaders using Google technology, in an informal setting, an inspirational environment with lots of room for open discussion and time to meet!"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"

@@ -1,18 +1,3 @@
--
-  id: 2
-  name: "Johan"
-  surname: "Pelgrim"
-  title: "General Organization"
-  company: VX Company
-  thumbnailUrl: JohanPelgrim.jpg
-  team: true
-  bio: "Johan is a developer in heart and soul and is employed as Mobile Software Engineer at VX Company. With a strong Enterprise Java background Johan has made the switch to full time Android developer in 2011 and fell in love with his new role from day one. Johan is co-founder of The Dutch Android User Group where Android professionals can meet and share knowledge on their monthly meetups. With Android as work and hobby the rest of his time is devoured by his two daughters and son. With the slogan 'sleeping is for sissies' Johan likes to watch movies and TV shows, play a tune on the piano or guitar and sing along (the latter when no one's around) and likes to read a good book."
-  ribbon: 
-    - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+JohanPelgrim"}
-    - {name: "twitter", link: "https://twitter.com/jowipe"}
-    - {name: "github", link: "https://github.com/jpelgrim"}
 - 
   id: 3
   name: "Hugo"
@@ -29,80 +14,6 @@
     - {name: "twitter", link: "https://twitter.com/botteaap"}
     - {name: "site", link: "http://littlerobots.nl/"}
 - 
-  id: 4
-  name: "Wiebe"
-  surname: "Elsinga"
-  title: "General Organization"
-  company: Itude Mobile
-  thumbnailUrl: WiebeElsinga.jpg
-  team: true
-  bio: "Wiebe Elsinga works as a Mobile Technical Lead in Mobile Itude Mobile B.V., Mainly focused on the development of mobile applications (Android and IOS) and continuously seeking quality improvements within the development process of mobile applications. Also speaker at technical conferences worldwide."
-  ribbon: 
-    - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+WiebeElsinga"}
-    - {name: "twitter", link: "https://twitter.com/welsinga"}
-    - {name: "site", link: "http://littlerobots.nl/"}
-- 
-  id: 5
-  name: "Matt"
-  surname: "Feigal"
-  title: "Google Cloud Program Committee"
-  company: Google NL
-  thumbnailUrl: MattFeigal.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google NL", url: "http://www.google.nl"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MattFeigal"}
-    - {name: "twitter", link: "https://twitter.com/mattfgl"}
-    - {name: "site", link: "http://google.com/"}
-- 
-  id: 6
-  name: "Rokesh"
-  surname: "Jankie"
-  title: "Web Program Committee"
-  company: QAFE
-  thumbnailUrl: RokeshJankie.png
-  team: true
-  bio: "<strong>Tagline</strong><br/>Huge fan of Google and Apple. Love Les Mills Bodypump, love to hang out with family and friends<br/><strong>Introduction</strong><br/>I'm the founder of a product called 'QAFE', it's a platform for creating web applications (see more on <a href='http://www.qafe.com'>http://www.qafe.com</a>). I really like technology and gadgets and I am huge fan of Google. Furthermore, I like hanging out with my wife and son. Also with the family of course. Love photography and watching movies/series. In the spare time I have left, I'm also certified group fitness instructor for <a href='http://www.lesmills.com/netherlands/bodypump/bodypump-group-fitness-class.aspx'>Les Mills BODYPUMP!</a>"
-  ribbon: 
-    - {abbr: "GDG", title: "GDG NL", url: "http://www.gdgnl.org/" }
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RokeshJankie"}
-    - {name: "twitter", link: "https://twitter.com/rjankie"}
-    - {name: "site", link: "http://qafe.com/"}
-- 
-  id: 7
-  name: "Adolfo"
-  surname: "Benedetti"
-  title: "Web Program Committee"
-  company: IProfs
-  thumbnailUrl: AdolfoBenedetti.jpg
-  team: true
-  bio: "This bio here is just temporary."
-  ribbon: 
-    - {abbr: "GDG", title: "GDG NL", url: "http://www.gdgnl.org/" }
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+AdolfoBenedetti"}
-    - {name: "twitter", link: "https://twitter.com/adben"}
-    - {name: "site", link: "http://iprofs.nl/"}
-- 
-  id: 8
-  name: "Paul"
-  surname: "Lammertsma"
-  title: "Android Program Committee"
-  company: Pixplicity
-  thumbnailUrl: PaulLammertsma.jpg
-  team: true
-  bio: "This bio here is just temporary."
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group", url: "http://www.dutchaug.org" }
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+PaulLammertsma"}
-    - {name: "twitter", link: "https://twitter.com/officesunshine"}
-    - {name: "site", link: "http://pixplicity.com/"}
-- 
   id: 9
   name: "Kars"
   surname: "Veling"
@@ -117,22 +28,6 @@
     - {name: "google-plus", link: "https://plus.google.com/+KarsVeling"}
     - {name: "twitter", link: "https://twitter.com/karsveling"}
     - {name: "site", link: "http://q42.nl/"}
-- 
-  id: 152
-  name: "Gregor"
-  surname: "Doornbosch"
-  title: "Designer"
-  company: QBus
-  thumbnailUrl: GregorDoornbosch1.png
-  team: true
-  bio: "Gregor Doornbosch is an UI-UX designer, he is Passionated & in Love with the Web and Apps. Often works with Adobe Suite and likes to experiment with HTML5/CSS3 to make Web Application even more beautiful. His motto 'Design is fundamentally about improvement'
-Gregor is already making himself familiar with Android L Material Design, feels the future for Android Design is changing!"
-  ribbon: 
-    - {abbr: "desgin", title: "UX Designer" }
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/100255295197785178782"}
-    - {name: "twitter", link: "https://twitter.com/DoornboschG"}
-    - {name: "site", link: "http://qbus.nl/"}
 - 
   id: 10
   name: "Ernest"
@@ -149,7 +44,66 @@ Gregor is already making himself familiar with Android L Material Design, feels 
     - {name: "twitter", link: "https://twitter.com/ernestmicklei"}
     - {name: "site", link: "http://bol.com/"}
     - {name: "github", link: "https://github.com/emicklei"}
-    
+- 
+  id: 4
+  name: "Wiebe"
+  surname: "Elsinga"
+  title: "Facilities"
+  company: Itude Mobile
+  thumbnailUrl: WiebeElsinga.jpg
+  team: true
+  bio: "Wiebe Elsinga works as a Mobile Technical Lead in Mobile Itude Mobile B.V., Mainly focused on the development of mobile applications (Android and IOS) and continuously seeking quality improvements within the development process of mobile applications. Also speaker at technical conferences worldwide."
+  ribbon: 
+    - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+WiebeElsinga"}
+    - {name: "twitter", link: "https://twitter.com/welsinga"}
+    - {name: "site", link: "http://littlerobots.nl/"}
+-
+  id: 2
+  name: "Johan"
+  surname: "Pelgrim"
+  title: "General Organization"
+  company: VX Company
+  thumbnailUrl: JohanPelgrim.jpg
+  team: true
+  bio: "Johan is a developer in heart and soul and is employed as Mobile Software Engineer at VX Company. With a strong Enterprise Java background Johan has made the switch to full time Android developer in 2011 and fell in love with his new role from day one. Johan is co-founder of The Dutch Android User Group where Android professionals can meet and share knowledge on their monthly meetups. With Android as work and hobby the rest of his time is devoured by his two daughters and son. With the slogan 'sleeping is for sissies' Johan likes to watch movies and TV shows, play a tune on the piano or guitar and sing along (the latter when no one's around) and likes to read a good book."
+  ribbon: 
+    - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+JohanPelgrim"}
+    - {name: "twitter", link: "https://twitter.com/jowipe"}
+    - {name: "github", link: "https://github.com/jpelgrim"}
+- 
+  id: 8
+  name: "Paul"
+  surname: "Lammertsma"
+  title: "General Organization"
+  company: Pixplicity
+  thumbnailUrl: PaulLammertsma.jpg
+  team: true
+  bio: "This bio here is just temporary."
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group", url: "http://www.dutchaug.org" }
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+PaulLammertsma"}
+    - {name: "twitter", link: "https://twitter.com/officesunshine"}
+    - {name: "site", link: "http://pixplicity.com/"}
+- 
+  id: 6
+  name: "Rokesh"
+  surname: "Jankie"
+  title: "General Organization"
+  company: QAFE
+  thumbnailUrl: RokeshJankie.png
+  team: true
+  bio: "<strong>Tagline</strong><br/>Huge fan of Google and Apple. Love Les Mills Bodypump, love to hang out with family and friends<br/><strong>Introduction</strong><br/>I'm the founder of a product called 'QAFE', it's a platform for creating web applications (see more on <a href='http://www.qafe.com'>http://www.qafe.com</a>). I really like technology and gadgets and I am huge fan of Google. Furthermore, I like hanging out with my wife and son. Also with the family of course. Love photography and watching movies/series. In the spare time I have left, I'm also certified group fitness instructor for <a href='http://www.lesmills.com/netherlands/bodypump/bodypump-group-fitness-class.aspx'>Les Mills BODYPUMP!</a>"
+  ribbon: 
+    - {abbr: "GDG", title: "GDG NL", url: "http://www.gdgnl.org/" }
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+RokeshJankie"}
+    - {name: "twitter", link: "https://twitter.com/rjankie"}
+    - {name: "site", link: "http://qafe.com/"}
 - 
   id: 11
   name: "Dennis"
@@ -165,5 +119,35 @@ Gregor is already making himself familiar with Android L Material Design, feels 
     - {name: "google-plus", link: "https://plus.google.com/108236118232381198098"}
     - {name: "twitter", link: "https://twitter.com/dennisgggg"}
     - {name: "github", link: "https://github.com/dennisg"}
-
+- 
+  id: 7
+  name: "Adolfo"
+  surname: "Benedetti"
+  title: "Tech Support"
+  company: IProfs
+  thumbnailUrl: AdolfoBenedetti.jpg
+  team: true
+  bio: "This bio here is just temporary."
+  ribbon: 
+    - {abbr: "GDG", title: "GDG NL", url: "http://www.gdgnl.org/" }
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+AdolfoBenedetti"}
+    - {name: "twitter", link: "https://twitter.com/adben"}
+    - {name: "site", link: "http://iprofs.nl/"}
+- 
+  id: 152
+  name: "Gregor"
+  surname: "Doornbosch"
+  title: "Graphic Design"
+  company: QBus
+  thumbnailUrl: GregorDoornbosch1.png
+  team: true
+  bio: "Gregor Doornbosch is an UI-UX designer, he is Passionated & in Love with the Web and Apps. Often works with Adobe Suite and likes to experiment with HTML5/CSS3 to make Web Application even more beautiful. His motto 'Design is fundamentally about improvement'
+Gregor is already making himself familiar with Android L Material Design, feels the future for Android Design is changing!"
+  ribbon: 
+    - {abbr: "desgin", title: "UX Designer" }
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/100255295197785178782"}
+    - {name: "twitter", link: "https://twitter.com/DoornboschG"}
+    - {name: "site", link: "http://qbus.nl/"}
     
