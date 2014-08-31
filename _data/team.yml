@@ -82,7 +82,7 @@
   company: Pixplicity
   thumbnailUrl: PaulLammertsma.jpg
   team: true
-  bio: "This bio here is just temporary."
+  bio: "Paul stumbled his way into mobile technologies through studing mobile device interaction and his need to scratch an itch for entrepreneurship. Co-founding Pixplicity in 2011, Paul has helped grow the company into a familiar name between Dutch app builders, with brands such as De Telegraaf, Consumentenbond and Mercedes-Benz. His passion for Android has always compelled him to share knowledge and keep up with the latest developments, for which he has always been an active memeber of the Dutch Android User Group. He's since become one of the organizers of the GDG, and can frequently be seen giving 'as-technical-as-technically-possible' tech talks at conferences across Europe."
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group", url: "http://www.dutchaug.org" }
   social: 
