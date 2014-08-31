@@ -185,33 +185,8 @@ logisticsMapCenterCoordinates: "52.3544534,4.9553595"
 logisticsMapMobileCenterCoordinates: "52.3544534,4.9553595"
 
 # Logistics Direction Details Block
-directionDetailsTitle: "Get around Amsterdam"
+directionDetailsTitle: "The Faculty of Science"
 directionDetailsCards:
  - {title: "By car", information: 'The Faculty of Science (Science Park 904) is easily reachable by car. <a href="http://www.amsterdamsciencepark.nl/location-facilities/directions/directions-by-car/">More info</a>'}
  - {title: "Public Transit", information: 'There is a train station, metro station and a bus stop nearby. <a href="http://www.amsterdamsciencepark.nl/location-facilities/directions/directions-by-public-transport/">More info</a>'}
  - {title: "Parking", information: 'Lots of parking spaces nearby. Aim for parking P3 and walk from there. <a href="http://www.amsterdamsciencepark.nl/location-facilities/directions/parking/">More info</a>'}
-directionDetailsWideCards:
- -
-  title: "Questions?"
-  subCards:
-   -
-    title: "Hotels"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Registration"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
