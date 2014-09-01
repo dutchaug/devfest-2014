@@ -36,7 +36,7 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/sponsors/", text: "Sponsors"}
+ - {permalink: "/sponsors/", text: "Partners"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {link: "https://developers.google.com", text: "Developers"}
