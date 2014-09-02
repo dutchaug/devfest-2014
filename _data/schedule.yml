@@ -2,9 +2,9 @@
   date: "2014-11-08"
   dateReadable: "November 8"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
+    - {title: "Mobile", color: "#90be4e"}
     - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+    - {title: "Workshops", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "10:00",

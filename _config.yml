@@ -42,10 +42,10 @@ navigationLinks:
  - {link: "https://developers.google.com", text: "Developers"}
 bottomNavigationLinks:
  - {link: "http://j.mp/1odkbc8", text: "Become a speaker"}
- - {link: "http://devfestnl14.eventbrite.com/", text: "Reserve your seat"}
+ - {link: "http://devfestnl14.eventbrite.com/", text: "Check waitlist"}
 rightNavigationButtons:
  - {link: "http://j.mp/1odkbc8", text: "Become a speaker"}
- - {link: "http://devfestnl14.eventbrite.com/", text: "Reserve your seat"}
+ - {link: "http://devfestnl14.eventbrite.com/", text: "Check waitlist"}
 
 # Hero Block
 heroTitle: "GDG DevFest <typeout> 2014"
@@ -53,7 +53,7 @@ eventDate: "November 8th, 2014"
 typeoutTextValues: '"", "Season", "Amsterdam", "The Netherlands"'
 heroButtons:
  - {url: "http://j.mp/1odkbc8", text: "Become a speaker"}
- - {url: "http://devfestnl14.eventbrite.com/", text: "Reserve your seat"}
+ - {url: "http://devfestnl14.eventbrite.com/", text: "We're sold out! (Check waitlist)"}
 
 # About Block
 aboutTitle: "About GDG DevFestNL"
@@ -109,18 +109,18 @@ twitterHashTag: "devfestnl"
 
 # Partners Block
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+partnersC4sponsorsButton: "Become a Sponsor"
 
 # Organizers Block
 organizersTitle: "Organizers"
 # Documents
 c4pUrl: "http://j.mp/1odkbc8"
-c4sponsorsUrl: "mailto:info@devfest.nl?subject=I want to sponsor the devfest"
+c4sponsorsUrl: "mailto:info@devfest.nl?subject=I am interested in sponsoring the GDG DevFest"
 
 # Subscribe Block
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "http://dutchaug.us6.list-manage.com/subscribe?u=00dd8d0a15bf77f68bd75d643&id=3ce443d9a5"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "We're sorry... Tickets are no longer available! Stay tuned for updates on seating."
 
 # Head
 #metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
@@ -130,13 +130,13 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 #socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Buy Tickets Block
-ticketsTitle: "Free entrance!"
+ticketsTitle: "Sorry, we're sold out! &#9785;"
 ticketsOffers:
  -
-  name: "Reserve one of 250 seats"
+  name: "Standard ticket"
   price: "&euro;0,-"
   buyButtonLink: "http://devfestnl14.eventbrite.com/"
-  buyButtonText: "Reserve your seat now!"
+  buyButtonText: "Check waitlist"
   ticketContentList: ["The GDG Dutch Android User Group and GDG Netherlands join forces in bringing you a single day event in the style of a true Google DevFest. This means interesting talks and hands-on labs, brought to you by national and international leaders using Google technology, in an informal setting, an inspirational environment with lots of room for open discussion and time to meet!"]
   validFrom: "2014-08-20T10:00"
   validThrough: "2014-11-07T23:59"
@@ -155,9 +155,10 @@ footerBlocks:
    - {link: "http://www.gdgnl.org/", text: "Google Developer Groups Netherlands"}
    - {link: "https://developers.google.com/", text: "Google Developers"}
  -
-  title: "Contact"
+  title: "Contact us"
   links:
-   - {link: "mailto:info@devfest.nl", text: "info@devfest.nl"}
+   - {link: "mailto:info@devfest.nl", text: "General info"}
+   - {link: "mailto:info@devfest.nl?subject=I am interested in sponsoring the GDG DevFest", text: "Become a Sponsor"}
  -
   title: "FAQ"
   links:
