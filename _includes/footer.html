@@ -15,6 +15,7 @@
 				{% for linkElement in block.links %}
 				<li><a href="{% if linkElement.permalink %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" target="_blank">{{ linkElement.text }}</a></li>
 				{% endfor %}
+				<li><a href='{{site.c4sponsorsUrl}}' target="_blank">Become a sponsor</a></li>
 			</ul>
 		</div>
 		{% endfor %}

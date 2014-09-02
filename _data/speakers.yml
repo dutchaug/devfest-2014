@@ -1,14 +1,14 @@
-- 
-  id: 3
-  name: "Temp"
-  surname: "Speaker"
-  company: "the Netherlands"
-  title: "GDG Organizer"
-  bio: "Temp is here just temporary."
-  thumbnailUrl: JohanPelgrim.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+HugoVisser/"}
+#- 
+#  id: 3
+#  name: "Temp"
+#  surname: "Speaker"
+#  company: "the Netherlands"
+#  title: "GDG Organizer"
+#  bio: "Temp is here just temporary."
+#  thumbnailUrl: JohanPelgrim.jpg
+#  rockstar: true
+#  social: 
+#    - {name: "google-plus", link: "https://plus.google.com/+HugoVisser/"}
 #- 
 #  id: 4
 #  name: "Dmytro"

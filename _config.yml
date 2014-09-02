@@ -64,7 +64,7 @@ aboutBlock:
 
 # Statistic Block
 statisticBlock:
- - {count: "160", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "221", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "8", specialCharacter: "+", info: "hours", detail: "of pure Google technologies and fun!"}
  - {count: "0", specialCharacter: "+", info: "speakers", detail: "national and international"}
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus many workshops"}
@@ -115,7 +115,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 organizersTitle: "Organizers"
 # Documents
 c4pUrl: "http://j.mp/1odkbc8"
-c4sponsorsUrl: "mailto:info@devfest.nl"
+c4sponsorsUrl: "mailto:info@devfest.nl?subject=I want to sponsor the devfest"
 
 # Subscribe Block
 subscribeTitle: "Subscribe for updates"
