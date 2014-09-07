@@ -2,11 +2,25 @@
   group: "Platinum Sponsor"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+- 
+  group: "Gold Sponsors"
+  elements: 
+    - {name: "More info", description: "More info", link: "mailto:info@devfest.nl?subject=I am interested in sponsoring the GDG DevFest", imageUrl: "yourlogohere.png"}
+- 
+  group: "Silver Sponsors"
+  elements: 
+    - {name: "More info", description: "More info", link: "mailto:info@devfest.nl?subject=I am interested in sponsoring the GDG DevFest", imageUrl: "yourlogohere.png"}
+- 
+  group: "Bronze Sponsors"
+  elements: 
+    - {name: "More info", description: "More info", link: "mailto:info@devfest.nl?subject=I am interested in sponsoring the GDG DevFest", imageUrl: "yourlogohere.png"}
 -
   group: "With support of"
   elements: 
     - {name: "Q42", description: "Q42", link: "http://q42.nl", imageUrl: "q42.png"}
+    - {name: "Minor", description: "Minor Programmeren", link: "http://www.mprog.nl/cursussen/", imageUrl: "minor.png"}
 -
   group: "Partners"
   elements: 
     - {name: "NL-JUG", description: "The Dutch Java User Group", link: "http://www.nljug.org/", imageUrl: "nljug.png"}
+    - {name: "O'Reilly", description: "O'Reilly", link: "http://www.oreilly.com/", imageUrl: "oreilly.png"}	
