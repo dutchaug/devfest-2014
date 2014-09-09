@@ -22,5 +22,8 @@
 -
   group: "Partners"
   elements: 
+    - {name: "Nspyre", description: "Nspyre", link: "http://nspyre.nl", imageUrl: "nspyre.png"}
+    - {name: "VX Company", description: "VX Company", link: "http://www.vxcompany.com", imageUrl: "vxcompany.png"}
+    - {name: "Egeniq", description: "Egeniq", link: "http://egeniq.com", imageUrl: "egeniq.png"}
     - {name: "NL-JUG", description: "The Dutch Java User Group", link: "http://www.nljug.org/", imageUrl: "nljug.png"}
     - {name: "O'Reilly", description: "O'Reilly", link: "http://www.oreilly.com/", imageUrl: "oreilly.png"}	
