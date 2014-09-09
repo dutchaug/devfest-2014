@@ -59,51 +59,6 @@
     - {name: "google-plus", link: "https://plus.google.com/+WiebeElsinga"}
     - {name: "twitter", link: "https://twitter.com/welsinga"}
     - {name: "site", link: "http://littlerobots.nl/"}
--
-  id: 2
-  name: "Johan"
-  surname: "Pelgrim"
-  title: "General Organization"
-  company: VX Company
-  thumbnailUrl: JohanPelgrim.jpg
-  team: true
-  bio: "Johan is a developer in heart and soul and is employed as Mobile Software Engineer at VX Company. With a strong Enterprise Java background Johan has made the switch to full time Android developer in 2011 and fell in love with his new role from day one. Johan is co-founder of The Dutch Android User Group where Android professionals can meet and share knowledge on their monthly meetups. With Android as work and hobby the rest of his time is devoured by his two daughters and son. With the slogan 'sleeping is for sissies' Johan likes to watch movies and TV shows, play a tune on the piano or guitar and sing along (the latter when no one's around) and likes to read a good book."
-  ribbon: 
-    - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+JohanPelgrim"}
-    - {name: "twitter", link: "https://twitter.com/jowipe"}
-    - {name: "github", link: "https://github.com/jpelgrim"}
-- 
-  id: 8
-  name: "Paul"
-  surname: "Lammertsma"
-  title: "General Organization"
-  company: Pixplicity
-  thumbnailUrl: PaulLammertsma.jpg
-  team: true
-  bio: "Paul stumbled his way into mobile technologies through studing mobile device interaction and his need to scratch an itch for entrepreneurship. Co-founding Pixplicity in 2011, Paul has helped grow the company into a familiar name between Dutch app builders, with brands such as De Telegraaf, Consumentenbond and Mercedes-Benz. His passion for Android has always compelled him to share knowledge and keep up with the latest developments, for which he has always been an active memeber of the Dutch Android User Group. He's since become one of the organizers of the GDG, and can frequently be seen giving 'as-technical-as-technically-possible' tech talks at conferences across Europe."
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group", url: "http://www.dutchaug.org" }
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+PaulLammertsma"}
-    - {name: "twitter", link: "https://twitter.com/officesunshine"}
-    - {name: "site", link: "http://pixplicity.com/"}
-- 
-  id: 6
-  name: "Rokesh"
-  surname: "Jankie"
-  title: "General Organization"
-  company: QAFE
-  thumbnailUrl: RokeshJankie.png
-  team: true
-  bio: "<strong>Tagline</strong><br/>Huge fan of Google and Apple. Love Les Mills Bodypump, love to hang out with family and friends<br/><strong>Introduction</strong><br/>I'm the founder of a product called 'QAFE', it's a platform for creating web applications (see more on <a href='http://www.qafe.com'>http://www.qafe.com</a>). I really like technology and gadgets and I am huge fan of Google. Furthermore, I like hanging out with my wife and son. Also with the family of course. Love photography and watching movies/series. In the spare time I have left, I'm also certified group fitness instructor for <a href='http://www.lesmills.com/netherlands/bodypump/bodypump-group-fitness-class.aspx'>Les Mills BODYPUMP!</a>"
-  ribbon: 
-    - {abbr: "GDG", title: "GDG NL", url: "http://www.gdgnl.org/" }
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RokeshJankie"}
-    - {name: "twitter", link: "https://twitter.com/rjankie"}
-    - {name: "site", link: "http://qafe.com/"}
 - 
   id: 11
   name: "Dennis"
@@ -150,4 +105,64 @@ Gregor is already making himself familiar with Android L Material Design, feels 
     - {name: "google-plus", link: "https://plus.google.com/100255295197785178782"}
     - {name: "twitter", link: "https://twitter.com/DoornboschG"}
     - {name: "site", link: "http://qbus.nl/"}
-    
+-
+  id: 2
+  name: "Johan"
+  surname: "Pelgrim"
+  title: "General Organization"
+  company: VX Company
+  thumbnailUrl: JohanPelgrim.jpg
+  team: true
+  bio: "Johan is a developer and team player in heart and soul and is working as Mobile Software Engineer at <a href='http://www.vxcompany.com'>VX Company</a>. With a strong Enterprise Java background Johan has made the switch to full time Android developer in 2011 and fell in love with his new role from day one. Since then Johan worked on Android apps for <a href='https://play.google.com/store/apps/details?id=com.lenbrook.sovi.bluesound'>Bluesound</a>, <a href='http://www.point2share.nl/'>Point2Share Meetings</a> and <a href='http://news.point2share.nl/'>Point2Share News</a> and is currently working in the <a href='https://play.google.com/store/apps/details?id=com.icemobile.albertheijn'>Appie</a> team at Ahold.<br/><br/>Johan is co-founder of <a href='http://www.dutchaug.org'>The Dutch Android User Group</a> where Android professionals can meet and share knowledge on their monthly meetups. With Android as work and hobby the rest of his time is devoured by his wife, two daughters and son. With the slogan 'sleeping is for sissies' Johan likes to watch movies and TV shows, play a tune on the piano or guitar and sing along (the latter when no one's around) and likes to read a good book."
+  ribbon: 
+    - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+JohanPelgrim"}
+    - {name: "twitter", link: "https://twitter.com/jowipe"}
+    - {name: "github", link: "https://github.com/jpelgrim"}
+    - {name: "linkedin", link: "http://nl.linkedin.com/in/johanpelgrim/"}
+- 
+  id: 8
+  name: "Paul"
+  surname: "Lammertsma"
+  title: "General Organization"
+  company: Pixplicity
+  thumbnailUrl: PaulLammertsma.jpg
+  team: true
+  bio: "Paul stumbled his way into mobile technologies through studing mobile device interaction and his need to scratch an itch for entrepreneurship. Co-founding Pixplicity in 2011, Paul has helped grow the company into a familiar name between Dutch app builders, with brands such as De Telegraaf, Consumentenbond and Mercedes-Benz. His passion for Android has always compelled him to share knowledge and keep up with the latest developments, for which he has always been an active memeber of the Dutch Android User Group. He's since become one of the organizers of the GDG, and can frequently be seen giving 'as-technical-as-technically-possible' tech talks at conferences across Europe."
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group", url: "http://www.dutchaug.org" }
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+PaulLammertsma"}
+    - {name: "twitter", link: "https://twitter.com/officesunshine"}
+    - {name: "site", link: "http://pixplicity.com/"}
+- 
+  id: 6
+  name: "Rokesh"
+  surname: "Jankie"
+  title: "General Organization"
+  company: QAFE
+  thumbnailUrl: RokeshJankie.png
+  team: true
+  bio: "<strong>Tagline</strong><br/>Huge fan of Google and Apple. Love Les Mills Bodypump, love to hang out with family and friends<br/><strong>Introduction</strong><br/>I'm the founder of a product called 'QAFE', it's a platform for creating web applications (see more on <a href='http://www.qafe.com'>http://www.qafe.com</a>). I really like technology and gadgets and I am huge fan of Google. Furthermore, I like hanging out with my wife and son. Also with the family of course. Love photography and watching movies/series. In the spare time I have left, I'm also certified group fitness instructor for <a href='http://www.lesmills.com/netherlands/bodypump/bodypump-group-fitness-class.aspx'>Les Mills BODYPUMP!</a>"
+  ribbon: 
+    - {abbr: "GDG", title: "GDG NL", url: "http://www.gdgnl.org/" }
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+RokeshJankie"}
+    - {name: "twitter", link: "https://twitter.com/rjankie"}
+    - {name: "site", link: "http://qafe.com/"}
+- 
+  id: 12
+  name: "Matt"
+  surname: "Feigal"
+  title: "General Organization"
+  company: Google
+  thumbnailUrl: MattFeigal.jpg
+  team: true
+  bio: "Matt worked in mobile development and clinical research at Medtronic then innovation projects at IKEA, before realizing he needed an even faster rate of exploration and change! Now, as a Cloud Platform Solution Architect at Google, he helps companies discover how to do cool things that matter and rapidly build systems that scale.<br/><br/>He loves to jump on any chance to go into scary unknown territory and find a good route through it. He's a StartupWeekend veteran, a StartupBootcamp mentor and a founding member of the developer community Appsterdam. Since 2011 one of his contributions to Appsterdam is organizing Guru Sessions in which experts share their tech passion with peers."
+  ribbon: 
+    - {abbr: "Google", title: "Cloud Platform Solution Architect" }
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MatthewFeigal"}
+    - {name: "twitter", link: "https://twitter.com/mattfgl"}
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/matt-feigal/0/10b/51"}
