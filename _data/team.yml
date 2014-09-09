@@ -6,7 +6,7 @@
   company: Little Robots
   thumbnailUrl: HugoVisser.jpg
   team: true
-  bio: "Hugo has over 15 years of experience as a software engineer, ranging from server side to desktop and from web to mobile. Since the original announcement he closely follows the developments of the Android platform which resulted in his first app in 2009, Rainy Days, which has since been downloaded nearly 1.000.000 times worldwide. In 2014 he took the next step by starting his own company Little Robots that focuses on apps and other clever uses of the Android platform. Hugo is also an organizer of The Dutch Android User Group, where Android professionals can meet and share knowledge with each other during monthly meetings."
+  bio: "Hugo has over 15 years of experience as a software engineer, ranging from server side to desktop and from web to mobile. Since the original announcement he closely follows the developments of the Android platform which resulted in his first app in 2009, Rainy Days, which has since been downloaded nearly 1.000.000 times worldwide. In 2014 he took the next step by starting his own company <a href='http://littlerobots.nl/'>Little Robots</a> that focuses on apps and other clever uses of the Android platform. Hugo is also an organizer of <a href='http://www.dutchaug.org'>The Dutch Android User Group</a>, where Android professionals can meet and share knowledge with each other during monthly meetings."
   ribbon: 
     - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
   social: 
@@ -23,7 +23,7 @@
   team: true
   bio: "<p>Kars Veling studied Computer Science and Business School at University Twente, and founded <a href='http://q42.nl'>Q42</a> in 2000.</p><p>Kars is currently CTO of Q42, which employs 50 engineers at the moment. He founded Q42 to create a company that would be cool and interesting enough for himself to work for (In that time, a lot of boring, accountant-steered companies were selling warm IT bodies to customers). Q42's tagline then was 'The User Friendly Internet' which is still standing strong today.</p><p>Kars is both a Software Engineer and a Business Engineer. He played key roles in -amongst others- the technical architecture for the Philips HUE Project, Staatsloterij, Schooltas and D-reizen.</p>"
   ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert" }
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/" }
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+KarsVeling"}
     - {name: "twitter", link: "https://twitter.com/karsveling"}
@@ -67,7 +67,7 @@
   company: Luminis
   thumbnailUrl: DennisGeurts.png
   team: true
-  bio: "Dennis Geurts is a software architect at <a href='http://www.luminis.eu'>Luminis</a>. He loves programming for mobile devices (mostly Android) but is also well-versed in OSGi and Java in general. He is also interested in noSQL (CouchDB/ Redis / Riak/ Cassandra) and Node.js. Dennis is also an organizer of The Dutch Android User Group, where Android professionals can meet and share knowledge with each other during monthly meetings."
+  bio: "Dennis Geurts is a software architect at <a href='http://www.luminis.eu'>Luminis</a>. He loves programming for mobile devices (mostly Android) but is also well-versed in OSGi and Java in general. He is also interested in noSQL (CouchDB/ Redis / Riak/ Cassandra) and Node.js. Dennis is also an organizer of <a href='http://www.dutchaug.org'>The Dutch Android User Group</a>, where Android professionals can meet and share knowledge with each other during monthly meetings."
   ribbon: 
     - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
   social: 
@@ -129,9 +129,9 @@ Gregor is already making himself familiar with Android L Material Design, feels 
   company: Pixplicity
   thumbnailUrl: PaulLammertsma.jpg
   team: true
-  bio: "Paul stumbled his way into mobile technologies through studing mobile device interaction and his need to scratch an itch for entrepreneurship. Co-founding Pixplicity in 2011, Paul has helped grow the company into a familiar name between Dutch app builders, with brands such as De Telegraaf, Consumentenbond and Mercedes-Benz. His passion for Android has always compelled him to share knowledge and keep up with the latest developments, for which he has always been an active memeber of the Dutch Android User Group. He's since become one of the organizers of the GDG, and can frequently be seen giving 'as-technical-as-technically-possible' tech talks at conferences across Europe."
+  bio: "Paul stumbled his way into mobile technologies through studing mobile device interaction and his need to scratch an itch for entrepreneurship. Co-founding <a href='http://pixplicity.com/'>Pixplicity</a> in 2011, Paul has helped grow the company into a familiar name between Dutch app builders, with brands such as De Telegraaf, Consumentenbond and Mercedes-Benz. His passion for Android has always compelled him to share knowledge and keep up with the latest developments, for which he has always been an active memeber of the <a href='http://www.dutchaug.org'>The Dutch Android User Group</a>. He's since become one of the organizers of the GDG, and can frequently be seen giving 'as-technical-as-technically-possible' tech talks at conferences across Europe."
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group", url: "http://www.dutchaug.org" }
+    - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+PaulLammertsma"}
     - {name: "twitter", link: "https://twitter.com/officesunshine"}
@@ -161,7 +161,7 @@ Gregor is already making himself familiar with Android L Material Design, feels 
   team: true
   bio: "Matt worked in mobile development and clinical research at Medtronic then innovation projects at IKEA, before realizing he needed an even faster rate of exploration and change! Now, as a Cloud Platform Solution Architect at Google, he helps companies discover how to do cool things that matter and rapidly build systems that scale.<br/><br/>He loves to jump on any chance to go into scary unknown territory and find a good route through it. He's a StartupWeekend veteran, a StartupBootcamp mentor and a founding member of the developer community Appsterdam. Since 2011 one of his contributions to Appsterdam is organizing Guru Sessions in which experts share their tech passion with peers."
   ribbon: 
-    - {abbr: "Google", title: "Cloud Platform Solution Architect" }
+    - {abbr: "Google", title: "Cloud Platform Solution Architect", url: "https://cloud.google.com/" }
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+MatthewFeigal"}
     - {name: "twitter", link: "https://twitter.com/mattfgl"}
