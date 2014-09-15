@@ -1,29 +1,35 @@
 - 
   group: "Platinum Sponsor"
+  class: "platinum"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
 - 
   group: "Gold Sponsors"
+  class: "gold"
   elements: 
-    - {name: "More info", description: "More info", link: "mailto:info@devfest.nl?subject=I am interested in sponsoring the GDG DevFest", imageUrl: "yourlogohere.png"}
+    - {name: "Bol.com", description: "Bol.com", link: "https://banen.bol.com/vacatures/?search=true&filter-searchphrase=&filter-company-departments=it&selectItemfilter-company-departments=it", imageUrl: "bol-com.jpg"}
 - 
   group: "Silver Sponsors"
+  class: "silver"
   elements: 
     - {name: "More info", description: "More info", link: "mailto:info@devfest.nl?subject=I am interested in sponsoring the GDG DevFest", imageUrl: "yourlogohere.png"}
 - 
   group: "Bronze Sponsors"
+  class: "bronze"
   elements: 
     - {name: "More info", description: "More info", link: "mailto:info@devfest.nl?subject=I am interested in sponsoring the GDG DevFest", imageUrl: "yourlogohere.png"}
 -
   group: "With support of"
+  class: "bronze"
   elements: 
     - {name: "Q42", description: "Q42", link: "http://q42.nl", imageUrl: "q42.png"}
     - {name: "Minor", description: "Minor Programmeren", link: "http://www.mprog.nl/cursussen/", imageUrl: "minor.png"}
 -
   group: "Partners"
+  class: "bronze"
   elements: 
     - {name: "Nspyre", description: "Nspyre", link: "http://nspyre.nl", imageUrl: "nspyre.png"}
     - {name: "VX Company", description: "VX Company", link: "http://www.vxcompany.com", imageUrl: "vxcompany.png"}
     - {name: "Egeniq", description: "Egeniq", link: "http://egeniq.com", imageUrl: "egeniq.png"}
     - {name: "NL-JUG", description: "The Dutch Java User Group", link: "http://www.nljug.org/", imageUrl: "nljug.png"}
-    - {name: "O'Reilly", description: "O'Reilly", link: "http://www.oreilly.com/", imageUrl: "oreilly.png"}	
+    - {name: "O'Reilly", description: "O'Reilly", link: "http://www.oreilly.com/", imageUrl: "oreilly.png"}
