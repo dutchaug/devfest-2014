@@ -13,17 +13,12 @@
     	sessionIds: [307]
     }
     - {
+    	startTime: "10:00",
+    	endTime: "11:00",
+    	sessionIds: [101,404,102,404]
+    }
+    - {
     	startTime: "17:00",
     	endTime: "19:00",
     	sessionIds: [007]
     }
-#    - {
-#        startTime: "11:00",
-#        endTime: "11:45",
-#        sessionIds: [307]
-#    }
-#    - {
-#    	startTime: "12:00",
-#    	endTime: "11:45",
-#    	sessionIds: [307]
-#    }
