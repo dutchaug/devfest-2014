@@ -1,7 +1,12 @@
 -
   id: 307
-  title: "Coming soon"
-  place: "Hall"
+  title: "Stay tuned for the final schedule..."
+  place: "Main Hall"
+  service: true
+-
+  id: 007
+  title: "After Party"
+  place: "Caf&eacute; Maslow"
   service: true
 #-
 #  id: 503
@@ -20,3 +25,21 @@
 #  speakers: [4, 5]
 #  language: en
 #  complexity: "Beginner"
+-
+  id: 101
+  title: "Fighting application size with ProGuard and beyond"
+  description: "Apps are getting larger, pushed by ever increasing user expectations. Social media, maps, advertisements,... As a developer, you may add a few libraries, and before you know it, your app is exceeding the constraints of the Android platform. In this presentation, I will discuss the main problems and some solutions. ProGuard, the bytecode optimizer and obfuscator in the Android SDK, is an obvious first step. I will show some optimized configurations that can help you to reduce the size of common libraries. If ProGuard isn't sufficient, you may have to resort to more drastic techniques, such as dynamic class loading. I'll discuss some techniques and their implications. I'll also introduce the new dex splitting feature of our software DexGuard."
+  subtype: presentation
+  speakers: [1]
+  language: en
+  complexity: "Intermediate"
+  track: "mobile"
+-
+  id: 102
+  title: "Building Cloud Powered Mobile Applications"
+  description: "This is a live coding demo, adding an <a href='https://cloud.google.com/products/app-engine/'>AppEngine</a> backend to an existing Android Application. Highlights developer productivity features such as <a href='https://cloud.google.com/products/cloud-endpoints/'>Cloud Endpoints</a> to create both REST APIs on top of your backend, auto-generated native libraries for easy communicate between your Android app and Backend, and Gradle integration with <a href='https://developer.android.com/sdk/installing/studio.html'>Android Studio</a> and CloudPlatform."
+  subtype: presentation
+  speakers: [2]
+  language: en
+  complexity: "Intermediate"
+  track: "cloud"

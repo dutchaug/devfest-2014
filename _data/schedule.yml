@@ -3,13 +3,19 @@
   dateReadable: "November 8"
   tracks: 
     - {title: "Mobile", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Workshops", color: "#e91e63"}
+    - {title: "Web", color: "#e91e63"}
+    - {title: "Cloud", color: "#03a9f4"}
+    - {title: "Workshops", color: "#a64dff"}
   timeslots:
     - {
     	startTime: "10:00",
-    	endTime: "18:00",
+    	endTime: "17:00",
     	sessionIds: [307]
+    }
+    - {
+    	startTime: "17:00",
+    	endTime: "19:00",
+    	sessionIds: [007]
     }
 #    - {
 #        startTime: "11:00",
