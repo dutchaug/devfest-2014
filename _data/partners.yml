@@ -17,6 +17,7 @@
   group: "Bronze Sponsors"
   class: "bronze"
   elements: 
+    #- {name: "Luminis", description: "Luminis", link: "http://www.luminis.eu", imageUrl: "luminis.png"}
     - {name: "More info", description: "More info", link: "mailto:info@devfest.nl?subject=I am interested in sponsoring the GDG DevFest", imageUrl: "yourlogohere.png"}
 -
   group: "With support of"
@@ -31,6 +32,5 @@
     - {name: "Nspyre", description: "Nspyre", link: "http://nspyre.nl", imageUrl: "nspyre.png"}
     - {name: "VX Company", description: "VX Company", link: "http://www.vxcompany.com", imageUrl: "vxcompany.png"}
     - {name: "Egeniq", description: "Egeniq", link: "http://egeniq.com", imageUrl: "egeniq.png"}
-    #- {name: "Luminis", description: "Luminis", link: "http://www.luminis.eu", imageUrl: "luminis.png"}
     - {name: "NL-JUG", description: "The Dutch Java User Group", link: "http://www.nljug.org/", imageUrl: "nljug.png"}
     - {name: "O'Reilly", description: "O'Reilly", link: "http://www.oreilly.com/", imageUrl: "oreilly.png"}
