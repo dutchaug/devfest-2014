@@ -58,8 +58,9 @@ heroButtons:
 # About Block
 aboutTitle: "About GDG DevFestNL"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lot's of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - { url: '/schedule/', title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lot's of fun!" }
+ - { url: '/schedule/', title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - { url: '/afterparty/', title: "After Party", image: "maslow.jpg", text: "No DevFest should end without an after party. That's why we've booked Maslow right after the last session ends!" }
  #- {title: "Hackathon", image: "hackathon.jpg", text: "Full-day free-style hackaton! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
