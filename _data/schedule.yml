@@ -12,11 +12,11 @@
     	endTime: "17:00",
     	sessionIds: [307]
     }
-    - {
-    	startTime: "10:00",
-    	endTime: "11:00",
-    	sessionIds: [101,404,102,404]
-    }
+    # - {
+    # 	startTime: "10:00",
+    # 	endTime: "11:00",
+    # 	sessionIds: [101,404,102,404]
+    # }
     - {
     	startTime: "17:00",
     	endTime: "19:00",
