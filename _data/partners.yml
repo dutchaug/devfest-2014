@@ -8,6 +8,7 @@
   class: "gold"
   elements: 
     - {name: "Bol.com", description: "Bol.com", link: "https://banen.bol.com/vacatures/?search=true&filter-searchphrase=&filter-company-departments=it&selectItemfilter-company-departments=it", imageUrl: "bol-com.jpg"}
+    #- {name: "Triple IT", description: "Triple IT", link: "https://www.triple-it.nl/", imageUrl: "triple-it.svg"}
 - 
   group: "Silver Sponsors"
   class: "silver"
@@ -17,7 +18,9 @@
   group: "Bronze Sponsors"
   class: "bronze"
   elements: 
-    - {name: "Luminis", description: "Luminis", link: "http://arnhem.luminis.eu", imageUrl: "luminis.png"}
+    - {name: "Luminis", description: "Luminis", link: "http://www.luminis.eu", imageUrl: "luminis.png"}
+    #- {name: "Qualogy", description: "Qualogy", link: "http://www.qualogy.com", imageUrl: "qualogy.png"}
+    #- {name: "QAFE", description: "QAFE", link: "http://www.qafe.com", imageUrl: "qafe.png"}
     - {name: "More info", description: "More info", link: "mailto:info@devfest.nl?subject=I am interested in sponsoring the GDG DevFest", imageUrl: "yourlogohere.png"}
 -
   group: "With support of"
