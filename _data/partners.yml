@@ -17,7 +17,7 @@
   group: "Bronze Sponsors"
   class: "bronze"
   elements: 
-    #- {name: "Luminis", description: "Luminis", link: "http://www.luminis.eu", imageUrl: "luminis.png"}
+    - {name: "Luminis", description: "Luminis", link: "http://arnhem.luminis.eu", imageUrl: "luminis.png"}
     - {name: "More info", description: "More info", link: "mailto:info@devfest.nl?subject=I am interested in sponsoring the GDG DevFest", imageUrl: "yourlogohere.png"}
 -
   group: "With support of"
