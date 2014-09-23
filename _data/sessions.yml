@@ -43,3 +43,21 @@
   language: en
   complexity: "Intermediate"
   track: "cloud"
+#-
+#  id: 103
+#  title: "Using Dart in the Cloud"
+#  description: "<a href='http://dartlang.org'>Dart</a> is a modern optionally typed language. It is best known for modern client-side web apps, but it has a compelling server-side story, too.<br/><br/>Dart's server-side framework has been developed from scratch and offers a scalable IO API with a unified asynchronous programming model. It is exactly what you expect from a modern framework: it is simple, fast, and easy to work with. Despite its simplicity its provides excellent performance, frequently outperforming other well-known frameworks. With the upcoming support for “async await” in Dart writing asynchronous code becomes much simpler.<br/><br/> Dart runs on <a href='https://cloud.google.com/appengine/'>Google App Engine</a>, has wide support for Google Services and is easy to deploy in a <a href='https://www.docker.com/'>Docker</a> container. This is all part of making Dart a great experience server-side.<br/><br/>Main topics of this talk:<ul><li>Structure of a Dart server application</li><li>Benefits of having the same language on both client and server</li><li>Why an async programming mode is a perfect fit for I/O</li><li>Scaling I/O in Dart using multiple threads</li><li>How to handle shared data in the Dart programming model</li><li>Accessing Google APIs from Dart</li><li>Running Dart on Google App Engine</li><li>Deploying a Dart application in a <a href='https://www.docker.com/'>Docker</a> container</li></ul>"
+#  subtype: presentation
+#  speakers: [3]
+#  language: en
+#  complexity: "Intermediate"
+#  track: "cloud"
+#-
+#  id: 104
+#  title: "Go for Java developers"
+#  description: "<a href='http://golang.org'>Go</a> is a relatively young language but has great potential as a cross-platform, general purpose language to build high performance network services, text processing engines and infrastructure tools (e.g <a href='https://www.docker.com/'>Docker</a>). It has been getting a lot of attention since cloud companies are started to rely their business on it; Google being one of them.<br/><br/>This talk will introduce Go to developers with a Java background. With a collection of common problems, example solutions are discussed using the Go language. Finally, some code examples are given for which the Java counterpart would be more verbose and in some cases a lot complexer."
+#  subtype: presentation
+#  speakers: [4]
+#  language: en
+#  complexity: "Intermediate"
+#  track: "cloud"
