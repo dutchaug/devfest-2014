@@ -21,7 +21,6 @@
     - {name: "Luminis", description: "Luminis", link: "http://www.luminis.eu", imageUrl: "luminis.png"}
     - {name: "Qualogy", description: "Qualogy", link: "http://www.qualogy.com", imageUrl: "qualogy.png"}
     #- {name: "QAFE", description: "QAFE", link: "http://www.qafe.com", imageUrl: "qafe.png"}
-    - {name: "More info", description: "More info", link: "mailto:info@devfest.nl?subject=I am interested in sponsoring the GDG DevFest", imageUrl: "yourlogohere.png"}
 -
   group: "With support of"
   class: "bronze"
