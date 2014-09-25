@@ -4,7 +4,7 @@
   tracks: 
     - {title: "Mobile", color: "#90be4e"}
     - {title: "Web", color: "#e91e63"}
-    - {title: "Cloud", color: "#03a9f4"}
+    - {title: "Cloud & Other", color: "#03a9f4"}
     - {title: "Workshops", color: "#a64dff"}
   timeslots:
     - {
@@ -17,16 +17,16 @@
      	endTime: "",
      	sessionIds: [101,404,102,404]
     }
-#    - {
-#     	startTime: "",
-#     	endTime: "",
-#     	sessionIds: [404,404,103,404]
-#    }
-#    - {
-#     	startTime: "",
-#     	endTime: "",
-#     	sessionIds: [404,404,104,404]
-#    }
+    - {
+     	startTime: "",
+     	endTime: "",
+     	sessionIds: [404,404,103,404]
+    }
+    - {
+     	startTime: "",
+     	endTime: "",
+     	sessionIds: [404,404,104,404]
+    }
     - {
     	startTime: "17:00",
     	endTime: "19:00",
