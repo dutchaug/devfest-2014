@@ -20,7 +20,7 @@
   elements: 
     - {name: "Luminis", description: "Luminis", link: "http://www.luminis.eu", imageUrl: "luminis.png"}
     - {name: "Qualogy", description: "Qualogy", link: "http://www.qualogy.com", imageUrl: "qualogy.png"}
-    #- {name: "QAFE", description: "QAFE", link: "http://www.qafe.com", imageUrl: "qafe.png"}
+    - {name: "QAFE", description: "QAFE", link: "http://www.qafe.com", imageUrl: "qafe.png"}
 -
   group: "With support of"
   class: "bronze"
