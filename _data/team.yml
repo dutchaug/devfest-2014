@@ -82,13 +82,13 @@
   company: IProfs
   thumbnailUrl: AdolfoBenedetti.jpg
   team: true
-  bio: "This bio here is just temporary."
+  bio: "Open Source enthusiast and software passionate with 10+ years expertise in web development and Java enterprise solutions, currently exploring the IoT/Web of Things co-founding <a href='https://30mhz.com/'>30MHz</a>. Also an active member of <a href='http://www.gdgnl.org/' >The Google Developer Groups Netherlands</a>."
   ribbon: 
     - {abbr: "GDG", title: "GDG NL", url: "http://www.gdgnl.org/" }
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+AdolfoBenedetti"}
     - {name: "twitter", link: "https://twitter.com/adben"}
-    - {name: "site", link: "http://iprofs.nl/"}
+    - {name: "site", link: "https://30mhz.com/"}
 - 
   id: 152
   name: "Gregor"
