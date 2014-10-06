@@ -42,10 +42,10 @@ navigationLinks:
  - {link: "https://developers.google.com", text: "Developers"}
 bottomNavigationLinks:
  - {link: "http://j.mp/1odkbc8", text: "Become a speaker"}
- - {link: "http://devfestnl14.eventbrite.com/", text: "New tickets&hellip; Stay tuned!"}
+ - {link: "http://devfestnl14.eventbrite.com/", text: "New tickets? Stay tuned!"}
 rightNavigationButtons:
  - {link: "http://j.mp/1odkbc8", text: "Become a speaker"}
- - {link: "http://devfestnl14.eventbrite.com/", text: "New tickets&hellip; Stay tuned!"}
+ - {link: "http://devfestnl14.eventbrite.com/", text: "New tickets? Stay tuned!"}
 
 # Hero Block
 heroTitle: "GDG DevFest <typeout> 2014"
@@ -53,7 +53,7 @@ eventDate: "November 8th, 2014"
 typeoutTextValues: '"", "Season", "Amsterdam", "The Netherlands"'
 heroButtons:
  - {url: "http://j.mp/1odkbc8", text: "Become a speaker"}
- - {url: "http://devfestnl14.eventbrite.com/", text: "New tickets&hellip; Stay tuned!"}
+ - {url: "http://devfestnl14.eventbrite.com/", text: "New tickets? Stay tuned!"}
 
 # About Block
 aboutTitle: "About GDG DevFestNL"
@@ -65,10 +65,10 @@ aboutBlock:
 
 # Statistic Block
 statisticBlock:
- - {count: "250", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "8", specialCharacter: "+", info: "hours", detail: "of pure Google technologies and fun!"}
- - {count: "2", specialCharacter: "+", info: "speakers", detail: "national and international"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus many workshops"}
+ - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "9", specialCharacter: "+", info: "hours", detail: "of pure Google technologies and fun!"}
+ - {count: "7", specialCharacter: "+", info: "speakers", detail: "national and international"}
+ - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus two workshops"}
 
 # Latest News Block
 latestNewsTitle: "Latest News"
@@ -134,12 +134,12 @@ subscribeInfo: "We're sorry... Tickets are no longer available! Stay tuned for u
 ticketsTitle: "Sorry, we're sold out! &#9785;"
 ticketsOffers:
  -
-  name: "Standard ticket"
-  price: "&euro;0,-"
+  name: "DevFest ticket"
+  price: "Free!"
   buyButtonLink: "http://devfestnl14.eventbrite.com/"
-  buyButtonText: "New tickets&hellip; Stay tuned!"
+  buyButtonText: "New tickets? Stay tuned!"
   ticketContentList: ["The GDG Dutch Android User Group and GDG Netherlands join forces in bringing you a single day event in the style of a true Google DevFest. This means interesting talks and hands-on labs, brought to you by national and international leaders using Google technology, in an informal setting, an inspirational environment with lots of room for open discussion and time to meet!"]
-  validFrom: "2014-08-20T10:00"
+  validFrom: "2014-09-01T10:00"
   validThrough: "2014-11-07T23:59"
 
 # Footer

@@ -61,3 +61,21 @@
  language: en
  complexity: "Intermediate"
  track: "cloud"
+-
+ id: 105
+ title: "Android TV - Google's second attempt to conquer the living room"
+ description: "In 2010, Google launched Google TV. A first attempt to bring Android to the TV. While there were several devices released, it was not really successful and supported by the industry. At Google I/O 2014 we saw the announcement of <a href='http://www.android.com/tv/'>Android TV</a> as part of the multi-screen strategy that comes with the <a href='http://developer.android.com/preview/index.html'>Android L</a> release. A new name, a different approach, a true second attempt to conquer the living room.<br/>In this talk, I will cover the differences between Google TV and Android TV, both from a UX and developer perspective. I will explain the steps required to make your apps ready for Google TV. An <a href='http://developer.android.com/preview/tv/adt-1/index.html'>ADT-1</a> device will be available for a live demonstration."
+ subtype: presentation
+ speakers: [5]
+ language: en
+ complexity: "Intermediate"
+ track: "android"
+-
+ id: 106
+ title: "Polymer Workshop"
+ description: "During the workshop we will work with <a href='http://www.google.com/design/'>Material design</a>'s responsive features​ available for <a href='https://www.polymer-project.org/'>Polymer​</a>, Paper widgets, ink effects, and more. Also learn about Polymer's data-binding features and callbacks​, core components, Vulcanize and WebComponents.​<ul><li>Getting set up(This workshop uses <a href='https://chrome.google.com/webstore/detail/chrome-dev-editor-develop/pnoffddplpippgcfjdhbmhkofpnaalpg?hl=en'>Chrome Dev Editor</a>, a Chrome app IDE build in Polymer​​).</li><li>Installing core element​​s</li><li>Building a responsive layout​​</li><li>Opening a drawer</li><li>Using Paper elements</li><li>Storing locally</li><li>Using control elements</li><li>Adding Paper effects</li><li>Using Vulcanize</li></ul>Prerequisites:<ul><li><a href='http://git-scm.com/'>Git</a></li><li><a href='http://bower.io/'>Bower​</a></li><li><a href='http://gruntjs.com/'>Grunt</a></li><li>Chrome Browser</li><li>Basic understanding of HTML, CSS, and web development</li><li>Understanding of <a href='http://www.w3schools.com/js/js_object_prototypes.asp'>JavaScript prototypes</a></li></ul>"
+ subtype: workshop
+ speakers: [7,6]
+ language: en
+ complexity: "Intermediate"
+ track: "web"

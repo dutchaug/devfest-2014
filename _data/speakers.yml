@@ -1,28 +1,4 @@
-#- 
-#  id: 3
-#  name: "Temp"
-#  surname: "Speaker"
-#  company: "the Netherlands"
-#  title: "GDG Organizer"
-#  bio: "Temp is here just temporary."
-#  thumbnailUrl: JohanPelgrim.jpg
-#  rockstar: true
-#  social: 
-#    - {name: "google-plus", link: "https://plus.google.com/+HugoVisser/"}
-#- 
-#  id: 4
-#  name: "Dmytro"
-#  surname: "Danylyk"
-#  company: "Lemberg Solutions Limited"
-#  title: "Android Developer"
-#  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-#  thumbnailUrl: DmytroDanylyk.jpg
-#  rockstar: true
-#  social: 
-#    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-#    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-#    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
+-
   id: 1
   name: "Eric"
   surname: "Lafortune"
@@ -55,7 +31,7 @@
  title: "Software Engineer on the Dart team"
  bio: '<p>My name is S&oslash;ren Gjesse and I am a software engineer working at Google in Aarhus Denmark. I work on the <a href="https://www.dartlang.org/">Dart</a> team and am responsible for our IO libraries and <a href="https://www.youtube.com/watch?v=UqolCJsvD_g">cloud integration</a>, including using Dart on App Engine. I have also worked on the Dart to JavaScript translator (dart2js). Before the Dart project I worked on the V8 JavaScript engine with my main focus on debugger support. I have been with Google for 7 years, and before that I have been working for a number of international and Danish companies as software engineer and senior consultant. These companies are: CSC, Systematic Software Engineering, TDC (Danish telecom). I hold a MSc in Computer Science from Aarhus University from 1986.</p>'
  thumbnailUrl: SorenGjesse.jpg
- rockstar: true
+ rockstar: false
  social:
    - {name: "site", link: "http://dartlang.org/"}
 -
@@ -66,9 +42,62 @@
  title: "Senior Software Architect"
  bio: "Ernest Micklei has 20+ years of experience in Software Design, Development and Architecture. At <a href='http://bol.com'>bol.com</a>, the largest e-commerce company of the Netherlands, he is responsible for the design and architecture of all internal and external Web Services. In addition, he is working with bol.com's operations staff to improve and investigate performance issues related to their Java-based applications and Services. He is currently active in High Performance Websites, REST services and NoSQL and is exited about <a href='http://golang.org/'>Google Go</a>. His contributions to the open-source community can be found at <a href='http://github.com/emicklei'>github.com/emicklei</a> and <a href='http://emicklei.googlecode.com'>emicklei.googlecode.com</a>. Ernest blogs at <a href='http://ernestmicklei.com'>ernestmicklei.com</a>."
  thumbnailUrl: ErnestMicklei.jpg
- rockstar: true
+ rockstar: false
  social:
    - {name: "google-plus", link: "https://plus.google.com/+ErnestMicklei"}
    - {name: "twitter", link: "https://twitter.com/ernestmicklei"}
    - {name: "site", link: "http://bol.com/"}
    - {name: "github", link: "https://github.com/emicklei"}
+-
+ id: 5
+ name: "Ronald"
+ surname: "Van Der Lingen"
+ company: "Layar"
+ title: "Research & Development Lead"
+ bio: "Ronald van der Lingen has been developing Android apps since the early days of the platform. As Research & Development lead at Layar he has been bringing Augmented Reality to smartphones and tablets. Besides his day job he has been working on several other Android apps. He is an early adaptor for everything Android related, including Google TV, Google Glass, Android Wear, and Android TV both as user and as developer."
+ thumbnailUrl: RonaldVanDerLingen.jpg
+ rockstar: true
+ social:
+   - {name: "google-plus", link: "https://plus.google.com/+RonaldVanDerLingen"}
+   - {name: "twitter", link: "https://twitter.com/lingen"}
+-
+ id: 6
+ name: "Dennis"
+ surname: "Geurts"
+ title: "Software Architect"
+ company: Luminis
+ thumbnailUrl: DennisGeurts.png
+ rockstar: false
+ bio: "Dennis Geurts is a software architect at <a href='http://www.luminis.eu'>Luminis</a>. He loves programming for mobile devices (mostly Android) but is also well-versed in OSGi and Java in general. He is also interested in noSQL (CouchDB/ Redis / Riak/ Cassandra) and Node.js. Dennis is also an organizer of <a href='http://www.dutchaug.org'>The Dutch Android User Group</a>, where Android professionals can meet and share knowledge with each other during monthly meetings."
+ social:
+   - {name: "google-plus", link: "https://plus.google.com/108236118232381198098"}
+   - {name: "twitter", link: "https://twitter.com/dennisgggg"}
+   - {name: "github", link: "https://github.com/dennisg"}
+-
+ id: 7
+ name: "Adolfo"
+ surname: "Benedetti"
+ title: "Software Engineer"
+ company: IProfs
+ thumbnailUrl: AdolfoBenedetti.jpg
+ rockstar: true
+ bio: "Open Source enthusiast and software passionate with 10+ years expertise in web development and Java enterprise solutions, currently exploring the IoT/Web of Things co-founding <a href='https://30mhz.com/'>30MHz</a>. Also an active member of <a href='http://www.gdgnl.org/' >The Google Developer Groups Netherlands</a>."
+ social:
+   - {name: "google-plus", link: "https://plus.google.com/+AdolfoBenedetti"}
+   - {name: "twitter", link: "https://twitter.com/adben"}
+   - {name: "site", link: "https://30mhz.com/"}
+#-
+# id:
+# name: ""
+# surname: ""
+# company: ""
+# title: ""
+# bio: ""
+# thumbnailUrl: .jpg
+# rockstar: true
+# social:
+#   - {name: "google-plus", link: "https://plus.google.com/+"}
+#   - {name: "twitter", link: "https://twitter.com/"}
+#   - {name: "site", link: "http://company.com/"}
+#   - {name: "github", link: "https://github.com/"}
+#   - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id="}
