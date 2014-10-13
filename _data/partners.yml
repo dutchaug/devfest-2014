@@ -9,7 +9,12 @@
   elements: 
     - {name: "Bol.com", description: "Bol.com", link: "https://banen.bol.com/vacatures/?search=true&filter-searchphrase=&filter-company-departments=it&selectItemfilter-company-departments=it", imageUrl: "bol-com.jpg"}
     - {name: "Triple IT", description: "Triple IT", link: "https://www.triple-it.nl/jobs", imageUrl: "triple-it.png"}
-- 
+-
+  group: "After Party Sponsor"
+  class: "gold"
+  elements:
+    - {name: "IceMobile", description: "IceMobile", link: "http://icemobile.com", imageUrl: "icemobile.png"}
+-
   group: "Silver Sponsors"
   class: "silver"
   elements: 
