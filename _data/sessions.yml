@@ -115,3 +115,21 @@
   language: English
   complexity: "Beginner"
   track: "Cloud & Other"
+-
+  id: 112
+  title: "AngularJS best practices and experiences"
+  description: "This session is about tricks, pitfalls and best practises in AngularJS in a few different fields such as debugging techniques, backend communication, code organisation and avoiding bad practices. This session is organised as a live coding session to show all the points in practical ways (and on a real working application). It will end up with a useful questions-answers part where everyone can ask a question about building their own AngularJS application."
+  subtype: presentation
+  speakers: [13]
+  language: English
+  complexity: "Intermediate"
+  track: "Web"
+#-
+#  id: 112
+#  title: ""
+#  description: ""
+#  subtype: presentation
+#  speakers: []
+#  language: English
+#  complexity: "Beginner"
+#  track: "Cloud & Other"
