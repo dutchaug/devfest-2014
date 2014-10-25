@@ -124,6 +124,15 @@
   language: English
   complexity: "Intermediate"
   track: "Web"
+-
+  id: 113
+  title: "Using Gradle for Android"
+  description: "Last year Google introduced a <a href='http://tools.android.com/tech-docs/new-build-system'>new build system for Android</a> apps: <a href='http://www.gradle.org/'>Gradle</a>, replacing Ant. Gradle is more powerful and much better documented. I will explain how to use the Android plugin for Gradle. Based on examples we will explore some of the powers of Gradle and how to improve your project setup resulting in better quality and more convenience."
+  subtype: presentation
+  speakers: [14]
+  language: English
+  complexity: "Intermediate"
+  track: "Mobile"
 #-
 #  id: 112
 #  title: ""

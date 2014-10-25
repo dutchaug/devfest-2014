@@ -159,12 +159,26 @@
  title: "Front-end Developer"
  bio: "Artem Golovin is 21 years old. But it’s not about his age, it’s all about his skills and desire to move forward. Born in Russia, he has moved to Finland to study Computer Science, successfully attended startup courses and founded his web-design agency. Later on, he got two internships in Amsterdam and decided to continue his way to web.<br/><br/>Currently, Artem is a front-end developer at <a href='http://www.goabout.com/'>GoAbout</a> and helps them to develop the best journey planner around Netherlands. He has a deep knowledge of AngularJS and other technologies related to web development. Artem is currently finishing his thesis about Automated End-to-End testing in Web applications."
  thumbnailUrl: ArtemGolovin.jpg
- rockstar: true
+ rockstar: false
  social:
    - {name: "google-plus", link: "https://plus.google.com/+ArtemGolovin"}
    - {name: "twitter", link: "https://twitter.com/artemgolovin"}
    - {name: "site", link: "http://www.goabout.com/"}
    - {name: "linkedin", link: "http://linkedin.com/in/artemgolovin"}
+-
+ id: 14
+ name: "Ioannis"
+ surname: "Panagiotopoulos"
+ company: "IceMobile"
+ title: "Tech Lead Android Development"
+ bio: "Ioannis is a software engineer currently working as a tech lead Android developer at <a href='http://icemobile.com/'>Icemobile</a> in Amsterdam. Ioannis is passionate about technology and coding. The last 4+ years he has been focussing on the Android ecosystem, building professional applications for international clients. In the past he has programmed in C/C++ for VoIP softswitches and has some experience with web, backend and iOS development."
+ thumbnailUrl:  IoannisPanagiotopoulos.jpg
+ rockstar: false
+ social:
+   - {name: "google-plus", link: "https://plus.google.com/+IoannisPanagiotopoulos"}
+   - {name: "twitter", link: "https://twitter.com/ioannispanag"}
+   - {name: "github", link: "https://github.com/ipanag"}
+   - {name: "linkedin", link: "https://www.linkedin.com/in/ipanag"}
 #-
 # id:
 # name: ""
