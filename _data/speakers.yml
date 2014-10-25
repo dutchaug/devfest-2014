@@ -94,7 +94,7 @@
  title: "Front-end engineer"
  bio: "Carmen is a front-end engineer at ING and the leading lady of the <a href='https://plus.google.com/communities/103800317107611206686'>Dutch AngularJS User Group</a>. She is a happy dev ever since she met Angular and is passionate about its community. She believes in constructive feedback and making the community better by helping others and hopes to one day make a difference for the web with the code she writes."
  thumbnailUrl: CarmenPopoviciu.jpg
- rockstar: true
+ rockstar: false
  social:
    - {name: "google-plus", link: "https://plus.google.com/118143942632321563925"}
    - {name: "twitter", link: "https://twitter.com/CarmenPopoviciu"}
@@ -107,11 +107,37 @@
  title: "All-round developer / CTO / Co-founder"
  bio: "Peter is an all-round developer and CTO / co-founder of <a href='http://egeniq.com/'>Egeniq</a>. He has over 4 year experience in Android development and worked on apps such as RTL Nieuws and Pathé Thuis. Peter joined the Google Glass Explorer program in June of 2014. "
  thumbnailUrl: PeterVerhage.jpg
- rockstar: true
+ rockstar: false
  social:
    - {name: "twitter", link: "https://twitter.com/petercv"}
    - {name: "site", link: "http://egeniq.com/"}
    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=18272767"}
+-
+ id: 10
+ name: "Mischa"
+ surname: "Dasberg"
+ company: "JPoint"
+ title: "Software Architect"
+ bio: "Mischa is a Software Architect at <a href='http://www.jpoint.nl/'>JPoint</a> with over 10 years of experience in Enterprise Java. He is an organiser of the <a href='https://plus.google.com/communities/103800317107611206686'>Dutch AngularJS User Group</a>."
+ thumbnailUrl: MischaDasberg.jpg
+ rockstar: true
+ social:
+   - {name: "google-plus", link: "https://plus.google.com/111302754471583092322"}
+   - {name: "twitter", link: "https://twitter.com/mdasberg"}
+   - {name: "site", link: "http://www.jpoint.nl/"}
+   - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=1518927"}
+-
+ id: 11
+ name: "Remco"
+ surname: "Vlierman"
+ company: "Freelance"
+ title: "Web Developer"
+ bio: "Remco is a freelance web developer with a passion for quality code and new technologies. He has 10 years experience with frontend development and has been riding the angular wave from early on."
+ thumbnailUrl: RemcoVlierman.jpg
+ rockstar: true
+ social:
+   - {name: "site", link: "http://ing.nl"}
+   - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=6663768"}
 #-
 # id:
 # name: ""
@@ -122,7 +148,7 @@
 # thumbnailUrl: .jpg
 # rockstar: true
 # social:
-#   - {name: "google-plus", link: "https://plus.google.com/+"}
+#   - {name: "google-plus", link: "https://plus.google.com/"}
 #   - {name: "twitter", link: "https://twitter.com/"}
 #   - {name: "site", link: "http://company.com/"}
 #   - {name: "github", link: "https://github.com/"}

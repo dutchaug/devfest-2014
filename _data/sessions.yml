@@ -97,3 +97,12 @@
   language: en
   complexity: "Beginner"
   track: "Cloud & Other"
+-
+  id: 110
+  title: "Enterprise scale AngularJS: Component library and Style guide"
+  description: "Every developer tends to reinvent the wheel over and over and over and over again. How do you prevent multiple implementations of the same functionality? How do you guarantee a uniform user experience (UX) across hundreds of pages and lots of different small web applications and 300 developers.<br/><br/>In this talk we will address our experiences in moving the biggest online banking website in the Netherlands from a traditional JSP based web application towards a SPA using <a href='https://angularjs.org/'>AngularJS</a>.<br/><br/>We will demonstrate how and why we have build a component library and style guide. On top of that we have build a documentation application which:<br/><br/>- Allows the UX-designer to rapidly make prototypes<br/>- Forces UX-designers to think of the big picture<br/>- Allows the developers to use ready made components and markup straight from UX<br/>- Tries to bridges the gap between outrages UX designs and technical limitations<br/><br/>Topics that will be addressed in this talk:<br/><br/>- Building and testing shared UX components with <i>AngularJS</i>, <i>Karma</i> and <i>Protractor</i><br/>- Testing shared CSS library components and markup with _Galen_<br/>- Demonstrate changeability of look and feel in live applications<br/>- Using _PageObjects_ to minimize impact"
+  subtype: presentation
+  speakers: [10,11]
+  language: en
+  complexity: "Advanced"
+  track: "Web"
