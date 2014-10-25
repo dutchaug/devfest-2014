@@ -115,24 +115,24 @@
   language: English
   complexity: "Beginner"
   track: "Cloud & Other"
--
-  id: 112
-  title: "AngularJS best practices and experiences"
-  description: "This session is about tricks, pitfalls and best practises in AngularJS in a few different fields such as debugging techniques, backend communication, code organisation and avoiding bad practices. This session is organised as a live coding session to show all the points in practical ways (and on a real working application). It will end up with a useful questions-answers part where everyone can ask a question about building their own AngularJS application."
-  subtype: presentation
-  speakers: [13]
-  language: English
-  complexity: "Intermediate"
-  track: "Web"
--
-  id: 113
-  title: "Using Gradle for Android"
-  description: "Last year Google introduced a <a href='http://tools.android.com/tech-docs/new-build-system'>new build system for Android</a> apps: <a href='http://www.gradle.org/'>Gradle</a>, replacing Ant. Gradle is more powerful and much better documented. I will explain how to use the Android plugin for Gradle. Based on examples we will explore some of the powers of Gradle and how to improve your project setup resulting in better quality and more convenience."
-  subtype: presentation
-  speakers: [14]
-  language: English
-  complexity: "Intermediate"
-  track: "Mobile"
+#-
+#  id: 112
+#  title: "AngularJS best practices and experiences"
+#  description: "This session is about tricks, pitfalls and best practises in AngularJS in a few different fields such as debugging techniques, backend communication, code organisation and avoiding bad practices. This session is organised as a live coding session to show all the points in practical ways (and on a real working application). It will end up with a useful questions-answers part where everyone can ask a question about building their own AngularJS application."
+#  subtype: presentation
+#  speakers: [13]
+#  language: English
+#  complexity: "Intermediate"
+#  track: "Web"
+#-
+#  id: 113
+#  title: "Using Gradle for Android"
+#  description: "Last year Google introduced a <a href='http://tools.android.com/tech-docs/new-build-system'>new build system for Android</a> apps: <a href='http://www.gradle.org/'>Gradle</a>, replacing Ant. Gradle is more powerful and much better documented. I will explain how to use the Android plugin for Gradle. Based on examples we will explore some of the powers of Gradle and how to improve your project setup resulting in better quality and more convenience."
+#  subtype: presentation
+#  speakers: [14]
+#  language: English
+#  complexity: "Intermediate"
+#  track: "Mobile"
 #-
 #  id: 112
 #  title: ""
