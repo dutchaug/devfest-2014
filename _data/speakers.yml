@@ -179,6 +179,32 @@
 #   - {name: "twitter", link: "https://twitter.com/ioannispanag"}
 #   - {name: "github", link: "https://github.com/ipanag"}
 #   - {name: "linkedin", link: "https://www.linkedin.com/in/ipanag"}
+-
+  id: 15
+  name: "Hugo"
+  surname: "Visser"
+  title: "Android Developer"
+  company: Little Robots
+  thumbnailUrl: HugoVisser.jpg
+  rockstar: false
+  bio: "Hugo has over 15 years of experience as a software engineer, ranging from server side to desktop and from web to mobile. Since the original announcement he closely follows the developments of the Android platform which resulted in his first app in 2009, Rainy Days, which has since been downloaded nearly 1.000.000 times worldwide. In 2014 he took the next step by starting his own company <a href='http://littlerobots.nl/'>Little Robots</a> that focuses on apps and other clever uses of the Android platform. Hugo is also an organizer of <a href='http://www.dutchaug.org'>The Dutch Android User Group</a>, where Android professionals can meet and share knowledge with each other during monthly meetings."
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+HugoVisser"}
+    - {name: "twitter", link: "https://twitter.com/botteaap"}
+    - {name: "site", link: "http://littlerobots.nl/"}
+-
+  id: 16
+  name: "Paul"
+  surname: "Lammertsma"
+  title: "Android Developer"
+  company: Pixplicity
+  thumbnailUrl: PaulLammertsma.jpg
+  rockstar: false
+  bio: "Paul stumbled his way into mobile technologies through studing mobile device interaction and his need to scratch an itch for entrepreneurship. Co-founding <a href='http://pixplicity.com/'>Pixplicity</a> in 2011, Paul has helped grow the company into a familiar name between Dutch app builders, with brands such as De Telegraaf, Consumentenbond and Mercedes-Benz. His passion for Android has always compelled him to share knowledge and keep up with the latest developments, for which he has always been an active memeber of the <a href='http://www.dutchaug.org'>The Dutch Android User Group</a>. He's since become one of the organizers of the GDG, and can frequently be seen giving 'as-technical-as-technically-possible' tech talks at conferences across Europe."
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+PaulLammertsma"}
+    - {name: "twitter", link: "https://twitter.com/officesunshine"}
+    - {name: "site", link: "http://pixplicity.com/"}
 #-
 # id:
 # name: ""

@@ -25,12 +25,17 @@
     - {
      	startTime: "",
      	endTime: "",
-     	sessionIds: [404,111,104,404]
+     	sessionIds: [404,111,104,114]
     }
     - {
      	startTime: "",
      	endTime: "",
      	sessionIds: [404,404,109,404]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "13:00",
+    	sessionIds: [004]
     }
     - {
     	startTime: "17:00",
