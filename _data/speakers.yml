@@ -130,14 +130,27 @@
  id: 11
  name: "Remco"
  surname: "Vlierman"
- company: "Freelance"
- title: "Web Developer"
+ company: "Freelancer"
+ title: "Freelance Web Developer"
  bio: "Remco is a freelance web developer with a passion for quality code and new technologies. He has 10 years experience with frontend development and has been riding the angular wave from early on."
  thumbnailUrl: RemcoVlierman.jpg
  rockstar: true
  social:
-   - {name: "site", link: "http://ing.nl"}
    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=6663768"}
+-
+ id: 12
+ name: "Frank"
+ surname: "Schr&ouml;der"
+ company: "eBay/Marktplaats"
+ title: "Lead Developer / Team Lead B2C Admarkt"
+ bio: "Frank Schr&ouml;der is a software engineer with 25+ years experience in developing software for desktop, mobile and client/server systems. He started his professional career at Netscape and is currently leading the <a href='http://admarkt.marktplaats.nl'>Admarkt</a> development team at <a href='http://www.marktplaats.nl'>eBay/Marktplaats</a> in Amsterdam.<br/><br/>Frank likes building and running distributed systems as well as optimizing the entire development cycle. In the last 2 years Go has become his favorite language because of its speed and simplicity.<br/><br/>His open source contributions are a couple of fixes for the Go thrift compiler and a <a href='http://github.com/magiconair/properties'>Go library for properties files</a>. Frank is currently working on taking Admarkt to the next level using Go as one of the main tools."
+ thumbnailUrl: FrankSchroeder.jpg
+ rockstar: true
+ social:
+   - {name: "google-plus", link: "https://plus.google.com/107945180404729331757"}
+   - {name: "twitter", link: "https://twitter.com/goleftcom"}
+   - {name: "github", link: "http://github.com/magiconair"}
+   - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=1331923"}
 #-
 # id:
 # name: ""

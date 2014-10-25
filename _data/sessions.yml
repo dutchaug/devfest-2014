@@ -106,3 +106,12 @@
   language: en
   complexity: "Advanced"
   track: "Web"
+-
+  id: 111
+  title: "1 year of Go @ eBay / Marktplaats"
+  description: "Marktplaats is running on a micro-services architecture written mainly in Java & Scala using continuous development and deployment. <a href='http://admarkt.marktplaats.nl/'>Admarkt</a> (Marktplaats' pay per click advertisement system) is built on the same technology stack was hitting scalability limits on all levels.<br/><br/>In this presentation I'm going to explain how I changed the development process to become more productive and what effect the introduction of <a href='http://golang.org'>Go</a> had on the team. Go helped us tackle dependency management and compile time issues. All new services are written in Go. Scala & Java services are rewritten in Go. Team members are advocating Go.<br/><br/>I will layout the methodology and toolbox we're using, how small and how big we've scaled with Go. While the rest of the company is moving forward with Scala we remain an island but I'm convinced that time is on our side."
+  subtype: presentation
+  speakers: [12]
+  language: en
+  complexity: "Beginner"
+  track: "Cloud & Other"
