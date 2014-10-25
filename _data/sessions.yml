@@ -23,7 +23,7 @@
 #  description: "Android wear extends the Android platform to a new generation of wearable devices. The user experience is designed specifically for wearables. In this session you'll see how to use the Android Wear SDK to build a connected cloud-powered application. Using Android Studio and it's cloud extensions, you'll see how to build an app that 'listens' for changes in stock prices, and notifies a wearable device. You���ll also see how to use voice controls on the device to trigger interactions with the app, such as buying or selling the stock after a notification. Call to action: Get the SDK and start building apps today!"
 #  subtype: presentation
 #  speakers: [4, 5]
-#  language: en
+#  language: English
 #  complexity: "Beginner"
 -
   id: 101
@@ -31,7 +31,7 @@
   description: "Apps are getting larger, pushed by ever increasing user expectations. Social media, maps, advertisements,... As a developer, you may add a few libraries, and before you know it, your app is exceeding the constraints of the Android platform. In this presentation, I will discuss the main problems and some solutions. ProGuard, the bytecode optimizer and obfuscator in the Android SDK, is an obvious first step. I will show some optimized configurations that can help you to reduce the size of common libraries. If ProGuard isn't sufficient, you may have to resort to more drastic techniques, such as dynamic class loading. I'll discuss some techniques and their implications. I'll also introduce the new dex splitting feature of our software DexGuard."
   subtype: presentation
   speakers: [1]
-  language: en
+  language: English
   complexity: "Intermediate"
   track: "Mobile"
 -
@@ -40,7 +40,7 @@
   description: "This is a live coding demo, adding an <a href='https://cloud.google.com/products/app-engine/'>AppEngine</a> backend to an existing Android Application. Highlights developer productivity features such as <a href='https://cloud.google.com/products/cloud-endpoints/'>Cloud Endpoints</a> to create both REST APIs on top of your backend, auto-generated native libraries for easy communicate between your Android app and Backend, and Gradle integration with <a href='https://developer.android.com/sdk/installing/studio.html'>Android Studio</a> and CloudPlatform."
   subtype: presentation
   speakers: [2]
-  language: en
+  language: English
   complexity: "Intermediate"
   track: "Cloud & Other"
 -
@@ -49,7 +49,7 @@
   description: "<a href='http://dartlang.org'>Dart</a> is a modern optionally typed language. It is best known for modern client-side web apps, but it has a compelling server-side story, too.<br/><br/>Dart's server-side framework has been developed from scratch and offers a scalable IO API with a unified asynchronous programming model. It is exactly what you expect from a modern framework: it is simple, fast, and easy to work with. Despite its simplicity its provides excellent performance, frequently outperforming other well-known frameworks. With the upcoming support for “async await” in Dart writing asynchronous code becomes much simpler.<br/><br/> Dart runs on <a href='https://cloud.google.com/appengine/'>Google App Engine</a>, has wide support for Google Services and is easy to deploy in a <a href='https://www.docker.com/'>Docker</a> container. This is all part of making Dart a great experience server-side.<br/><br/>Main topics of this talk:<ul><li>Structure of a Dart server application</li><li>Benefits of having the same language on both client and server</li><li>Why an async programming mode is a perfect fit for I/O</li><li>Scaling I/O in Dart using multiple threads</li><li>How to handle shared data in the Dart programming model</li><li>Accessing Google APIs from Dart</li><li>Running Dart on Google App Engine</li><li>Deploying a Dart application in a <a href='https://www.docker.com/'>Docker</a> container</li></ul>"
   subtype: presentation
   speakers: [3]
-  language: en
+  language: English
   complexity: "Intermediate"
   track: "Cloud & Other"
 -
@@ -58,7 +58,7 @@
   description: "<a href='http://golang.org'>Go</a> is a relatively young language but has great potential as a cross-platform, general purpose language to build high performance network services, text processing engines and infrastructure tools (e.g <a href='https://www.docker.com/'>Docker</a>). It has been getting a lot of attention since cloud companies are started to rely their business on it; Google being one of them.<br/><br/>This talk will introduce Go to developers with a Java background. With a collection of common problems, example solutions are discussed using the Go language. Finally, some code examples are given for which the Java counterpart would be more verbose and in some cases a lot complexer."
   subtype: presentation
   speakers: [4]
-  language: en
+  language: English
   complexity: "Intermediate"
   track: "Cloud & Other"
 -
@@ -67,7 +67,7 @@
   description: "In 2010, Google launched Google TV. A first attempt to bring Android to the TV. While there were several devices released, it was not really successful and supported by the industry. At Google I/O 2014 we saw the announcement of <a href='http://www.android.com/tv/'>Android TV</a> as part of the multi-screen strategy that comes with the <a href='http://developer.android.com/preview/index.html'>Android L</a> release. A new name, a different approach, a true second attempt to conquer the living room.<br/>In this talk, I will cover the differences between Google TV and Android TV, both from a UX and developer perspective. I will explain the steps required to make your apps ready for Google TV. An <a href='http://developer.android.com/preview/tv/adt-1/index.html'>ADT-1</a> device will be available for a live demonstration."
   subtype: presentation
   speakers: [5]
-  language: en
+  language: English
   complexity: "Intermediate"
   track: "Mobile"
 -
@@ -76,7 +76,7 @@
   description: "During the workshop we will work with <a href='http://www.google.com/design/'>Material design</a>'s responsive features​ available for <a href='https://www.polymer-project.org/'>Polymer​</a>, Paper widgets, ink effects, and more. Also learn about Polymer's data-binding features and callbacks​, core components, Vulcanize and WebComponents.​<ul><li>Getting set up(This workshop uses <a href='https://chrome.google.com/webstore/detail/chrome-dev-editor-develop/pnoffddplpippgcfjdhbmhkofpnaalpg?hl=en'>Chrome Dev Editor</a>, a Chrome app IDE build in Polymer​​).</li><li>Installing core element​​s</li><li>Building a responsive layout​​</li><li>Opening a drawer</li><li>Using Paper elements</li><li>Storing locally</li><li>Using control elements</li><li>Adding Paper effects</li><li>Using Vulcanize</li></ul>Prerequisites:<ul><li><a href='http://git-scm.com/'>Git</a></li><li><a href='http://bower.io/'>Bower​</a></li><li><a href='http://gruntjs.com/'>Grunt</a></li><li>Chrome Browser</li><li>Basic understanding of HTML, CSS, and web development</li><li>Understanding of <a href='http://www.w3schools.com/js/js_object_prototypes.asp'>JavaScript prototypes</a></li></ul>"
   subtype: workshop
   speakers: [7,6]
-  language: en
+  language: English
   complexity: "Intermediate"
   track: "Web"
 -
@@ -85,7 +85,7 @@
   description: "<a href='http://webcomponents.org/'>Web components</a> are an awesome new set of standards, that pave the way we think and build the web applications of the future.<br/>In this talk I would like to go over the basics of these standards and provide a better understanding of what they are, what makes them so great and how we can use them."
   subtype: presentation
   speakers: [8]
-  language: en
+  language: English
   complexity: "Beginner"
   track: "Web"
 -
@@ -94,7 +94,7 @@
   description: "Recently we built an open source Google Glass authentication application together with SURFnet, which allows a user to login to websites and/or other properties using just the Google Glass. The Glass stores the user's digital identity, and the user simply logs in by using the Glass to look at the login screen of a website (scanning a qr code on the screen).<br/>In this talk I will not just demo the application and show an innovative way to use Google Glass, but will also talk about the challenges we faced bringing this app to Google Glass, so it's a playful introduction into developing apps for Google Glass."
   subtype: presentation
   speakers: [9]
-  language: en
+  language: English
   complexity: "Beginner"
   track: "Cloud & Other"
 -
@@ -103,7 +103,7 @@
   description: "Every developer tends to reinvent the wheel over and over and over and over again. How do you prevent multiple implementations of the same functionality? How do you guarantee a uniform user experience (UX) across hundreds of pages and lots of different small web applications and 300 developers.<br/><br/>In this talk we will address our experiences in moving the biggest online banking website in the Netherlands from a traditional JSP based web application towards a SPA using <a href='https://angularjs.org/'>AngularJS</a>.<br/><br/>We will demonstrate how and why we have build a component library and style guide. On top of that we have build a documentation application which:<br/><br/>- Allows the UX-designer to rapidly make prototypes<br/>- Forces UX-designers to think of the big picture<br/>- Allows the developers to use ready made components and markup straight from UX<br/>- Tries to bridges the gap between outrages UX designs and technical limitations<br/><br/>Topics that will be addressed in this talk:<br/><br/>- Building and testing shared UX components with <i>AngularJS</i>, <i>Karma</i> and <i>Protractor</i><br/>- Testing shared CSS library components and markup with _Galen_<br/>- Demonstrate changeability of look and feel in live applications<br/>- Using _PageObjects_ to minimize impact"
   subtype: presentation
   speakers: [10,11]
-  language: en
+  language: English
   complexity: "Advanced"
   track: "Web"
 -
@@ -112,6 +112,6 @@
   description: "Marktplaats is running on a micro-services architecture written mainly in Java & Scala using continuous development and deployment. <a href='http://admarkt.marktplaats.nl/'>Admarkt</a> (Marktplaats' pay per click advertisement system) is built on the same technology stack was hitting scalability limits on all levels.<br/><br/>In this presentation I'm going to explain how I changed the development process to become more productive and what effect the introduction of <a href='http://golang.org'>Go</a> had on the team. Go helped us tackle dependency management and compile time issues. All new services are written in Go. Scala & Java services are rewritten in Go. Team members are advocating Go.<br/><br/>I will layout the methodology and toolbox we're using, how small and how big we've scaled with Go. While the rest of the company is moving forward with Scala we remain an island but I'm convinced that time is on our side."
   subtype: presentation
   speakers: [12]
-  language: en
+  language: English
   complexity: "Beginner"
   track: "Cloud & Other"
