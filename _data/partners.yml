@@ -18,7 +18,7 @@
   group: "Silver Sponsors"
   class: "silver"
   elements: 
-    - {name: "More info", description: "More info", link: "mailto:info@devfest.nl?subject=I am interested in sponsoring the GDG DevFest", imageUrl: "yourlogohere.png"}
+    - {name: "ING", description: "ING", link: "http://www.ing.jobs/Nederland/Vakgebieden/Informatie-Technologie.htm", imageUrl: "ING.png"}
 - 
   group: "Bronze Sponsors"
   class: "bronze"
