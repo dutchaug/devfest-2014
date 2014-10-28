@@ -41,3 +41,4 @@
     - {name: "Egeniq", description: "Egeniq", link: "http://egeniq.com", imageUrl: "egeniq.png"}
     - {name: "NL-JUG", description: "The Dutch Java User Group", link: "http://www.nljug.org/", imageUrl: "nljug.png"}
     - {name: "O'Reilly", description: "O'Reilly", link: "http://www.oreilly.com/", imageUrl: "oreilly.png"}
+    - {name: "Amsterdam eWeek", description: "Amsterdam eWeek", link: "http://amsterdameweek.nl/", imageUrl: "amsterdam-eweek.png"}
