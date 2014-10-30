@@ -217,6 +217,19 @@
  social:
    - {name: "google-plus", link: "https://google.com/+MandyWaite"}
    - {name: "twitter", link: "https://twitter.com/tekgrrl"}
+-
+ id: 18
+ name: "Martin"
+ surname: "Naumann"
+ company: "Centralway"
+ title: "Technical Leader R&D"
+ bio: "Martin is open source contributor and web evangelist by heart from Zurich with nearly a decade experience from the trenches of software engineering in multiple fields.<br/><br/>He spends his day moving the web forward, fixing problems, building applications and systems and breaking things for fun &amp; profit."
+ thumbnailUrl: MartinNaumann.jpg
+ rockstar: true
+ social:
+   - {name: "google-plus", link: "https://www.google.com/+MartinN1"}
+   - {name: "twitter", link: "https://twitter.com/g33konaut"}
+   - {name: "linkedin", link: "http://www.linkedin.com/in/martinnaumann1"}
 #- id:
 # name: ""
 # surname: ""

@@ -156,6 +156,15 @@
   language: English
   complexity: "Beginner"
   track: "Cloud & Other"
+-
+  id: 116
+  title: "Multiplayer games with Chromecast"
+  description: "Build engaging experiences using <a href='https://developers.google.com/cast/'>Google Chromecast</a> by leveraging the power of the web that Chromecast brings to your TV. This session shows how to use the Chromecast SDKs to build cross-platform multiplayer games for the living room. It covers the Chromecast Javascript SDK, Websockets and more."
+  subtype: presentation
+  speakers: [18]
+  language: English
+  complexity: "Beginner"
+  track: "Web"
 #-
 #  id: 112
 #  title: ""
