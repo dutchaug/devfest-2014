@@ -120,7 +120,7 @@
  title: "Software Architect"
  bio: "Mischa is a Software Architect at <a href='http://www.jpoint.nl/'>JPoint</a> with over 10 years of experience in Enterprise Java. He is an organiser of the <a href='https://plus.google.com/communities/103800317107611206686'>Dutch AngularJS User Group</a>."
  thumbnailUrl: MischaDasberg.jpg
- rockstar: true
+ rockstar: false
  social:
    - {name: "google-plus", link: "https://plus.google.com/111302754471583092322"}
    - {name: "twitter", link: "https://twitter.com/mdasberg"}
@@ -134,7 +134,7 @@
  title: "Freelance Web Developer"
  bio: "Remco is a freelance web developer with a passion for quality code and new technologies. He has 10 years experience with frontend development and has been riding the angular wave from early on."
  thumbnailUrl: RemcoVlierman.jpg
- rockstar: true
+ rockstar: false
  social:
    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=6663768"}
 -
@@ -145,40 +145,40 @@
  title: "Lead Developer / Team Lead B2C Admarkt"
  bio: "Frank Schr&ouml;der is a software engineer with 25+ years experience in developing software for desktop, mobile and client/server systems. He started his professional career at Netscape and is currently leading the <a href='http://admarkt.marktplaats.nl'>Admarkt</a> development team at <a href='http://www.marktplaats.nl'>eBay/Marktplaats</a> in Amsterdam.<br/><br/>Frank likes building and running distributed systems as well as optimizing the entire development cycle. In the last 2 years Go has become his favorite language because of its speed and simplicity.<br/><br/>His open source contributions are a couple of fixes for the Go thrift compiler and a <a href='http://github.com/magiconair/properties'>Go library for properties files</a>. Frank is currently working on taking Admarkt to the next level using Go as one of the main tools."
  thumbnailUrl: FrankSchroeder.jpg
- rockstar: true
+ rockstar: false
  social:
    - {name: "google-plus", link: "https://plus.google.com/107945180404729331757"}
    - {name: "twitter", link: "https://twitter.com/goleftcom"}
    - {name: "github", link: "http://github.com/magiconair"}
    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=1331923"}
-#-
-# id: 13
-# name: "Artem"
-# surname: "Golovin"
-# company: "GoAbout"
-# title: "Front-end Developer"
-# bio: "Artem Golovin is 21 years old. But it’s not about his age, it’s all about his skills and desire to move forward. Born in Russia, he has moved to Finland to study Computer Science, successfully attended startup courses and founded his web-design agency. Later on, he got two internships in Amsterdam and decided to continue his way to web.<br/><br/>Currently, Artem is a front-end developer at <a href='http://www.goabout.com/'>GoAbout</a> and helps them to develop the best journey planner around Netherlands. He has a deep knowledge of AngularJS and other technologies related to web development. Artem is currently finishing his thesis about Automated End-to-End testing in Web applications."
-# thumbnailUrl: ArtemGolovin.jpg
-# rockstar: false
-# social:
-#   - {name: "google-plus", link: "https://plus.google.com/+ArtemGolovin"}
-#   - {name: "twitter", link: "https://twitter.com/artemgolovin"}
-#   - {name: "site", link: "http://www.goabout.com/"}
-#   - {name: "linkedin", link: "http://linkedin.com/in/artemgolovin"}
-#-
-# id: 14
-# name: "Ioannis"
-# surname: "Panagiotopoulos"
-# company: "IceMobile"
-# title: "Tech Lead Android Development"
-# bio: "Ioannis is a software engineer currently working as a tech lead Android developer at <a href='http://icemobile.com/'>Icemobile</a> in Amsterdam. Ioannis is passionate about technology and coding. The last 4+ years he has been focussing on the Android ecosystem, building professional applications for international clients. In the past he has programmed in C/C++ for VoIP softswitches and has some experience with web, backend and iOS development."
-# thumbnailUrl:  IoannisPanagiotopoulos.jpg
-# rockstar: false
-# social:
-#   - {name: "google-plus", link: "https://plus.google.com/+IoannisPanagiotopoulos"}
-#   - {name: "twitter", link: "https://twitter.com/ioannispanag"}
-#   - {name: "github", link: "https://github.com/ipanag"}
-#   - {name: "linkedin", link: "https://www.linkedin.com/in/ipanag"}
+-
+ id: 13
+ name: "Artem"
+ surname: "Golovin"
+ company: "GoAbout"
+ title: "Front-end Developer"
+ bio: "Artem Golovin is 21 years old. But it’s not about his age, it’s all about his skills and desire to move forward. Born in Russia, he has moved to Finland to study Computer Science, successfully attended startup courses and founded his web-design agency. Later on, he got two internships in Amsterdam and decided to continue his way to web.<br/><br/>Currently, Artem is a front-end developer at <a href='http://www.goabout.com/'>GoAbout</a> and helps them to develop the best journey planner around Netherlands. He has a deep knowledge of AngularJS and other technologies related to web development. Artem is currently finishing his thesis about Automated End-to-End testing in Web applications."
+ thumbnailUrl: ArtemGolovin.jpg
+ rockstar: true
+ social:
+   - {name: "google-plus", link: "https://plus.google.com/+ArtemGolovin"}
+   - {name: "twitter", link: "https://twitter.com/artemgolovin"}
+   - {name: "site", link: "http://www.goabout.com/"}
+   - {name: "linkedin", link: "http://linkedin.com/in/artemgolovin"}
+-
+ id: 14
+ name: "Ioannis"
+ surname: "Panagiotopoulos"
+ company: "IceMobile"
+ title: "Tech Lead Android Development"
+ bio: "Ioannis is a software engineer currently working as a tech lead Android developer at <a href='http://icemobile.com/'>IceMobile</a> in Amsterdam. Ioannis is passionate about technology and coding. The last 4+ years he has been focussing on the Android ecosystem, building professional applications for international clients. In the past he has programmed in C/C++ for VoIP softswitches and has some experience with web, backend and iOS development."
+ thumbnailUrl:  IoannisPanagiotopoulos.jpg
+ rockstar: true
+ social:
+   - {name: "google-plus", link: "https://plus.google.com/+IoannisPanagiotopoulos"}
+   - {name: "twitter", link: "https://twitter.com/ioannispanag"}
+   - {name: "github", link: "https://github.com/ipanag"}
+   - {name: "linkedin", link: "https://www.linkedin.com/in/ipanag"}
 -
   id: 15
   name: "Hugo"
@@ -205,8 +205,19 @@
     - {name: "google-plus", link: "https://plus.google.com/+PaulLammertsma"}
     - {name: "twitter", link: "https://twitter.com/officesunshine"}
     - {name: "site", link: "http://pixplicity.com/"}
-#-
-# id:
+-
+ id: 17
+ name: "Mandy"
+ surname: "Waite"
+ company: "Google"
+ title: " Developer Advocate for Google Cloud Platform"
+ bio: "Mandy works at Google as a Developer Advocate for Google Cloud Platform and is working to make the world a better place for developers building applications for the Cloud. She came to Google from Sun Microsystems where she worked with partners on performance and optimisation of large scale applications and services before moving on to building an ecosystem of Open Source applications for OpenSolaris. In her spare time she is learning Japanese and plays the guitar."
+ thumbnailUrl: MandyWaite.jpg
+ rockstar: true
+ social:
+   - {name: "google-plus", link: "https://google.com/+MandyWaite"}
+   - {name: "twitter", link: "https://twitter.com/tekgrrl"}
+#- id:
 # name: ""
 # surname: ""
 # company: ""

@@ -120,24 +120,24 @@
   language: English
   complexity: "Beginner"
   track: "Cloud & Other"
-#-
-#  id: 112
-#  title: "AngularJS best practices and experiences"
-#  description: "This session is about tricks, pitfalls and best practises in AngularJS in a few different fields such as debugging techniques, backend communication, code organisation and avoiding bad practices. This session is organised as a live coding session to show all the points in practical ways (and on a real working application). It will end up with a useful questions-answers part where everyone can ask a question about building their own AngularJS application."
-#  subtype: presentation
-#  speakers: [13]
-#  language: English
-#  complexity: "Intermediate"
-#  track: "Web"
-#-
-#  id: 113
-#  title: "Using Gradle for Android"
-#  description: "Last year Google introduced a <a href='http://tools.android.com/tech-docs/new-build-system'>new build system for Android</a> apps: <a href='http://www.gradle.org/'>Gradle</a>, replacing Ant. Gradle is more powerful and much better documented. I will explain how to use the Android plugin for Gradle. Based on examples we will explore some of the powers of Gradle and how to improve your project setup resulting in better quality and more convenience."
-#  subtype: presentation
-#  speakers: [14]
-#  language: English
-#  complexity: "Intermediate"
-#  track: "Mobile"
+-
+  id: 112
+  title: "AngularJS best practices and experiences"
+  description: "This session is about tricks, pitfalls and best practises in AngularJS in a few different fields such as debugging techniques, backend communication, code organisation and avoiding bad practices. This session is organised as a live coding session to show all the points in practical ways (and on a real working application). It will end up with a useful questions-answers part where everyone can ask a question about building their own AngularJS application."
+  subtype: presentation
+  speakers: [13]
+  language: English
+  complexity: "Intermediate"
+  track: "Web"
+-
+  id: 113
+  title: "Using Gradle for Android"
+  description: "Last year Google introduced a <a href='http://tools.android.com/tech-docs/new-build-system'>new build system for Android</a> apps: <a href='http://www.gradle.org/'>Gradle</a>, replacing Ant. Gradle is more powerful and much better documented. I will explain how to use the Android plugin for Gradle. Based on examples we will explore some of the powers of Gradle and how to improve your project setup resulting in better quality and more convenience."
+  subtype: presentation
+  speakers: [14]
+  language: English
+  complexity: "Intermediate"
+  track: "Mobile"
 -
   id: 114
   title: "Android Wear Workshop"
@@ -147,6 +147,15 @@
   language: English
   complexity: "Intermediate"
   track: "Mobile"
+-
+  id: 115
+  title: "A Developers Guide to Containers in the Cloud"
+  description: "Everyone is talking about Containers, but mostly in the context of how they work and not why and when they are useful or how to apply them to your own often complex and unique Use Cases. We'll look at how Google Cloud Platform enables developers when it comes to building Cloud Native applications and we'll show how support for containers fits into the big picture and provide insight into the when, why and how of using them. We'll wrap up with a cool demo of the Kubernetes Container Scheduler."
+  subtype: presentation
+  speakers: [17]
+  language: English
+  complexity: "Beginner"
+  track: "Cloud & Other"
 #-
 #  id: 112
 #  title: ""
