@@ -43,4 +43,4 @@
     - {name: "O'Reilly", description: "O'Reilly", link: "http://www.oreilly.com/", imageUrl: "oreilly.png"}
     - {name: "Wiley", description: "Wiley", link: "http://wiley.com", imageUrl: "wiley.png"}
     - {name: "Amsterdam eWeek", description: "Amsterdam eWeek", link: "http://amsterdameweek.nl/", imageUrl: "amsterdam-eweek.png"}
-    - {name: "Archilogic", description: "Archilogic", link: "https://about.archilogic.com/", imageUrl: "archilogic.png"}
+    - {name: "Archilogic", description: "Archilogic", link: "https://about.archilogic.com/", imageUrl: "archilogic.jpg"}
