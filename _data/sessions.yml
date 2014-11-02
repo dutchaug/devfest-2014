@@ -1,13 +1,23 @@
 -
   id: 307
-  title: "Stay tuned for the final schedule..."
-  place: "Main Hall"
+  title: "Opening and Welcome"
+  place: "Catwoman"
   service: true
 -
   id: 004
   title: "Barcamp"
   place: "T.B.D."
   url: "/barcamp/"
+-
+  id: 005
+  title: "Lunch"
+  place: "Lunch area"
+  service: true
+-
+  id: 006
+  title: "Break"
+  place: "Lunch area"
+  service: true
 -
   id: 007
   title: "After Party"
@@ -77,7 +87,7 @@
   track: "Mobile"
 -
   id: 106
-  title: "Polymer Workshop"
+  title: "Polymer Workshop (Note runs for 2 hours until lunch!)"
   description: "During the workshop we will work with <a href='http://www.google.com/design/'>Material design</a>'s responsive features​ available for <a href='https://www.polymer-project.org/'>Polymer​</a>, Paper widgets, ink effects, and more. Also learn about Polymer's data-binding features and callbacks​, core components, Vulcanize and WebComponents.​<ul><li>Getting set up(This workshop uses <a href='https://chrome.google.com/webstore/detail/chrome-dev-editor-develop/pnoffddplpippgcfjdhbmhkofpnaalpg?hl=en'>Chrome Dev Editor</a>, a Chrome app IDE build in Polymer​​).</li><li>Installing core element​​s</li><li>Building a responsive layout​​</li><li>Opening a drawer</li><li>Using Paper elements</li><li>Storing locally</li><li>Using control elements</li><li>Adding Paper effects</li><li>Using Vulcanize</li></ul>Prerequisites:<ul><li><a href='http://git-scm.com/'>Git</a></li><li><a href='http://bower.io/'>Bower​</a></li><li><a href='http://gruntjs.com/'>Grunt</a></li><li>Chrome Browser</li><li>Basic understanding of HTML, CSS, and web development</li><li>Understanding of <a href='http://www.w3schools.com/js/js_object_prototypes.asp'>JavaScript prototypes</a></li></ul><br/><br/><a href='https://docs.google.com/forms/d/156xMyVQc7LnzyF5jOvywE_nWi-oKGBs_u_9syxOKVqc/viewform'><b>Important: Reserve your workshop seat by registering here!</b></a>"
   subtype: workshop
   speakers: [7,6]
@@ -140,7 +150,7 @@
   track: "Mobile"
 -
   id: 114
-  title: "Android Wear Workshop"
+  title: "Android Wear Workshop (Note runs for 2 hours until the break!)"
   description: "In this workshop, we'll get our hands dirty with the Android Wear SDK. No doubt that you've seen the LG G Watch, Samsung Gear Live and Motorola Moto 360, so surely you're excited to play with them! Dive into creating an Android Wear app, and learn how you can adapt your app to appear on these cool new devices!<br/><br/><b>Please note:</b> it's required that you bring your own Android device running Android 4.3 or higher. Not sure if your device supports Android Wear? Check: <a href='http://g.co/WearCheck'>http://g.co/WearCheck</a> on your device to find out. </span><span>If you cannot bring an Android Wear compatible device, check with a buddy that you can team up using his or hers.<br/><br/><b>Please note:</b> Some experience with Android is required. If you're familiar with setting up a project in <a href='https://developer.android.com/sdk/installing/studio.html'>Android Studio</a> and building an app with <a href='http://developer.android.com/guide/topics/ui/notifiers/notifications.html'>notifications</a>, you're ready to start working with Android Wear. Please install the latest Android SDK tools, platform-tools, build-tools and Android 4.4W (API 20) SDK at home, to avoid download-mania on-site!<br/><br/>During the course of this workshop we will make sure that there are plenty Android Wear devices available on site to develop and test with.<br/><br/>This is a guided workshop with prearranged material. Experienced Android developers are present to help you with the exercises or answer any questions you might have.<br/><br/><a href='https://docs.google.com/forms/d/156xMyVQc7LnzyF5jOvywE_nWi-oKGBs_u_9syxOKVqc/viewform'><b>Important: Reserve your workshop seat by registering here!</b></a>"
   subtype: workshop
   speakers: [15,16]
@@ -165,12 +175,48 @@
   language: English
   complexity: "Beginner"
   track: "Web"
-#-
-#  id: 112
-#  title: ""
-#  description: ""
-#  subtype: presentation
-#  speakers: []
-#  language: English
-#  complexity: "Beginner"
-#  track: "Cloud & Other"
+-
+  id: 117
+  title: "Hands On Compute Engine - NodeJs and ElasticSearch"
+  description: "In this hands-on session we'll dive into GCE (Google Compute Engine), the overall technical architecture, how Q42 uses GCE in their commercial projects and how GCE differs from platforms like Amazon.<br/><br/>After a snappy tech tour on GCE we will live-code a Nodejs and Elastic Search cluster on GCE and show how you do that, how it runs and how you can move forward on that, how to scale and manage it on GCE.<br/><br/>This session is interesting for people who want to know more or use GCE in their projects, who wants to know more about GCE architecture or who already use GCE and want to move forward with Elastic Search or Nodejs on GCE.<br/><br/>."
+  subtype: presentation
+  speakers: [19]
+  language: English
+  complexity: "Intermediate"
+  track: "Cloud & Other"
+-
+  id: 118
+  title: "Android Notifications"
+  description: "In this talk I'm going to introduce the changes around notifications in Android L.<br/><br/>Those changes start with a new design of notifications. Though some of those come automagically, you have to add information for other parts to get the best results.<br/><br/>Another change coming is the ability to present notifications on the lock screen. Obviously not everything should be visible there. Let's see how to keep private stuff private while still making use of this feature.<br/><br/>And finally there's the new ability to get the users immediate attention by using the new 'Heads-on notifications'<br/><br/>All this is guided by my firm believe that notifications should inform users but not annoy them!"
+  subtype: presentation
+  speakers: [20]
+  language: English
+  complexity: "Intermediate"
+  track: "Mobile"
+-
+  id: 119
+  title: "Designing Angular Components"
+  description: "Angular has influenced the way I work, a lot. During this talk, I will explain how I leverage Angular to componentize a frontend architecture. I will show you how working with components helps with automated testing (unit, e2e), and how it is also very suitable for rapid prototyping.<br/><br/>We'll also look at some changes that have happened in Angular over the past year (and why), changes that are going to happen with Angular 2.0, and how we can take inspiration from these to further improve our own architecture.<br/><br/>This session is aimed both at people who have no Angular experience yet and at those who have. I'll cover various features that Angular has to offer, but also throw in a lot of opinion and share some lessons that I have learned over the past few years."
+  subtype: presentation
+  speakers: [21]
+  language: English
+  complexity: "Advanced"
+  track: "Web"
+-
+  id: 120
+  title: "Content Providers"
+  description: "One of the main features Google broadcasted when they announced Android was that you could share data between apps. Fast forward a few years and we find that apps that expose their data are very rare. But even if your app doesn't expose data, there are still good reasons to use a content provider."
+  subtype: presentation
+  speakers: [22]
+  language: English
+  complexity: "Intermediate"
+  track: "Mobile"
+-
+  id: 121
+  title: "Fireside Chat"
+  description: "In this informal session we would like to sit by the virtual fireplace and give you the possibility to ask any question to various speakers on the fireside panel. If we are just staring at each other the moderator will put an extra woodblock on the fire by posing a taunting statement with the intention to heat up the discussion to a passionate debate."
+  subtype: presentation
+  speakers: [15,19,4,2,8]
+  language: English
+  complexity: "Beginner"
+  track: "Cloud & Other"

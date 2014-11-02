@@ -159,7 +159,7 @@
  title: "Front-end Developer"
  bio: "Artem Golovin is 21 years old. But it’s not about his age, it’s all about his skills and desire to move forward. Born in Russia, he has moved to Finland to study Computer Science, successfully attended startup courses and founded his web-design agency. Later on, he got two internships in Amsterdam and decided to continue his way to web.<br/><br/>Currently, Artem is a front-end developer at <a href='http://www.goabout.com/'>GoAbout</a> and helps them to develop the best journey planner around Netherlands. He has a deep knowledge of AngularJS and other technologies related to web development. Artem is currently finishing his thesis about Automated End-to-End testing in Web applications."
  thumbnailUrl: ArtemGolovin.jpg
- rockstar: true
+ rockstar: false
  social:
    - {name: "google-plus", link: "https://plus.google.com/+ArtemGolovin"}
    - {name: "twitter", link: "https://twitter.com/artemgolovin"}
@@ -173,7 +173,7 @@
  title: "Tech Lead Android Development"
  bio: "Ioannis is a software engineer currently working as a tech lead Android developer at <a href='http://icemobile.com/'>IceMobile</a> in Amsterdam. Ioannis is passionate about technology and coding. The last 4+ years he has been focussing on the Android ecosystem, building professional applications for international clients. In the past he has programmed in C/C++ for VoIP softswitches and has some experience with web, backend and iOS development."
  thumbnailUrl:  IoannisPanagiotopoulos.jpg
- rockstar: true
+ rockstar: false
  social:
    - {name: "google-plus", link: "https://plus.google.com/+IoannisPanagiotopoulos"}
    - {name: "twitter", link: "https://twitter.com/ioannispanag"}
@@ -213,7 +213,7 @@
  title: " Developer Advocate for Google Cloud Platform"
  bio: "Mandy works at Google as a Developer Advocate for Google Cloud Platform and is working to make the world a better place for developers building applications for the Cloud. She came to Google from Sun Microsystems where she worked with partners on performance and optimisation of large scale applications and services before moving on to building an ecosystem of Open Source applications for OpenSolaris. In her spare time she is learning Japanese and plays the guitar."
  thumbnailUrl: MandyWaite.jpg
- rockstar: true
+ rockstar: false
  social:
    - {name: "google-plus", link: "https://google.com/+MandyWaite"}
    - {name: "twitter", link: "https://twitter.com/tekgrrl"}
@@ -225,22 +225,60 @@
  title: "Software Engineer"
  bio: "Martin is open source contributor and web evangelist by heart from Zurich with nearly a decade experience from the trenches of software engineering in multiple fields.<br/><br/>He spends his day moving the web forward, fixing problems, building applications and systems and breaking things for fun &amp; profit."
  thumbnailUrl: MartinNaumann.jpg
- rockstar: true
+ rockstar: false
  social:
    - {name: "google-plus", link: "https://www.google.com/+MartinN1"}
    - {name: "twitter", link: "https://twitter.com/g33konaut"}
    - {name: "linkedin", link: "http://www.linkedin.com/in/martinnaumann1"}
-#- id:
-# name: ""
-# surname: ""
-# company: ""
-# title: ""
-# bio: ""
-# thumbnailUrl: .jpg
-# rockstar: true
-# social:
-#   - {name: "google-plus", link: "https://plus.google.com/"}
-#   - {name: "twitter", link: "https://twitter.com/"}
-#   - {name: "site", link: "http://company.com/"}
-#   - {name: "github", link: "https://github.com/"}
-#   - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id="}
+-
+ id: 19
+ name: "Kars"
+ surname: "Veling"
+ company: Q42
+ title: "CTO of Q42 and Google Developer Expert (GDE)"
+ bio: "<p>Kars Veling studied Computer Science and Business School at University Twente, and founded <a href='http://q42.nl'>Q42</a> in 2000.</p><p>Kars is currently CTO of Q42, which employs 50 engineers at the moment. He founded Q42 to create a company that would be cool and interesting enough for himself to work for (In that time, a lot of boring, accountant-steered companies were selling warm IT bodies to customers). Q42's tagline then was 'The User Friendly Internet' which is still standing strong today.</p><p>Kars is both a Software Engineer and a Business Engineer. He played key roles in -amongst others- the technical architecture for the Philips HUE Project, Staatsloterij, Schooltas and D-reizen.</p>"
+ thumbnailUrl: KarsVeling.jpg
+ rockstar: true
+ social:
+   - {name: "google-plus", link: "https://plus.google.com/+KarsVeling"}
+   - {name: "twitter", link: "https://twitter.com/karsveling"}
+   - {name: "site", link: "http://q42.nl/"}
+-
+ id: 20
+ name: "Wolfram"
+ surname: "Rittmeyer"
+ company: "OpenMinds"
+ title: "Software Engineer"
+ bio: "Senior software developer with extensive knowledge of Java EE-based technologies as well as of Android's APIs. Author of the blog <a href='http://www.grokkingandroid.com'>Grokking Android</a>. Speaker at various conferences throughout Europe."
+ thumbnailUrl: WolframRittmeyer.jpg
+ rockstar: true
+ social:
+   - {name: "google-plus", link: "https://plus.google.com/+WolframRittmeyer"}
+   - {name: "twitter", link: "https://twitter.com/RittmeyerW"}
+   - {name: "site", link: "http://www.grokkingandroid.com/"}
+   - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=25169354"}
+-
+ id: 21
+ name: "Maarten"
+ surname: "Verbaarschot"
+ company: "De Voorhoede"
+ title: "Front-end Developer"
+ bio: "Maarten Verbaarschot is a frontend developer at <a href='http://voorhoede.nl/'>De Voorhoede</a>. He specializes in frontend architecture, single page apps and AngularJS."
+ thumbnailUrl: MaartenVerbaarschot.jpg
+ rockstar: true
+ social:
+   - {name: "google-plus", link: "https://plus.google.com/117898593926559748909"}
+   - {name: "github", link: "https://github.com/mvbschot"}
+-
+ id: 22
+ name: "Jozua"
+ surname: "Sijsling"
+ company: "Freelance"
+ title: "Software Engineer"
+ bio: ""
+ thumbnailUrl: JozuaSijsling.jpg
+ rockstar: true
+ social:
+   - {name: "google-plus", link: "https://plus.google.com/+JozuaSijsling"}
+   - {name: "twitter", link: "https://twitter.com/JCSijsling"}
+   - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=62897966"}
