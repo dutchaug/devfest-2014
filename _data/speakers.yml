@@ -249,14 +249,14 @@
  surname: "Rittmeyer"
  company: "OpenMinds"
  title: "Software Engineer"
- bio: "Senior software developer with extensive knowledge of Java EE-based technologies as well as of Android's APIs. Author of the blog <a href='http://www.grokkingandroid.com'>Grokking Android</a>. Speaker at various conferences throughout Europe."
+ bio: "Wolfram's a longtime Java developer. He has dealt with all kind of Java development, including Applets (yes, someone had to be responsible for them) to frameworks for online sites of financial institutions in Germany.<br/><br/>Nowadays he's still working as a Java developer for financial institutions at day, but mutates to an Android developer at night.<br/><br/>He's occasionally writing blog posts on <a href='http://www.grokkingandroid.com/'>Grokking Android</a> and has published some sample apps highlighting points made in his blog posts.<br/><br/>He has been speaking twice at DAUG meetups already and loves to be part of this year's DevFest."
  thumbnailUrl: WolframRittmeyer.jpg
  rockstar: true
  social:
    - {name: "google-plus", link: "https://plus.google.com/+WolframRittmeyer"}
-   - {name: "twitter", link: "https://twitter.com/RittmeyerW"}
    - {name: "site", link: "http://www.grokkingandroid.com/"}
-   - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=25169354"}
+   - {name: "site", link: "http://countit-app.com/"}
+   - {name: "github", link: "http://github.com/writtmeyer"}
 -
  id: 21
  name: "Maarten"

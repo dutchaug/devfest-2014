@@ -87,7 +87,7 @@
   track: "Mobile"
 -
   id: 106
-  title: "Polymer Workshop (Note runs for 2 hours until lunch!)"
+  title: "Polymer Workshop (Note runs for 2 hours!)"
   description: "During the workshop we will work with <a href='http://www.google.com/design/'>Material design</a>'s responsive features​ available for <a href='https://www.polymer-project.org/'>Polymer​</a>, Paper widgets, ink effects, and more. Also learn about Polymer's data-binding features and callbacks​, core components, Vulcanize and WebComponents.​<ul><li>Getting set up(This workshop uses <a href='https://chrome.google.com/webstore/detail/chrome-dev-editor-develop/pnoffddplpippgcfjdhbmhkofpnaalpg?hl=en'>Chrome Dev Editor</a>, a Chrome app IDE build in Polymer​​).</li><li>Installing core element​​s</li><li>Building a responsive layout​​</li><li>Opening a drawer</li><li>Using Paper elements</li><li>Storing locally</li><li>Using control elements</li><li>Adding Paper effects</li><li>Using Vulcanize</li></ul>Prerequisites:<ul><li><a href='http://git-scm.com/'>Git</a></li><li><a href='http://bower.io/'>Bower​</a></li><li><a href='http://gruntjs.com/'>Grunt</a></li><li>Chrome Browser</li><li>Basic understanding of HTML, CSS, and web development</li><li>Understanding of <a href='http://www.w3schools.com/js/js_object_prototypes.asp'>JavaScript prototypes</a></li></ul><br/><br/><a href='https://docs.google.com/forms/d/156xMyVQc7LnzyF5jOvywE_nWi-oKGBs_u_9syxOKVqc/viewform'><b>Important: Reserve your workshop seat by registering here!</b></a>"
   subtype: workshop
   speakers: [7,6]
@@ -150,7 +150,7 @@
   track: "Mobile"
 -
   id: 114
-  title: "Android Wear Workshop (Note runs for 2 hours until the break!)"
+  title: "Android Wear Workshop (Note runs for 2 hours!)"
   description: "In this workshop, we'll get our hands dirty with the Android Wear SDK. No doubt that you've seen the LG G Watch, Samsung Gear Live and Motorola Moto 360, so surely you're excited to play with them! Dive into creating an Android Wear app, and learn how you can adapt your app to appear on these cool new devices!<br/><br/><b>Please note:</b> it's required that you bring your own Android device running Android 4.3 or higher. Not sure if your device supports Android Wear? Check: <a href='http://g.co/WearCheck'>http://g.co/WearCheck</a> on your device to find out. </span><span>If you cannot bring an Android Wear compatible device, check with a buddy that you can team up using his or hers.<br/><br/><b>Please note:</b> Some experience with Android is required. If you're familiar with setting up a project in <a href='https://developer.android.com/sdk/installing/studio.html'>Android Studio</a> and building an app with <a href='http://developer.android.com/guide/topics/ui/notifiers/notifications.html'>notifications</a>, you're ready to start working with Android Wear. Please install the latest Android SDK tools, platform-tools, build-tools and Android 4.4W (API 20) SDK at home, to avoid download-mania on-site!<br/><br/>During the course of this workshop we will make sure that there are plenty Android Wear devices available on site to develop and test with.<br/><br/>This is a guided workshop with prearranged material. Experienced Android developers are present to help you with the exercises or answer any questions you might have.<br/><br/><a href='https://docs.google.com/forms/d/156xMyVQc7LnzyF5jOvywE_nWi-oKGBs_u_9syxOKVqc/viewform'><b>Important: Reserve your workshop seat by registering here!</b></a>"
   subtype: workshop
   speakers: [15,16]
