@@ -1,0 +1,7 @@
+{
+    "sessions":[
+        {
+"photoUrl":"http://www.devfest.nl/img/speakers/AdolfoBenedetti.jpg","color":"#ffba02","speakers":["9964","9963"],"description":"During the workshop we will work with Material design's responsive features\u200b available for Polymer, paper widgets, ink effects, and more. Also learn about Polymer's data-binding features and callbacks\u200b, core components, Vulcanize and WebComponents.\u200b\r\n- Getting set up (This workshop uses Chrome Dev Editor).\r\n- Installing core element\u200b\u200bs\r\n- Building a responsive layout\u200b\u200b\r\n- Opening a drawer\r\n- Using Paper elements\r\n- Storing locally\r\n- Using control elements\r\n- Adding Paper effects\r\n- Using Vulcanize\r\n\r\nPrerequisites:\r\n- Bower\r\n- Grunt\r\n- Chrome Browser\r\n- Basic understanding of HTML, CSS, and web development\r\n- Understanding of JavaScript prototypes\r\n\r\n\r\nMore information can be found on <a href='http://itshackademic.com'>It's Hackademic<\/a>","id":"10001","isLivestream":false,"title":"Polymer Polytechnic","endTimestamp":"2014-11-08T11:30:00Z","url":"","startTimestamp":"2014-11-08T09:30:00Z","room":"ROOM69","tags":["TYPE_SESSION","THEME_1190"]}
+
+	}]
+}
