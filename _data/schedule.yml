@@ -2,10 +2,10 @@
   date: "2014-11-08"
   dateReadable: "November 8"
   tracks: 
-    - {title: "Mobile", color: "#90be4e"}
-    - {title: "Web", color: "#e91e63"}
-    - {title: "Cloud & Other", color: "#03a9f4"}
-    - {title: "Workshops", color: "#a64dff"}
+    - {title: "Catwoman", color: "#90be4e"}
+    - {title: "Spiderman", color: "#e91e63"}
+    - {title: "Thor", color: "#03a9f4"}
+    - {title: "School for the gifted", color: "#a64dff"}
   timeslots:
     - {
     	startTime: "10:00",
