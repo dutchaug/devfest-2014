@@ -8,44 +8,49 @@
     - {title: "Workshops", color: "#a64dff"}
   timeslots:
     - {
-    	startTime: "",
-    	endTime: "",
-    	sessionIds: [307]
+    	startTime: "10:00",
+    	endTime: "10:20",
+    	sessionIds: [307, 404, 404, 404]
     }
     - {
-     	startTime: "",
-     	endTime: "",
-     	sessionIds: [101,108,102,106]
+     	startTime: "10:30",
+     	endTime: "11:10",
+     	sessionIds: [102,112,104,106]
     }
     - {
-     	startTime: "",
-     	endTime: "",
-     	sessionIds: [105,110,103,404]
-    }
-    - {
-     	startTime: "",
-     	endTime: "",
-     	sessionIds: [113,111,104,114]
-    }
-    - {
-     	startTime: "",
-     	endTime: "",
-     	sessionIds: [404,112,109,404]
-    }
-    - {
-     	startTime: "",
-     	endTime: "",
-     	sessionIds: [404,116,115,404]
-    }
-    - {
-     	startTime: "",
-     	endTime: "",
-     	sessionIds: [404,404,404,404]
+     	startTime: "11:20",
+     	endTime: "12:00",
+     	sessionIds: [118,108,103,404]
     }
     - {
     	startTime: "12:00",
     	endTime: "13:00",
-    	sessionIds: [004]
+    	sessionIds: [005,004,404,404]
+    }
+    - {
+     	startTime: "13:00",
+     	endTime: "13:40",
+     	sessionIds: [101,110,115,114]
+    }
+    - {
+     	startTime: "13:50",
+     	endTime: "14:30",
+     	sessionIds: [109,119,117,404]
+    }
+    - {
+    	startTime: "14:30",
+    	endTime: "15:20",
+    	sessionIds: [006]
+    }
+    - {
+     	startTime: "15:20",
+     	endTime: "16:00",
+     	sessionIds: [113,116,111,404]
+    }
+    - {
+     	startTime: "16:10",
+     	endTime: "16:50",
+     	sessionIds: [120,105,121,404]
     }
     - {
     	startTime: "17:00",
