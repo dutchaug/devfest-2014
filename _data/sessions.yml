@@ -48,7 +48,7 @@
   speakers: [1]
   language: English
   complexity: "Intermediate"
-  track: "Mobile"
+  track: "Catwoman"
 -
   id: 102
   title: "Building Cloud Powered Mobile Applications"
@@ -57,7 +57,7 @@
   speakers: [2]
   language: English
   complexity: "Intermediate"
-  track: "Cloud & Other"
+  track: "Thor"
 -
   id: 103
   title: "Using Dart in the Cloud"
@@ -66,7 +66,7 @@
   speakers: [3]
   language: English
   complexity: "Intermediate"
-  track: "Cloud & Other"
+  track: "Thor"
 -
   id: 104
   title: "Go for Java developers"
@@ -75,7 +75,7 @@
   speakers: [4]
   language: English
   complexity: "Intermediate"
-  track: "Cloud & Other"
+  track: "Thor"
 -
   id: 105
   title: "Android TV - Google's second attempt to conquer the living room"
@@ -84,7 +84,7 @@
   speakers: [5]
   language: English
   complexity: "Intermediate"
-  track: "Mobile"
+  track: "Catwoman"
 -
   id: 106
   title: "Polymer Workshop (Note runs for 2 hours!)"
@@ -93,7 +93,7 @@
   speakers: [7,6]
   language: English
   complexity: "Intermediate"
-  track: "Web"
+  track: "School for the gifted"
 -
   id: 108
   title: "Introduction to web components"
@@ -102,7 +102,7 @@
   speakers: [8]
   language: English
   complexity: "Beginner"
-  track: "Web"
+  track: "Spiderman"
 -
   id: 109
   title: "Using Google Glass for Secure Access Control"
@@ -111,7 +111,7 @@
   speakers: [9]
   language: English
   complexity: "Beginner"
-  track: "Cloud & Other"
+  track: "Thor"
 -
   id: 110
   title: "Enterprise scale AngularJS: Component library and Style guide"
@@ -120,7 +120,7 @@
   speakers: [10,11]
   language: English
   complexity: "Advanced"
-  track: "Web"
+  track: "Spiderman"
 -
   id: 111
   title: "1 year of Go @ eBay / Marktplaats"
@@ -129,7 +129,7 @@
   speakers: [12]
   language: English
   complexity: "Beginner"
-  track: "Cloud & Other"
+  track: "Thor"
 -
   id: 112
   title: "AngularJS best practices and experiences"
@@ -138,7 +138,7 @@
   speakers: [13]
   language: English
   complexity: "Intermediate"
-  track: "Web"
+  track: "Spiderman"
 -
   id: 113
   title: "Using Gradle for Android"
@@ -147,7 +147,7 @@
   speakers: [14]
   language: English
   complexity: "Intermediate"
-  track: "Mobile"
+  track: "Catwoman"
 -
   id: 114
   title: "Android Wear Workshop (Note runs for 2 hours!)"
@@ -156,7 +156,7 @@
   speakers: [15,16]
   language: English
   complexity: "Intermediate"
-  track: "Mobile"
+  track: "School for the gifted"
 -
   id: 115
   title: "A Developers Guide to Containers in the Cloud"
@@ -165,7 +165,7 @@
   speakers: [17]
   language: English
   complexity: "Beginner"
-  track: "Cloud & Other"
+  track: "Thor"
 -
   id: 116
   title: "Multiplayer games with Chromecast"
@@ -174,7 +174,7 @@
   speakers: [18]
   language: English
   complexity: "Beginner"
-  track: "Web"
+  track: "Spiderman"
 -
   id: 117
   title: "Hands On Compute Engine - NodeJs and ElasticSearch"
@@ -183,7 +183,7 @@
   speakers: [19]
   language: English
   complexity: "Intermediate"
-  track: "Cloud & Other"
+  track: "Thor"
 -
   id: 118
   title: "Android Notifications"
@@ -192,7 +192,7 @@
   speakers: [20]
   language: English
   complexity: "Intermediate"
-  track: "Mobile"
+  track: "Catwoman"
 -
   id: 119
   title: "Designing Angular Components"
@@ -201,7 +201,7 @@
   speakers: [21]
   language: English
   complexity: "Advanced"
-  track: "Web"
+  track: "Spiderman"
 -
   id: 120
   title: "SQLite behind a Content Provider: tips & tricks"
@@ -210,7 +210,7 @@
   speakers: [22]
   language: English
   complexity: "Intermediate"
-  track: "Mobile"
+  track: "Catwoman"
 -
   id: 121
   title: "Fireside Chat"
@@ -219,4 +219,4 @@
   speakers: [15,19,4,2,8]
   language: English
   complexity: "Beginner"
-  track: "Cloud & Other"
+  track: "Thor"
