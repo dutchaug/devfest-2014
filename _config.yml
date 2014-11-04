@@ -150,7 +150,7 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "http://www.dutchaug.org/", text: "The Dutch Android User Group"}
-   - {link: "http://www.gdgnetherlands.org /", text: "Google Developer Groups Netherlands"}
+   - {link: "http://www.gdgnetherlands.org/", text: "Google Developer Groups Netherlands"}
    - {link: "https://developers.google.com/", text: "Google Developers"}
  -
   title: "Contact us"
