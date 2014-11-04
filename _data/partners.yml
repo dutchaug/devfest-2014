@@ -19,7 +19,8 @@
   class: "silver"
   elements: 
     - {name: "ING", description: "ING", link: "http://www.ing.jobs/Nederland/Vakgebieden/Informatie-Technologie.htm", imageUrl: "ING.png"}
-- 
+    - {name: "eBay Classifieds", description: "eBay Classifieds Group", link: "http://www.ebayclassifiedsgroup.com/careers.html", imageUrl: "ebayclassifieds.png"}
+-
   group: "Bronze Sponsors"
   class: "bronze"
   elements: 
