@@ -1,6 +1,6 @@
 {
     "format": "iosched-json-v1",
     "data_files": [
-        "sessionsv1.json", "roomsv1.json"
+        "sessionsv2.json", "roomsv1.json"
     ]
 }
