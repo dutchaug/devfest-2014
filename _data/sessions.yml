@@ -204,8 +204,8 @@
   track: "Web"
 -
   id: 120
-  title: "Content Providers"
-  description: "One of the main features Google broadcasted when they announced Android was that you could share data between apps. Fast forward a few years and we find that apps that expose their data are very rare. But even if your app doesn't expose data, there are still good reasons to use a content provider."
+  title: "SQLite behind a Content Provider: tips & tricks"
+  description: "The content provider does a great job at providing a data abstraction layer for your app. Abstracting your SQLite database behind a provider gives you a number of benefits that may make it appealing enough it to use it in all your apps. The developer documentation recommends to only use a content provider when you plan to expose data to other apps. Should you follow that recommendation? In this talk I will highlight key benefits that you can gain from using a content provider. I will show what a typical SQLite-based content provider implementation looks like. I'll also show how to deal with common issues like synchronizing with a rest-client, handling relations through foreign keys and implementing error handling through transactions and rollback."
   subtype: presentation
   speakers: [22]
   language: English
