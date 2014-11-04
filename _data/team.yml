@@ -38,7 +38,7 @@
   team: true
   bio: "Ernest Micklei holds the position of Senior Software Architect at <a href='http://bol.com'>bol.com</a> and has 20+ years of experience in Software Design, Development and Architecture. At bol.com, the largest e-commerce company of the Netherlands, he is responsible for the design and architecture of all internal and external Web Services. In addition, he is working with our operations staff to improve and investigate performance issues related to our Java-based applications and Services. He is currently active in High Performance Websites, REST services and NoSQL and is exited about <a href='http://golang.org/'>Google Go</a>. His contributions to the open-source community can be found at <a href='http://github.com/emicklei'>github.com/emicklei</a> and <a href='http://emicklei.googlecode.com'>emicklei.googlecode.com</a>. Ernest blogs at <a href='http://ernestmicklei.com'>ernestmicklei.com</a>."
   ribbon: 
-    - {abbr: "GDG", title: "GDG NL", url: "http://www.gdgnl.org/" }
+    - {abbr: "GDG", title: "GDG NL", url: "http://www.gdgnetherlands.org /" }
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+ErnestMicklei"}
     - {name: "twitter", link: "https://twitter.com/ernestmicklei"}
@@ -82,9 +82,9 @@
   company: 30MHz
   thumbnailUrl: AdolfoBenedetti.jpg
   team: true
-  bio: "Open Source enthusiast and software passionate with 10+ years expertise in web development and Java enterprise solutions, currently exploring the IoT/Web of Things co-founding <a href='https://30mhz.com/'>30MHz</a>. Also an active member of <a href='http://www.gdgnl.org/' >The Google Developer Groups Netherlands</a>."
+  bio: "Open Source enthusiast and software passionate with 10+ years expertise in web development and Java enterprise solutions, currently exploring the IoT/Web of Things co-founding <a href='https://30mhz.com/'>30MHz</a>. Also an active member of <a href='http://www.gdgnetherlands.org /' >The Google Developer Groups Netherlands</a>."
   ribbon: 
-    - {abbr: "GDG", title: "GDG NL", url: "http://www.gdgnl.org/" }
+    - {abbr: "GDG", title: "GDG NL", url: "http://www.gdgnetherlands.org /" }
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+AdolfoBenedetti"}
     - {name: "twitter", link: "https://twitter.com/adben"}
@@ -146,7 +146,7 @@ Gregor is already making himself familiar with Android L Material Design, feels 
   team: true
   bio: "<strong>Tagline</strong><br/>Huge fan of Google and Apple. Love Les Mills Bodypump, love to hang out with family and friends<br/><strong>Introduction</strong><br/>I'm the founder of a product called 'QAFE', it's a platform for creating web applications (see more on <a href='http://www.qafe.com'>http://www.qafe.com</a>). I really like technology and gadgets and I am huge fan of Google. Furthermore, I like hanging out with my wife and son. Also with the family of course. Love photography and watching movies/series. In the spare time I have left, I'm also certified group fitness instructor for <a href='http://www.lesmills.com/netherlands/bodypump/bodypump-group-fitness-class.aspx'>Les Mills BODYPUMP!</a>"
   ribbon: 
-    - {abbr: "GDG", title: "GDG NL", url: "http://www.gdgnl.org/" }
+    - {abbr: "GDG", title: "GDG NL", url: "http://www.gdgnetherlands.org /" }
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+RokeshJankie"}
     - {name: "twitter", link: "https://twitter.com/rjankie"}
