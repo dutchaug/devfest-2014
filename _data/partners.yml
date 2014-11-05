@@ -27,6 +27,7 @@
     - {name: "Luminis", description: "Luminis", link: "http://www.luminis.eu", imageUrl: "luminis.png"}
     - {name: "Qualogy", description: "Qualogy", link: "http://www.qualogy.com", imageUrl: "qualogy.png"}
     - {name: "QAFE", description: "QAFE", link: "http://www.qafe.com", imageUrl: "qafe.png"}
+    - {name: "Q42", description: "Q42", link: "http://q42.nl", imageUrl: "q42.png"}
 -
   group: "With support of"
   class: "bronze"
