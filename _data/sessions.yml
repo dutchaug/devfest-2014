@@ -23,6 +23,11 @@
   title: "After Party"
   place: "Caf&eacute; Maslow"
   url: "/afterparty/"
+-
+  id: 008
+  title: "Doors Open"
+  place: "Main Entrance"
+  service: true
 #-
 #  id: 503
 #  title: "Coming soon"
