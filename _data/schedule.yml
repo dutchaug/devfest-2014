@@ -8,6 +8,11 @@
     - {title: "School for the gifted", color: "#a64dff"}
   timeslots:
     - {
+    	startTime: "9:15",
+    	endTime: "",
+    	sessionIds: [008]
+    }
+    - {
     	startTime: "10:00",
     	endTime: "10:20",
     	sessionIds: [307, 404, 404, 404]
