@@ -207,6 +207,8 @@
   language: English
   complexity: "Advanced"
   track: "Spiderman"
+  slides: "https://docs.google.com/presentation/d/10JMK8fcnzocSxImIhck_rP7b766Jum6NoXXIHsWHEqM/edit?usp=sharing"
+  
 -
   id: 120
   title: "SQLite behind a Content Provider: tips & tricks"
