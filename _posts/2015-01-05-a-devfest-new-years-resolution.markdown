@@ -83,7 +83,8 @@ The favorite speakers were Matt Feigal, Eric Lafortune, Martin Nauman, Ronald va
 
 ####Survey results
 
-[The complete survey results can be found here](https://docs.google.com/spreadsheets/d/1Gl3hXEPLeeFq6v_WGDtf9a-4J041ft4OhsWeKATL9lY/edit?pli=1#gid=513896959)\.
+[The complete survey results can be found here](https://docs.google.com/spreadsheets/d/1Gl3hXEPLeeFq6v_WGDtf9a-4J041ft4OhsWeKATL9lY/edit?pli=1#gid=513896959)\.  
+[A nifty summary of the results can be found here.](https://docs.google.com/a/dutchaug.org/forms/d/1wwwOnYLH5W5mDPNtQ6Elut_FlTwgrHumtf71EZpszYE/viewanalytics#start=publishanalytics)
 
 We promised a Chromecast to one lucky participant! One has been picked and we'll announce it soon.
 
