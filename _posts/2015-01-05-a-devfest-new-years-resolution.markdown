@@ -81,6 +81,12 @@ Feedback about the relevancy to your projects was relatively low; we'll make sur
 
 The favorite speakers were Matt Feigal, Eric Lafortune, Martin Nauman, Ronald van der Lingen, Mischa Dasberg and Remco Vlierman.
 
+####Survey results
+
+[The complete survey results can be found here](https://docs.google.com/spreadsheets/d/1Gl3hXEPLeeFq6v_WGDtf9a-4J041ft4OhsWeKATL9lY/edit?pli=1#gid=513896959)\.
+
+We promised a Chromecast to one lucky participant! One has been picked and we'll announce it soon.
+
 ####Onward to 2015!
 
 > It was a fantastic experience!!
