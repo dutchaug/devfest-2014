@@ -14,4 +14,7 @@ _site/
 ### Sass ###
 .sass-cache
 
+### Windows crap ###
+Thumbs.db
+
 json/
