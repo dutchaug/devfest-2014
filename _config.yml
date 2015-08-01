@@ -9,7 +9,7 @@ title: GDG DevFest Netherlands
 email: info@devfest.nl
 description: "GDG DevFest Netherlands is part of a series of GDG DevFest events all around the world"
 baseurl: ""
-url: "http://www.devfest.nl"
+url: "http://2014.devfest.nl"
 permalink: /blog/:title
 #googleAnalyticsTrackingId: "UA-43643469-5"
 #googleAnalyticsSiteUrl: "dutchaug.github.io"
@@ -62,10 +62,10 @@ aboutBlock:
 
 # Statistic Block
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "9", specialCharacter: "+", info: "hours", detail: "of pure Google technologies and fun!"}
- - {count: "22", specialCharacter: "+", info: "speakers", detail: "national and international"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus two workshops"}
+ - {count: "500", specialCharacter: "", info: "attendees", detail: "from everywhere"}
+# - {count: "9", specialCharacter: "+", info: "hours", detail: "of pure Google technologies and fun!"}
+# - {count: "22", specialCharacter: "+", info: "speakers", detail: "national and international"}
+# - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus two workshops"}
 
 # Latest News Block
 latestNewsTitle: "Latest News"
